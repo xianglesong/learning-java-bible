@@ -14,6 +14,47 @@
 	9. 一个字：拆。
 	10. 256K is OK.
 
+## 目录
+
+1. 计算机基础知识
+	1. 编程语言
+	1. 数据结构和算法
+	1. 操作系统
+	1. 编译原理
+	1. 数据库
+	1. 计算机网络
+	1. 软件工程
+	1. CPU
+	1. 汇编语言
+	1. 数据仓库
+	1. 数据挖掘及人工智能
+	1. 图灵奖
+
+1. Java及JavaEE
+	1. Java
+	1. HTML&CSS
+	1. JavaScript
+	1. XML
+	1. JavaEE
+	1. 开发工具
+	1. Java库及框架等介绍
+	1. Linux
+
+1. 其他
+ 	1. 其他语言
+ 	1. 其他工具
+ 	1. 自动化测试及运维
+	1. 产品
+	1. 项目管理
+	1. 网络安全
+	1. 云平台
+	1. 其他
+
+1. 科学研究
+	1. 期刊杂志
+	2. 论文
+	3. 会议
+
 ## 计算机基础知识
 学习Java首先需要对计算机基础知识有比较好的理解。这个是未来能否走的更远、更好的关键。
 
@@ -162,7 +203,14 @@ If a relational system has a low-level (single-record-at-a-time) language, that 
 	1. DataStage
 
 1. ### 数据挖掘及人工智能
-	
+	1. 推荐系统
+	2. 深度学习
+
+1. ### 图灵奖
+	1. 图灵：计算机之父。
+	1. 历届图灵奖得主及贡献
+
+
 ## Java及JavaEE
 
 1. ### Java
@@ -239,10 +287,6 @@ If a relational system has a low-level (single-record-at-a-time) language, that 
 	1. 	SEO
 	2. 点石成金
 	3. 用户体验
-
-1. 图灵奖
-	1. 图灵：计算机之父。
-	1. 历届图灵奖得主及贡献
 
 
 1. ### HTML & CSS
