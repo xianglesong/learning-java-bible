@@ -3,16 +3,16 @@
 ### 科学家实验失败了，他知道为什么失败了；工程师实验成功了，他不知道为什么成功。
 
 ### 十大名言：
-	1. Talk is cheap，show me code.
-	2. 没有银弹。
-	3. 一开始就优化是万恶之源。
-	4. 重构到模式。
-	5. 源码面前了无秘密。
-	6. 用户为中心。
-	7. 不要重复发明轮子。
-	8. Hadoop 不是建造更大的牛。
+	1. Talk is cheap，show me code. -- Linus Torvalds(Linux创始人)
+	2. 源码面前了无秘密。-- 侯捷 《STL源码剖析》作者
+	3. 不要重复发明轮子。-- Rod Johnson(Spring Framework创始人)
+	4. 过早的优化是万恶之源。-- Donald Knuth(1974年图灵奖)
+	5. 用户为中心。
+	6. 没有银弹。-- Fred Brooks(1999年图灵奖)
+	7. 从重构到模式。-- Joshua Kerievsky(本书荣获2005年《软件开发》杂志图书通用类的效率大奖)
+	8. 当一头牛拉不动车时，很少有人去找一头更大更强壮的牛，而是找来更多的牛一起拉。 -- 《Hadoop权威指南》
 	9. 一个字：拆。
-	10. 256K is OK.
+	10. 256K is OK. -- Bill Gates
 
 ## 目录
 
@@ -38,22 +38,33 @@
 	1. JavaEE
 	1. 开发工具
 	1. Java库及框架等介绍
-	1. Linux
 
-1. 其他
- 	1. 其他语言
- 	1. 其他工具
- 	1. 自动化测试及运维
-	1. 产品
-	1. 项目管理
-	1. 网络安全
-	1. 云平台
-	1. 其他
+1. Linux
+	1. 	Linux命令
+	1. Shell
+	1. Vim
+	1. Linux源码
 
 1. 科学研究
 	1. 期刊杂志
 	2. 论文
 	3. 会议
+	
+1. 互联网产品架构管理
+	1. 项目管理
+	1. 产品
+	1. 自动化测试及运维 
+	1. 网络安全
+	1. 云平台
+	1. 其他语言
+	1. 其他工具
+	1. Mac工具
+	1. GitHub
+	1. 其他
+
+1. 关于我们
+	1. 我
+	2. 感谢
 
 ## 计算机基础知识
 学习Java首先需要对计算机基础知识有比较好的理解。这个是未来能否走的更远、更好的关键。
@@ -230,6 +241,10 @@ If a relational system has a low-level (single-record-at-a-time) language, that 
 		1. [图书] Effective java
 		1. [图书] Java规范
 		1. [图书] Java并发编程
+		1. [图书] Java性能调优
+		1. [图书] Jvm
+		1. [图书] [Java并发](https://github.com/xianglesong/learning-javas/blob/master/basic/Java并发.md)  Java并发包的使用是中高级程序员必须掌握的技能之一。
+
 
 	1. 面向对象软件设计
 		1. [图书]Java编程思想 此书和《C++编程思想》是同一作者，现有C++版，后有Java，写的非常适合入门学习。
@@ -239,54 +254,6 @@ If a relational system has a low-level (single-record-at-a-time) language, that 
 		1. [图书]面向对象程序分析和设计
 		1. [视频]设计模式有个微软的李建中视频，讲的非常到位，可以搜索看看。就是代码是C#的，但是思想是一样的，模式和语言无关。
 
-1. #### Linux
-	1. [图书]鸟哥的Linux私房菜:基础学习篇
-	
-	1. [图书]Linux命令行大全 从命令行学起，也是学习Linux的一个不错路径。
-	
-	1. VI
-		1. $输入$vimtutor en可以进入自带教程，好好学习，天天向上。
-		
-		1. [http://www.linfo.org/vi/index.html](http://www.linfo.org/vi/index.html)
-		
-		1. Emacs和VIM：神的编辑器和编辑器之神。
-	1. Shell
-		
-		1. [图书]Linux命令行与shell脚本编程大全
-		
-		1. [图书]Shell脚本学习指南
-		
-		1. [视频][Linux 入门基础（苏勇）](http://study.163.com/course/introduction/232007.htm)
-		
-		1. [视频][李明老师讲Linux（李明）](http://study.163.com/course/courseMain.htm)
-		
-		1. [视频][Linux视频教程（传智播客的韩顺平）](http://study.163.com/course/introduction/215011.htm)
-		
-		1. [视频][计算机专业导论](http://study.163.com/curricula/cs.htm)
-
-		1. [认证][LPI Linux认证权威指南]()
-		
-1. #### 其他语言
-	1. Python
-	1. JavaScript
-	1. Android
-	1. iOS
-	1. PHP
-	1. 其他
-		1. 编码的奥秘
-
-1. 产品
-	1. Axure
-	
-1. #### 项目管理
-	1. PMP
-	2. 敏捷开发
-	3. ISO认证
-	
-1. #### 其他
-	1. 	SEO
-	2. 点石成金
-	3. 用户体验
 
 
 1. ### HTML & CSS
@@ -460,11 +427,6 @@ JMS／JNDI／JTA／JACP／JAX-RPC／JCA／JMX／JACC／JavaMail／JAF／JTA／JT
 	
 	1. sonar
 		1. sonarcube
-	
-1. #### Java基础(Java Basic)
-
-	1. [Java并发](https://github.com/xianglesong/learning-javas/blob/master/basic/Java并发.md)  Java并发包的使用是中高级程序员必须掌握的技能之一。
-
 
 1. ### Java 库和框架等介绍
 
@@ -627,6 +589,92 @@ JMS／JNDI／JTA／JACP／JAX-RPC／JCA／JMX／JACC／JavaMail／JAF／JTA／JT
 	2. freemark
 	3. zookeeper（curator）
 
+## Linux
+Linux是Java程序员必须掌握的核心工具。
+
+1. ###  Linux基础
+	1. [图书]鸟哥的Linux私房菜:基础学习篇
+	
+	1. [图书]Linux命令行大全 从命令行学起，也是学习Linux的一个不错路径。
+	
+1. ### Shell
+	1. [图书]Linux命令行与shell脚本编程大全
+	
+	1. [图书]Shell脚本学习指南
+	
+	1. [视频][Linux 入门基础（苏勇）](http://study.163.com/course/introduction/232007.htm)
+	
+	1. [视频][李明老师讲Linux（李明）](http://study.163.com/course/courseMain.htm)
+	
+	1. [视频][Linux视频教程（传智播客的韩顺平）](http://study.163.com/course/introduction/215011.htm)
+	
+	1. [视频][计算机专业导论](http://study.163.com/curricula/cs.htm)
+
+	1. [认证][LPI Linux认证权威指南]()
+	
+1. ### Vim
+	1. VI
+		1. $输入$vimtutor en可以进入自带教程，好好学习，天天向上。
+		
+		1. [http://www.linfo.org/vi/index.html](http://www.linfo.org/vi/index.html)
+		
+		1. Emacs和VIM：神的编辑器和编辑器之神。
+
+1. ### Linux源码
+	1. [图书] 莱昂Unix
+
+## 科学研究
+能否独立研究解决问题。
+
+1. ### 期刊杂志
+
+	1. [电脑报](http://www.icpcw.com) 
+	
+	1. [ACM](https://www.acm.org/)
+
+	1. [IEEE](https://www.ieee.org/)
+
+1. ### 论文(Paper)
+	1. 搜索下载
+		1. [万方数据](http://www.wanfangdata.com.cn/index.html) 整合数亿条全球优质学术资源，集成期刊、学位、会议、科技报告、专利、视频等十余种资源类型，覆盖各研究层次，感知用户学术背景，智慧你的搜索。万方智搜致力于帮助用户精准发现、获取与沉淀学术精华。万方数据愿与合作伙伴共同打造知识服务的基石、共建学术生态。
+		
+		1. [中国知网](http://cnki.net) 中国知网知识发现网络平台—面向海内外读者提供中国学术文献、外文文献、学位论文、报纸、会议、年鉴、工具书等。
+		
+		1. [维普](http://cqvip.com)
+
+	1. 经典论文
+		1. AQS
+		1. HDFS
+		1. MapReduce
+		1. Zookeeper
+		1. CAP
+
+1. ### 会议(Meeting)
+	1. 自然语言处理
+
+## 相关推荐
+		
+1. #### 其他语言
+	1. Python
+	1. JavaScript
+	1. Android
+	1. iOS
+	1. PHP
+	1. 其他
+		1. 编码的奥秘
+
+1. 产品
+	1. Axure
+	
+1. #### 项目管理
+	1. PMP
+	2. 敏捷开发
+	3. ISO认证
+	
+1. #### 其他
+	1. 	SEO
+	2. 点石成金
+	3. 用户体验
 
 1. ### 其他工具
 
@@ -687,8 +735,6 @@ JMS／JNDI／JTA／JACP／JAX-RPC／JCA／JMX／JACC／JavaMail／JAF／JTA／JT
 	1. [interviews](https://github.com/kdn251/interviews)  Everything you need to know to get the job.
 
 
-
-
 1. ### 自动化测试及运维
 
 	1. [Selium](https://www.seleniumhq.org)  A browser automation framework and ecosystem. 
@@ -715,30 +761,6 @@ JMS／JNDI／JTA／JACP／JAX-RPC／JCA／JMX／JACC／JavaMail／JAF／JTA／JT
 	
 	1. [搬瓦工](http://banwagong.cn)
 	
-1. ### 期刊杂志
-
-	1. [电脑报](http://www.icpcw.com) 
-	
-	1. [ACM](https://www.acm.org/)
-
-	1. [IEEE](https://www.ieee.org/)
-
-1. ### 论文(Paper)
-	1. 搜索下载
-		1. [万方数据](http://www.wanfangdata.com.cn/index.html) 整合数亿条全球优质学术资源，集成期刊、学位、会议、科技报告、专利、视频等十余种资源类型，覆盖各研究层次，感知用户学术背景，智慧你的搜索。万方智搜致力于帮助用户精准发现、获取与沉淀学术精华。万方数据愿与合作伙伴共同打造知识服务的基石、共建学术生态。
-		
-		1. [中国知网](http://cnki.net) 中国知网知识发现网络平台—面向海内外读者提供中国学术文献、外文文献、学位论文、报纸、会议、年鉴、工具书等。
-		
-		1. [维普](http://cqvip.com)
-
-	1. 经典论文
-		1. AQS
-		1. HDFS
-		1. MapReduce
-		1. Zookeeper
-		1. CAP
-
-1. ### 会议(Meeting)
 
 1. ### 文档(Documents)
 	1. 缓存
@@ -906,6 +928,8 @@ JMS／JNDI／JTA／JACP／JAX-RPC／JCA／JMX／JACC／JavaMail／JAF／JTA／JT
 
 		1. [在线JSON校验格式化工具bejson](http://www.bejson.com/)
 
+## 关于我们
+
 1. ### 我的源码阅读、论文、项目及视频（仅供参考）
 	1. 源码阅读(Source Reading)
 	
@@ -962,9 +986,10 @@ JMS／JNDI／JTA／JACP／JAX-RPC／JCA／JMX／JACC／JavaMail／JAF／JTA／JT
 	1. #### `QQ群:` 557373922(申请加入，请告诉我从哪里看到的，谢谢！)
 	   1. 联系 rulinma#qq.com 替换#为@
 
-1. ### 参考文献
-
 1. ### 贡献
 	1. 欢迎大家Fork、Star和贡献。 
+
+
+
 
 
