@@ -50,7 +50,7 @@
 	2. 论文
 	3. 会议
 	
-1. 互联网产品架构管理
+1. 综合
 	1. 项目管理
 	1. 产品
 	1. 自动化测试及运维 
@@ -115,9 +115,13 @@
 
 1. ### 编译原理
 	1. [编译原理]() 编译原理的水平与程序员水平正相关，光会写程序，不能理解编译原理，是很难写出高水平程序的。龙书非常出名，谁学谁知道。工作后您可能会使用各种各样的语言，他们是如何工作和执行的，编译原理是不可或缺的重要一环。
+	
 	2. 自制编程语言
+	
 	3. 编译原理及实现
+	
 	4. [文章][编译原理学习基本步骤](http://blog.csdn.net/longronglin/article/details/5920957)
+	
 	5. [文章][编译原理解析](http://blog.csdn.net/longronglin/article/details/1109436) 如果把我上面的内容学好，可以说编译原理掌握的不错了。特别是我的内容是参考上面的清华大学孙悦红老师的课本做的，还得到了其支持。
 
 1. ### 数据库
@@ -201,9 +205,12 @@ If a relational system has a low-level (single-record-at-a-time) language, that 
 		
 1. ### 汇编语言
 	1. [汇编语言](http://product.dangdang.com/25178843.html) 王爽的这版，我觉得入门是最好的。写的浅显易懂，更深入的需要看别的图书。
+	
 	1. Intel Architecture Software Developer's Manual Volume1: Basic Architecture
-	2. Intel Architecture Software Developer's Manual Volume2:Instructions Set Reference 
-	3. Intel Architecture Software Developer's Manual Volume3:System Programming Guide
+	
+	1. Intel Architecture Software Developer's Manual Volume2:Instructions Set Reference 
+	
+	1. Intel Architecture Software Developer's Manual Volume3:System Programming Guide
 
 1. ### 数据仓库
 
@@ -211,16 +218,18 @@ If a relational system has a low-level (single-record-at-a-time) language, that 
 		1. [Talend](https://www.talend.com/resources/what-is-etl/)
 
 	1. Teradata
+	
 	1. DataStage
 
 1. ### 数据挖掘及人工智能
 	1. 推荐系统
-	2. 深度学习
+	
+	1. 深度学习
 
 1. ### 图灵奖
 	1. 图灵：计算机之父。
-	1. 历届图灵奖得主及贡献
 
+	1. 历届图灵奖得主及贡献
 
 ## Java及JavaEE
 
@@ -314,7 +323,9 @@ jQuery基础教程
 	1. [AngularJS](https://angularjs.org/) AngularJS is a JavaScript framework. 
 	 
 	1. [视频][李炎恢JavaScript教程 第一季](http://study.163.com/course/introduction/252008.htm)
+	
 	1. [视频][JavaScript（翁恺）](http://study.163.com/course/introduction/195001.htm)
+	
 	1. [视频][JavaScript面试题系列](http://study.163.com/course/introduction/742021.htm)
 	
 1. DashBoard
@@ -652,7 +663,7 @@ Linux是Java程序员必须掌握的核心工具。
 1. ### 会议(Meeting)
 	1. 自然语言处理
 
-## 相关推荐
+## 综合
 		
 1. #### 其他语言
 	1. Python
@@ -744,7 +755,6 @@ Linux是Java程序员必须掌握的核心工具。
 	1. CDN
 		1. 其实是域名劫持技术黑科技的好应用。 
 		1. [网宿科技](http://www.wangsu.com)
-		1. [七牛云](https://www.qiniu.com)
 
 	1. [JumpServer](http://www.jumpserver.org/) 是全球首款完全开源的堡垒机,使用GNU GPL v2.0开源协议,是符合 4A 的专业运维安全审计系统。
 	
@@ -761,10 +771,11 @@ Linux是Java程序员必须掌握的核心工具。
 	
 	1. [搬瓦工](http://banwagong.cn)
 	
-
+	1. [七牛](https://www.qiniu.com)
+	
 1. ### 文档(Documents)
 	1. 缓存
-		1. 缓存那些事 https://tech.meituan.com/cache_about.html
+		1. [缓存那些事](https://tech.meituan.com/cache_about.html)
 
 1. ### 标准规范
 
@@ -784,25 +795,37 @@ Linux是Java程序员必须掌握的核心工具。
 
 1. ### Mac工具
 
-   1. Alfred
-   2. Foxmail
-   3. wuderlist
-   4. sougou
-   5. evernote
-   6. xmind
-   7. filezilla
-   8. gns3
-   9. chromeiterm
-   10. luyten
-   11. wireshark
-   12. cleanmymac
-   13. resucetime
-   14. jetbeans 一套
-   15. staruml
-   16. skype
-   17. sketch
-   18. sequel pro
-   19. parall client
+   1. [Alfred](https://www.alfredapp.com) Alfred is a productivity application for Mac OS X.
+   
+   1. [iTerm2](https://www.iterm2.com) iTerm2 is a replacement for Terminal and the successor to iTerm.
+   
+   1. [Chrome](https://www.google.cn/chrome) 浏览器。
+   
+   1. [搜狗输入法](https://pinyin.sogou.com/mac) 输入法。
+
+   1. [Foxmail](https://www.foxmail.com) 邮箱管理。
+   
+   1. [EverNote](https://evernote.com/intl/zh-cn) 随时随地获取、整理、分享笔记，让灵感时刻与你同行。
+   
+   1. [XMind](https://www.xmind.net) 思维导图工具。
+   
+   1. [FileZilla](https://filezilla-project.org) The free FTP solution.
+   
+   1. [Jet Brains](http://www.jetbrains.com) JetBrains, creator of the leading Java IDE - IntelliJ IDEA - is a cutting-edge software vendor specializing in the creation of intelligent development tools.
+   
+   1. [Wireshark](https://www.wireshark.org) 网络封包分析软件。
+   
+   1. [CleanMyMac](https://cleanmymac.com) Your Mac. As good as new. Mac清理管理工具。
+   
+   1. [RescueTime](https://www.rescuetime.com) A personal analytics service that shows you how you spend your time and provides tools to help you be more productive. 时间花费跟踪工具。
+   
+   1. [StarUML](http://staruml.io) A sophisticated software modeler for agile and concise modeling.
+   
+   1. [Skype](https://web.skype.com) 是超清晰网络电话工具，电脑间通话永远免费，打国内国际固定/移动电话只需市话费。
+  
+   1. [Sequel Pro](http://www.sequelpro.com) Sequel Pro is a fast, easy-to-use Mac database management application for working with MySQL databases.
+   
+   1. [Parall Client](https://www.parallels.com/cn/products/ras/features/parallels-client) Parallels Client is an easy-to-install client software that provides access to your Parallels RAS installations.
 
 	1. [Dash](https://kapeli.com/dash)  快速访问API。(Dash gives your Mac instant offline access to 200+ API documentation sets.)
 	
@@ -814,15 +837,22 @@ Linux是Java程序员必须掌握的核心工具。
 	
 	1. [SourceTree](https://www.sourcetreeapp.com)  版本控制管理工具。(The friendly GUI for Mercurial and Git on your Mac.)
 	
-	1. [SnailSVN]  访问svn工具。
+	1. [SnailSVN](https://langui.net/snailsvn) 访问svn工具。
 	
-	1. [MacDown] MarkDown编写工具。
+	1. [MacDown](http://macdown.uranusjr.com) MarkDown编写工具。
 	
-	1. [Sublime Text](http://www.sublimetext.com)  免费的文本编辑工具。(A sophisticated text editor for code, markup and prose.)
-	
-	1. [iterm2](https://www.iterm2.com/index.html) 替换官方的terminal。(iTerm2 is a replacement for Terminal and the successor to iTerm.)
+	1. [Sublime Text](http://www.sublimetext.com)  免费的文本编辑工具。(A sophisticated text editor for code, markup and prose.)	
+	1. [Wunderlist: To-Do List & Tasks](https://www.wunderlist.com/zh) TODO工具。奇妙清单是完成工作的最简单方法。无论你是在安排度假、与伙伴分享购物清单，或是管理多个工作项目，奇妙清单会帮助你完成所有个人和职业待办事项。
 
-	1. [LaTeX](https://www.latex-project.org) LaTeX is a high-quality typesetting system.
+   1. [Luyten](https://github.com/deathmarine/Luyten) An Open Source Java Decompiler Gui for Procyon.
+   
+   1. [GNS3](https://www.gns3.com) The software that empowers network professionals.
+   
+   1. [Office](https://products.office.com/zh-cn/mac/microsoft-office-for-mac) 确是 Office，专为 Mac 打造。
+   
+   1. [LaTeX](https://www.latex-project.org) LaTeX is a high-quality typesetting system.
+   
+   1. [Postman](https://www.getpostman.com) Postman is the only complete API development environment, for API developers.
 
 1. ### 考试认证
 
@@ -840,7 +870,7 @@ Linux是Java程序员必须掌握的核心工具。
 			
 			1. 信息系统项目管理师  这个偏管理的，主要是论文会卡人，容易的考个中级的系统集成项目管理工程师就可以，这个不考论文。
 
-1. ### 图灵奖
+1. ### 名人
 	艾伦·麦席森·图灵（Alan Mathison Turing，1912年6月23日－1954年6月7日），英国数学家、逻辑学家，被称为计算机之父，人工智能之父。
 
 	1. Ken Thompson(肯·汤普森) 1969年，Bell实验室的Ken Thompson 写了第一个版本的操作系统，这时，这个操作系统还没有名字，这个操作系统是用DEC PDP-7 小型机的汇编语言写成。1970年，Thompson的操作系统命名为 Unics，全称是Uniplexed Information and Computing Service 这是一个 “被阉割了的微型的 Multics”。 （后来，这个名字被神秘地改成了Unix）
@@ -848,19 +878,23 @@ Linux是Java程序员必须掌握的核心工具。
 	2. Dennis M.Ritchie(丹尼斯·里奇) 丹尼斯·里奇，C语言之父，UNIX之父。丹尼斯·里奇与肯·汤普逊两人发展了C语言，同时发展了Unix操作系统。在电脑工业史上占有重要的席位。
 	
 	3. Donald Knuth(高德纳) 《计算机程序设计的艺术》系列，开始于他念博士期间，计划出七卷，第一卷《基本算法》于1968年出版，第二卷《半数字化算法》于1969年出版，第三卷《排序与搜索》于1973年出版，第四卷《组合算法》尚在写作之中。《计算机程序设计的艺术》一书以其内容的丰富和深刻喻为经典，有人甚至称之为“计算机的圣经”，被译为俄、日、西、葡、匈牙利、罗马尼亚等多种文字在世界各国广泛流传，其发行量创造了计算机类图书的最高记录，直至20世纪80年代中期，都一直保持着月销售量每卷达2000册的势头，成为Addison-Wesley出版社成立以来销路最好的图书。我国也由苏运霖翻译并出版了《计算机程序设计艺术》一书。
+	
 	4. James Gosling（詹姆斯·高斯林 ）詹姆斯·高斯林 （James Gosling，1955年5月19日－，出生于加拿大），软件专家，Java编程语言的共同创始人之一，一般公认他为“Java之父”。
+	
 	5. Tim Berners-Lee（蒂姆·伯纳斯-李）昵称为蒂姆·伯纳斯-李（Tim Berners-Lee），英国计算机科学家。他是万维网的发明者，麻省理工教授。1989年12月，蒂姆为他的发明正式定名为World Wide Web，即我们熟悉的WWW；1991年5月WWW在 Internet上首次露面，立即引起轰动，获得了极大的成功被广泛推广应用。
+	
 	6. 佛瑞德·布鲁克斯（Frederick P. Brooks, Jr.）曾任万国商用机器公司（即IBM公司或国际商务用机器公司）系统部主任，主持开发过OS/360等大型计算机用的操作系统软体。
+	
 	7. 阿达·奥古斯塔，19世纪英国诗人拜伦的女儿，数学家。穿孔机程序创始人，建立了循环和子程序概念。为计算程序拟定“算法”，写作的第一份“程序设计流程图”，被珍视为“第一个给计算机写程序的人”。
+	
 	8. 冯·诺伊曼对世界上第一台电子计算机ENIAC(电子数字积分计算机)的设计提出过建议，1945年3月他在共同讨论的基础上起草ENIAC(电子离散变量自动计算机)设计报告初稿，这对后来计算机的设计有决定性的影响，特别是确定计算机的结构，采用存储程序以及二进制编码等，至今仍为电子计算机设计者所遵循。
+	
 	9. Linus Benedict Torvalds （林纳斯·本纳第克特·托瓦兹）Software is like sex: it's better when it's free.
+	
 	10. Richard Matthew Stallman（理查德·马修·斯托曼）（生于1953年），自由软件运动的精神领袖、GNU（GNU IS NOT UNIX）计划以及自由软件基金会（Free Software Foundation）的创立者、著名黑客。他的主要成就包括Emacs及后来的GNU Emacs，GNU C 编译器及GNU 调试器。 他所写作的GNU通用公共许可证（GNU GPL）是世上最广为采用的自由软件许可证，为copyleft观念开拓出一条崭新的道路。
 
-
-
-
 1. ### 微信公众号
-1. ### 推荐网站(WebSite)
+1. ### 推荐
 	1. 源码学习
 		1. [github](https://github.com) 全球最大的程序员交友网，也说全球最大的同性交友网站^-^。
 
@@ -871,7 +905,7 @@ Linux是Java程序员必须掌握的核心工具。
 		1. [sourceforge](http://www.sourceforge.net) 很多开源库也放在这里，特别是没有github之前。
 	
 	1. Linux
-		1. http://linuxcommand.org
+		1. [http://linuxcommand.org](http://linuxcommand.org)
 		
 	1. 规范
 		1. [w3c](https://www.w3.org)
@@ -884,6 +918,7 @@ Linux是Java程序员必须掌握的核心工具。
 		1. [chinaunix](http://www.chinaunix.net) 中国最大的Linux/Unix技术社区网站
 
 		1. [博客园](https://www.cnblogs.com) 博客园是一个面向开发者的知识分享社区。
+		1. [http://www.iteye.com](http://www.iteye.com)
 	
 	1. 资料
 		1. [slideshare](https://www.slideshare.net)  技术ppt下载。
@@ -907,14 +942,16 @@ Linux是Java程序员必须掌握的核心工具。
 		
 		1. [YouTube](http://youtube.com)
 		
-		1. 吴恩达视频
+		1. [吴恩达机器学习](http://study.163.com/course/introduction/1004570029.htm)
 
-       1. 传智播客视频
+       1. [传智播客](http://www.itcast.cn)
 
-	1. 翻译
-		1. [Google翻译]()
+		1. [网易公开课的可汗学院](https://open.163.com/khan) khan讲的太好，牛人，佩服。
 		
-		1. [有道](http://youdao.com/)
+	1. 翻译
+		1. [Google翻译](https://translate.google.cn)
+		
+		1. [有道](http://youdao.com)
 		
 	1. 名人
 		1. 李刚 我是买过[疯狂Android讲义](http://product.dangdang.com/23699102.html)，感觉挺适合新手入门的，推荐一下。
@@ -960,18 +997,20 @@ Linux是Java程序员必须掌握的核心工具。
 		
 		1. [Netty] (https://netty.io) 看过DEMO，没仔细研究过。
 	
-		1. Linux(Minix) 我的终结结论就是一句话，就是一切都是逻辑。
+		1. [Linux](https://www.linux.org) 我的终结结论就是一句话，就是一切都是逻辑。
 		
 	2. 论文
-		1. [一种哈希表快速查找的改进方法]()
+		1. [一种哈希表快速查找的改进方法](http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=jsjgcykx200809021)
 		
-		2. [基于贝叶斯方法和信息指纹的博客评论过滤]()
+		2. [基于贝叶斯方法和信息指纹的博客评论过滤](http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=jsjgcyyy200824048)
 		 
 	3. 项目
-		1. [github xianglesong](https://github.com/xianglesong)
+		1. GitHub地址：[https://github.com/xianglesong](https://github.com/xianglesong)
 		 
 	4. 视频
-		1. [网易云课堂课程](http://study.163.com/provider/825396/course.htm)
+		1. [享乐颂网易云课堂课程](http://study.163.com/provider/825396/course.htm)
+		
+		1. [Java宝典--实战及解析](http://study.163.com/course/courseMain.htm?courseId=1005801006) 特别推荐，本文配套更新视频讲解及资料等。
 
 1. ### 特别推荐
 
