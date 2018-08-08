@@ -218,9 +218,9 @@ If a relational system has a low-level (single-record-at-a-time) language, that 
 	1. ETL
 		1. [Talend](https://www.talend.com/resources/what-is-etl/)
 
-	1. Teradata
+	1. [Teradata](https://www.teradata.com.cn)
 	
-	1. DataStage
+	1. [DataStage](https://www.ibm.com/us-en/marketplace/datastage) Delivers advanced enterprise ETL.
 
 1. ### 数据挖掘及人工智能
 	1. 推荐系统
@@ -228,9 +228,9 @@ If a relational system has a low-level (single-record-at-a-time) language, that 
 	1. 深度学习
 
 1. ### 图灵奖
-	1. 图灵：计算机之父。
-
-	1. 历届图灵奖得主及贡献
+	1. 图灵：计算机之父。艾伦·麦席森·图灵（Alan Mathison Turing，1912年6月23日－1954年6月7日），英国数学家、逻辑学家，被称为计算机之父，人工智能之父。
+	
+	1. [历届图灵奖得主及贡献](https://amturing.acm.org)
 
 ## Java及JavaEE
 
