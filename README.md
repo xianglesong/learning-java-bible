@@ -111,21 +111,20 @@
 	
 1. ### 编译原理
 	1. [图书][编译原理](http://product.dangdang.com/20427584.html) 编译原理的水平与程序员水平正相关，光会写程序，不能理解编译原理，是很难写出高水平程序的。龙书非常出名，谁学谁知道。工作后您可能会使用各种各样的语言，他们是如何工作和执行的，编译原理是不可或缺的重要一环。
-	2. [图书][自制编程语言](http://product.dangdang.com/23363722.html)
-	3. [图书][编译原理及实现](http://product.dangdang.com/23781751.html) 这本书个人时强热推荐的，我读研期间重新做编译器，主要参考此书，非常好。
-	4. [文章][编译原理学习基本步骤](http://blog.csdn.net/longronglin/article/details/5920957)
-	5. [文章][编译原理解析](http://blog.csdn.net/longronglin/article/details/1109436) 如果把我上面的内容学好，可以说编译原理掌握的不错了。特别是我的内容是参考上面的清华大学孙悦红老师的课本做的，还得到了其支持。
+	1. [图书][自制编程语言](http://product.dangdang.com/23363722.html)
+	1. [图书][编译原理及实现](http://product.dangdang.com/23781751.html) 这本书个人时强热推荐的，我读研期间重新做编译器，主要参考此书，非常好。
+	1. [文章][编译原理学习基本步骤](http://blog.csdn.net/longronglin/article/details/5920957)
+	1. [文章][编译原理解析](http://blog.csdn.net/longronglin/article/details/1109436) 如果把我上面的内容学好，可以说编译原理掌握的不错了。特别是我的内容是参考上面的清华大学孙悦红老师的课本做的，还得到了其支持。
 
 1. ### 数据库
 	1. 关系数据库
 		1. [图书]Transact-SQL权威指南 经典，没有图书卖了。
-		2. [图书][Head First SQL](http://product.dangdang.com/21040398.html)
-		3. [图书][Teach Yourself SQL in 21 Days]()
-		4. [图书][SQL必知必会(第3版)]()
-		2. [图书][SQL教程（杨中科）](http://study.163.com/course/introduction/215012.htm#/courseDetail) 使用微软SQL Server讲解的。
-		3. [图书][MySQL数据库（高洛峰）](http://study.163.com/course/introduction/247003.htm#/courseDetail)
-		4. [视频][尚学堂马士兵Oracle视频教程](http://study.163.com/course/introduction/344012.htm#/courseDetail)
-	
+		1. [图书][Head First SQL](http://product.dangdang.com/21040398.html)
+		1. [图书][Teach Yourself SQL in 21 Days](http://product.dangdang.com/1244621523.html)
+		1. [图书][SQL必知必会(第3版)](http://product.dangdang.com/23246707.html)
+		1. [图书][SQL教程（杨中科）](http://study.163.com/course/introduction/215012.htm#/courseDetail) 使用微软SQL Server讲解的。
+		1. [图书][MySQL数据库（高洛峰）](http://study.163.com/course/introduction/247003.htm#/courseDetail)
+		1. [视频][尚学堂马士兵Oracle视频教程](http://study.163.com/course/introduction/344012.htm#/courseDetail)
 		1. Codd 12 Rules
 			1. Rule 0: The Foundation rule:
 For any system that is advertised as, or claimed to be, a relational data base management system, that system must be able to manage data bases entirely through its relational capabilities.
@@ -159,68 +158,58 @@ Integrity constraints specific to a particular relational data base must be defi
 A relational DBMS has distribution independence.
 			1. Rule 12: The nonsubversion rule:
 If a relational system has a low-level (single-record-at-a-time) language, that low level cannot be used to subvert or bypass the integrity rules and constraints expressed in the higher level relational language (multiple-records-at-a-time).
-	
 	1. CAP理论
-		1. 又称CAP定理，指的是在一个分布式系统中， Consistency（一致性）、 Availability（可用性）、Partition tolerance（分区容错性），三者不可得兼。	
+		1. 又称CAP定理，指的是在一个分布式系统中， Consistency（一致性）、 Availability（可用性）、Partition tolerance（分区容错性），三者不可得兼。
 			1. 理论首先把分布式系统中的三个特性进行了如下归纳：
 				1. 一致性（C）：在分布式系统中的所有数据备份，在同一时刻是否同样的值。（等同于所有节点访问同一份最新的数据副本）
 				1. 可用性（A）：在集群中一部分节点故障后，集群整体是否还能响应客户端的读写请求。（对数据更新具备高可用性）
 				1. 分区容错性（P）：以实际效果而言，分区相当于对通信的时限要求。系统如果不能在时限内达成数据一致性，就意味着发生了分区的情况，必须就当前操作在C和A之间做出选择。
-
 	1. NOSQL
 		1. MongoDB
-			1. [图书]MongoDB权威指南
+			1. [图书][MongoDB权威指南]()
 		2. HBase
-			1. [图书]HBase权威指南
+			1. [图书][HBase权威指南]()
 		3. Cassandra
-			1. [图书]Cassandra权威指南
+			1. [图书][Cassandra权威指南]()
 
 1. ### 计算机网络
 	1. [图书][计算机网络自顶向下方法]()
 	1. [图书][TCP/IP详解卷1:协议]()
 	1. [图书][图解TCP/IP]()
-	1. [图书][图解HTTP]
+	1. [图书][图解HTTP]()
 	1. [视频][计算机网络技术与应用](http://study.163.com/course/courseMain.htm?courseId=1255007)
 	2. [文章][从输入 URL 到页面加载完成的过程中都发生了什么事情？](http://fex.baidu.com/blog/2014/05/what-happen)
 	3. [考证]CCNA学习指南
 
 1. ### 软件工程
-	1. [图书]软件工程
-	1. [图书]代码大全
-	1. [图书]人月神话
-	1. [图书]敏捷软件开发(原则模式与实践)
-	1. [图书]重构
-	1. [图书]软件测试
+	1. [图书][软件工程]()
+	1. [图书][代码大全]()
+	1. [图书][人月神话]()
+	1. [图书][敏捷软件开发(原则模式与实践)]()
+	1. [图书][重构]()
+	1. [图书][软件测试]()
 	
 1. ### CPU
 	1. [文章][CISC模型微处理器设计（VHDL实现）](https://blog.csdn.net/longronglin/article/details/1055388) 
 		
 1. ### 汇编语言
 	1. [图书][汇编语言](http://product.dangdang.com/25178843.html) 王爽的这版，我觉得入门是最好的。写的浅显易懂，更深入的需要看别的图书。
-	
-	1. [文章]Intel Architecture Software Developer's Manual Volume1: Basic Architecture
-	
-	1. [文章]Intel Architecture Software Developer's Manual Volume2:Instructions Set Reference 
-	
-	1. [文章]Intel Architecture Software Developer's Manual Volume3:System Programming Guide
+	1. [资料]Intel Architecture Software Developer's Manual Volume1: Basic Architecture
+	1. [资料]Intel Architecture Software Developer's Manual Volume2:Instructions Set Reference 
+	1. [资料]Intel Architecture Software Developer's Manual Volume3:System Programming Guide
 
 1. ### 数据仓库
-
 	1. ETL
 		1. [Talend](https://www.talend.com/resources/what-is-etl/)
-
 	1. [Teradata](https://www.teradata.com.cn)
-	
 	1. [DataStage](https://www.ibm.com/us-en/marketplace/datastage) Delivers advanced enterprise ETL.
 
 1. ### 数据挖掘及人工智能
 	1. 推荐系统
-	
 	1. 深度学习
 
 1. ### 图灵奖
 	1. 图灵：计算机之父。艾伦·麦席森·图灵（Alan Mathison Turing，1912年6月23日－1954年6月7日），英国数学家、逻辑学家，被称为计算机之父，人工智能之父。
-	
 	1. [历届图灵奖得主及贡献](https://amturing.acm.org)
 
 ## Java及JavaEE
