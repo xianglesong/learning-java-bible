@@ -72,68 +72,59 @@
 
 1. ### 编程语言
 	1. C
-		1. C程序设计语言
-		1. C程序设计语言(英文版)
-		1. C指针
-		2. [视频][C语言程序设计](http://study.163.com/curricula/cs.htm)
+		1. [图书][C程序设计语言](http://product.dangdang.com/8766529.html)
+		1. [图书][C程序设计语言(英文版)](http://product.dangdang.com/9196242.html)
+		1. [图书][C 和指针](http://product.dangdang.com/20165942.html)
+		1. [视频][C语言程序设计](http://study.163.com/curricula/cs.htm)
 		
 	1. C++
-		1. http://www.cprogramming.com/里有个c-tutorial
-		2. 高质量C++/C编程指南 林锐 博士
-		3. GCC: The Complete Reference
+		1. [网站][http://www.cprogramming.com](https://www.cprogramming.com/)里有个c-tutorial
+		2. [文章]高质量C++/C编程指南 林锐 博士
+		3. [图书]GCC: The Complete Reference
 		3. [源码][https://github.com/antirez/redis](https://github.com/antirez/redis) 
 		4. [源码][https://github.com/nginx/nginx](https://github.com/nginx/nginx)
 
 1. ### 数据结构和算法
-	1. [数据结构与算法分析：Java语言描述](http://product.dangdang.com/23918741.html)
-	1. [大话数据结构]()
-	1. [Java数据结构和算法]() 英文《Data Structures & Algorithms in Java》Robert Lafore著，特别推荐。
+	1. [图书][数据结构与算法分析：Java语言描述](http://product.dangdang.com/23918741.html)
+	1. [图书][大话数据结构](http://product.dangdang.com/21088369.html)
+	1. [图书][Java数据结构和算法](http://product.dangdang.com/9323527.html) 英文《Data Structures & Algorithms in Java》Robert Lafore著，特别推荐。
 	1. [视频][数据结构和算法](http://study.163.com/course/introduction/468002.htm)
-	1. [数据学习的可视化网站http://zh.visualgo.net](http://zh.visualgo.net)
-	
-	1. [算法导论](http://product.dangdang.com/22927209.html) 算法的最好的图书之一。
+	1. [网站][数据学习的可视化网站http://zh.visualgo.net](http://zh.visualgo.net)
+	1. [图书][算法导论](http://product.dangdang.com/22927209.html) 算法的最好的图书之一。
 		1. [视频][麻省理工学院公开课：算法导论](http://open.163.com/special/opencourse/algorithms.html) 老头讲的非常好，年轻的一般。
-	1. [算法](http://product.dangdang.com/22880871.html) Knuth的学生写的，使用Java语言描述，值得一看。
-	1. [leetcode](https://leetcode.com)
-
-	1. [lintcode](https://www.lintcode.com/problem/?tag=lintcode-copyright)
-	
+	1. [图书][算法](http://product.dangdang.com/22880871.html) Knuth的学生写的，使用Java语言描述，值得一看。
+	1. [网站][leetcode](https://leetcode.com) 算法题库。
+	1. [网站][lintcode](https://www.lintcode.com/problem/?tag=lintcode-copyright) 中文版leetcode。
 	1. 大神的书[Donald E. Knuth:图灵奖得主]
-		1. [计算机程序设计艺术 卷1 基本算法](http://product.dangdang.com/23839682.html)
-		1. [计算机程序设计艺术 卷2 半数值算法](http://product.dangdang.com/24007299.html)
-		1. [计算机程序设计艺术 卷3 排序与查找](http://product.dangdang.com/24195308.html)
-			1. 这些图书我是看不了，只能翻一番，排序和查找可以看看。
+		1. [图书][计算机程序设计艺术 卷1 基本算法](http://product.dangdang.com/23839682.html)
+		1. [图书][计算机程序设计艺术 卷2 半数值算法](http://product.dangdang.com/24007299.html)
+		1. [图书][计算机程序设计艺术 卷3 排序与查找](http://product.dangdang.com/24195308.html)
 			
 1. ### 操作系统
-	1. [操作系统设计与实现]() 此书告诉您如何实现一个操作系统，比学校里告诉您的更多，更好理解。当年Linus就是看这本书，编写的Linux。
+	1. [图书][操作系统设计与实现](http://product.dangdang.com/23727594.html) 此书告诉您如何实现一个操作系统，比学校里告诉您的更多，更好理解。当年Linus就是看这本书，编写的Linux。
+		1. [网站][MINIX](http://www.minix3.org)
+	1. [网站][GeekOS](http://geekos.sourceforge.net) The goal of GeekOS is to be a tool for learning about operating system kernels.  As of version 0.2.0, it comes with a set of projects suitable for use in an undergraduate operating systems course, or for self-directed learning.  GeekOS has been used in courses at a number of colleges and universities.
+	1. [文章][操作系统学习笔记](https://blog.csdn.net/longronglin/article/category/536556)
+	1. [图书][深入理解计算机系统](http://product.dangdang.com/24106647.html)
+	1. [图书][30天自制操作系统](http://product.dangdang.com/22826468.html)
+	1. [图书][Orange‘s一个操作系统的实现](http://product.dangdang.com/20597043.html)
 	
-	1. [GeekOS](http://geekos.sourceforge.net/) The goal of GeekOS is to be a tool for learning about operating system kernels.  As of version 0.2.0, it comes with a set of projects suitable for use in an undergraduate operating systems course, or for self-directed learning.  GeekOS has been used in courses at a number of colleges and universities.
-	
-	1. [操作系统学习笔记](https://blog.csdn.net/longronglin/article/category/536556)
-	1. 深入理解计算机系统
-	1. Orange‘s一个操作系统的实现
-	1. 30天自制操作系统
-
 1. ### 编译原理
-	1. [编译原理]() 编译原理的水平与程序员水平正相关，光会写程序，不能理解编译原理，是很难写出高水平程序的。龙书非常出名，谁学谁知道。工作后您可能会使用各种各样的语言，他们是如何工作和执行的，编译原理是不可或缺的重要一环。
-	
-	2. 自制编程语言
-	
-	3. 编译原理及实现
-	
+	1. [图书][编译原理](http://product.dangdang.com/20427584.html) 编译原理的水平与程序员水平正相关，光会写程序，不能理解编译原理，是很难写出高水平程序的。龙书非常出名，谁学谁知道。工作后您可能会使用各种各样的语言，他们是如何工作和执行的，编译原理是不可或缺的重要一环。
+	2. [图书][自制编程语言](http://product.dangdang.com/23363722.html)
+	3. [图书][编译原理及实现](http://product.dangdang.com/23781751.html) 这本书个人时强热推荐的，我读研期间重新做编译器，主要参考此书，非常好。
 	4. [文章][编译原理学习基本步骤](http://blog.csdn.net/longronglin/article/details/5920957)
-	
 	5. [文章][编译原理解析](http://blog.csdn.net/longronglin/article/details/1109436) 如果把我上面的内容学好，可以说编译原理掌握的不错了。特别是我的内容是参考上面的清华大学孙悦红老师的课本做的，还得到了其支持。
 
 1. ### 数据库
 	1. 关系数据库
-		1. [Transact-SQL权威指南]() 经典。
-		2. [Head First SQL]()
-		3. [Teach Yourself SQL in 21 Days]()
-		4. [SQL必知必会(第3版)]()
-		2. [SQL教程（杨中科）](http://study.163.com/course/introduction/215012.htm#/courseDetail) 使用微软SQL Server讲解的。
-		3. [MySQL数据库（高洛峰）](http://study.163.com/course/introduction/247003.htm#/courseDetail)
-		4. [尚学堂马士兵Oracle视频教程](http://study.163.com/course/introduction/344012.htm#/courseDetail)
+		1. [图书]Transact-SQL权威指南 经典，没有图书卖了。
+		2. [图书][Head First SQL](http://product.dangdang.com/21040398.html)
+		3. [图书][Teach Yourself SQL in 21 Days]()
+		4. [图书][SQL必知必会(第3版)]()
+		2. [图书][SQL教程（杨中科）](http://study.163.com/course/introduction/215012.htm#/courseDetail) 使用微软SQL Server讲解的。
+		3. [图书][MySQL数据库（高洛峰）](http://study.163.com/course/introduction/247003.htm#/courseDetail)
+		4. [视频][尚学堂马士兵Oracle视频教程](http://study.163.com/course/introduction/344012.htm#/courseDetail)
 	
 		1. Codd 12 Rules
 			1. Rule 0: The Foundation rule:
@@ -178,40 +169,40 @@ If a relational system has a low-level (single-record-at-a-time) language, that 
 
 	1. NOSQL
 		1. MongoDB
-			1. MongoDB权威指南
+			1. [图书]MongoDB权威指南
 		2. HBase
-			1. HBase权威指南
+			1. [图书]HBase权威指南
 		3. Cassandra
-			1. Cassandra权威指南
+			1. [图书]Cassandra权威指南
 
 1. ### 计算机网络
-	1. [计算机网络自顶向下方法]()
-	1. [TCP/IP详解卷1:协议]()
-	1. [图解TCP/IP]()
-	1. [图解HTTP]
+	1. [图书][计算机网络自顶向下方法]()
+	1. [图书][TCP/IP详解卷1:协议]()
+	1. [图书][图解TCP/IP]()
+	1. [图书][图解HTTP]
 	1. [视频][计算机网络技术与应用](http://study.163.com/course/courseMain.htm?courseId=1255007)
 	2. [文章][从输入 URL 到页面加载完成的过程中都发生了什么事情？](http://fex.baidu.com/blog/2014/05/what-happen)
 	3. [考证]CCNA学习指南
 
 1. ### 软件工程
-	1. 软件工程
-	1. 代码大全
-	1. [图书] 人月神话
-	1. [图书] 敏捷软件开发(原则模式与实践)
-	1. [图书] 重构
-	1. [图书] 软件测试
+	1. [图书]软件工程
+	1. [图书]代码大全
+	1. [图书]人月神话
+	1. [图书]敏捷软件开发(原则模式与实践)
+	1. [图书]重构
+	1. [图书]软件测试
 	
 1. ### CPU
-	1. [CISC模型微处理器设计（VHDL实现）](https://blog.csdn.net/longronglin/article/details/1055388) 
+	1. [文章][CISC模型微处理器设计（VHDL实现）](https://blog.csdn.net/longronglin/article/details/1055388) 
 		
 1. ### 汇编语言
-	1. [汇编语言](http://product.dangdang.com/25178843.html) 王爽的这版，我觉得入门是最好的。写的浅显易懂，更深入的需要看别的图书。
+	1. [图书][汇编语言](http://product.dangdang.com/25178843.html) 王爽的这版，我觉得入门是最好的。写的浅显易懂，更深入的需要看别的图书。
 	
-	1. Intel Architecture Software Developer's Manual Volume1: Basic Architecture
+	1. [文章]Intel Architecture Software Developer's Manual Volume1: Basic Architecture
 	
-	1. Intel Architecture Software Developer's Manual Volume2:Instructions Set Reference 
+	1. [文章]Intel Architecture Software Developer's Manual Volume2:Instructions Set Reference 
 	
-	1. Intel Architecture Software Developer's Manual Volume3:System Programming Guide
+	1. [文章]Intel Architecture Software Developer's Manual Volume3:System Programming Guide
 
 1. ### 数据仓库
 
