@@ -3,16 +3,17 @@
 ### 科学家实验失败了，他知道为什么失败了；工程师实验成功了，他不知道为什么成功。
 
 ### 十大名言：
-	1. Talk is cheap，show me code. -- Linus Torvalds(Linux创始人)
-	2. 源码面前了无秘密。-- 侯捷 《STL源码剖析》作者
-	3. 不要重复发明轮子。-- Rod Johnson(Spring Framework创始人)
-	4. 过早的优化是万恶之源。-- Donald Knuth(1974年图灵奖)
-	5. 用户为中心。
-	6. 没有银弹。-- Fred Brooks(1999年图灵奖)
-	7. 从重构到模式。-- Joshua Kerievsky(本书荣获2005年《软件开发》杂志图书通用类的效率大奖)
-	8. 当一头牛拉不动车时，很少有人去找一头更大更强壮的牛，而是找来更多的牛一起拉。 -- 《Hadoop权威指南》
-	9. 一个字：拆。
-	10. 256K is OK. -- Bill Gates
+
+* Talk is cheap，show me code. -- Linus Torvalds(Linux创始人)
+* 源码面前了无秘密。-- 侯捷 《STL源码剖析》作者
+* 不要重复发明轮子。-- Rod Johnson(Spring Framework创始人)
+* 过早的优化是万恶之源。-- Donald Knuth(1974年图灵奖)
+* 用户为中心。
+* 没有银弹。-- Fred Brooks(1999年图灵奖)
+* 从重构到模式。-- Joshua Kerievsky(本书荣获2005年《软件开发》杂志图书通用类的效率大奖)
+* 当一头牛拉不动车时，很少有人去找一头更大更强壮的牛，而是找来更多的牛一起拉。 -- 《Hadoop权威指南》
+* 一个字：拆。
+* 256K is OK. -- Bill Gates
 
 ## 目录
 
@@ -1008,7 +1009,7 @@ Linux是Java程序员必须掌握的核心工具。
 		1. GitHub地址：[https://github.com/xianglesong](https://github.com/xianglesong)
 		 
 	4. 视频
-		1. [享乐颂网易云课堂课程](http://study.163.com/provider/825396/course.htm)
+		1. [想了送网易云课堂课程](http://study.163.com/provider/825396/course.htm)
 		
 		1. [Java宝典--实战及解析](http://study.163.com/course/courseMain.htm?courseId=1005801006) 特别推荐，本文配套更新视频讲解及资料等。
 
