@@ -15,8 +15,8 @@
 * 256K is OK. -- Bill Gates
 
 ## 目录
-1. 计算机基础知识
-	1. 编程语言
+1. [计算机基础知识](#computer)
+	1. [编程语言](#program)
 	1. 数据结构和算法
 	1. 操作系统
 	1. 编译原理
@@ -60,10 +60,10 @@
 	1. 我
 	2. 感谢
 
-## 计算机基础知识
+## <span id="computer">计算机基础知识</span>
 学习Java首先需要对计算机基础知识有比较好的理解。这个是未来能否走的更远、更好的关键。
 
-1. ### 编程语言
+1. ### <span id="program">编程语言</span>
 	1. C
 		1. [图书][C程序设计语言](http://product.dangdang.com/8766529.html)
 		1. [图书][C程序设计语言(英文版)](http://product.dangdang.com/9196242.html)
