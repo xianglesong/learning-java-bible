@@ -678,7 +678,7 @@ Linux是Java程序员必须掌握的核心工具。
 	3. 项目
 		1. GitHub地址：[https://github.com/xianglesong](https://github.com/xianglesong) 
 	4. 视频
-		1. [想了送网易云课堂课程](http://study.163.com/provider/825396/course.htm)
+		1. [享乐颂网易云课堂课程](http://study.163.com/provider/825396/course.htm)
 		1. [Java宝典--实战及解析](http://study.163.com/course/courseMain.htm?courseId=1005801006) 特别推荐，本文配套更新视频讲解及资料等。
 
 1. ### 特别推荐
