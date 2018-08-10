@@ -171,7 +171,6 @@
 
 ## Java及JavaEE
 1. ### Java
-
 	1. [java.oracle.com](http://java.oracle.com) Java官方地址，Jaysva开发工具、文档、bug等信息权威发布。
 	1. [Java 规范](https://docs.oracle.com/javase/specs) Java Language and Virtual Machine Specifications. 
 	1. [Javaee-spec](https://javaee.github.io/javaee-spec) Java EE Platform Specification.
@@ -253,15 +252,13 @@
 	1. Servlet
 		A servlet is a Java technology based web component, managed by a container, that generates dynamic content. Like other Java-based components, servlets are platform independent Java classes that are compiled to platform neutral bytecode that can be loaded dynamically into and run by a Java enabled web server. Containers, some- times called servlet engines, are web server extensions that provide servlet function- ality. Servlets interact with web clients via a request/response paradigm implemented by the servlet container. 
 		The servlet container is a part of a web server or application server that provides the network services over which requests and responses are sent, decodes MIME based requests, and formats MIME based responses. A servlet container also contains and manages servlets through their lifecycle. 
-
 		1. [图书][Head First Servlets & Jsp](http://product.dangdang.com/20926088.html)
 		1. [图书]Java Servlet & JSP Cookbook
 		1. [文章][Servlet 工作原理解析](http://www.ibm.com/developerworks/cn/java/j-lo-servlet)
 		1. [视频][Servlet Java  Web 编程（郭宏志）](http://study.163.com/course/introduction/648001.htms)
-	1. Jsp
+	1. JSP
 		JSP: JavaServer Pages is a technology for developing web pages that include dynamic content. Unlike a plain HTML page, which contains static content that always remains the same, a JSP page can change its content based on any number of variable items, including the identity of the user, the user's browser type, information provided by the user, and selections made by the user.
 		JSP is a specification, not a product. 
-		
 		1. [视频][尚学堂Jsp快速入门（高淇）](http://study.163.com/course/courseMain.htm?courseId=1067001)
 	1. Tomcat
        1. [图书][Tomcat权威指南](http://product.dangdang.com/20702017.html)
@@ -358,8 +355,7 @@
 	1. 内存检测
 		1. [Leakcanary](https://github.com/square/leakcanary)  A memory leak detection library for Android and Java.
 	1. 分布式数据库
-		1. [Sharding-jdbc](https://github.com/xianglesong/learning-javas/blob/master/lib/Sharding-jdbc.md)  分库分表的轻量级解决方法之一。
-		(Distributed database middleware.)
+		1. [Sharding-jdbc](https://github.com/xianglesong/learning-javas/blob/master/lib/Sharding-jdbc.md)  分库分表的轻量级解决方法之一。(Distributed database middleware.)
 	1. RPC工具
 		1. [Thrift](https://github.com/xianglesong/learning-javas/blob/master/lib/Thrift.md)  RPC实现有多种方式，Thrift算是其中不错的框架之一。
 		(The Apache Thrift software framework, for scalable cross-language services development, combines a software stack with a code generation engine to build services that work efficiently and seamlessly between C++, Java, Python, PHP, Ruby, Erlang, Perl, Haskell, C#, Cocoa, JavaScript, Node.js, Smalltalk, OCaml and Delphi and other languages.)
@@ -410,18 +406,17 @@
 	    1. [Spark](https://spark.apache.org/) A unified analytics engine for large-scale data processing.
     1. 深度学习
 	    1. [DeepLearning](https://github.com/yusugomori/DeepLearning) Deep Learning (Python, C, C++, Java, Scala, Go) http://yusugomori.com
-	 1. Kylin
+	 1. [Kylin](http://kylin.apache.org/cn)
 	 1. SpringCloud
-    boot
-    eureka
-    zuul
-    zipkin
-    config
-    hystrix
-    ...
-	1. velocity
-	2. freemark
-	3. zookeeper（curator）
+	    1. [SpringBoot](http://spring.io/projects/spring-boot) Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
+	    1. [Eureka](https://github.com/Netflix/eureka) AWS Service registry for resilient mid-tier load balancing and failover.
+	    1. [Zuul](https://github.com/Netflix/zuul) Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
+	    1. [Zipkin](https://github.com/openzipkin/zipkin) Zipkin is a distributed tracing system http://zipkin.io
+	    1. [Hystrix](https://github.com/Netflix/Hystrix) Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
+	1. [Velocity](http://velocity.apache.org) Velocity is a Java-based template engine. 
+	1. [FreeMarker](https://freemarker.apache.org) FreeMarker is a template engine.
+	1. [ZooKeeper](http://zookeeper.apache.org) Apache ZooKeeper is an effort to develop and maintain an open-source server which enables highly reliable distributed coordination.
+		1. [curator](http://curator.apache.org) Apache Curator is a Java/JVM client library for Apache ZooKeeper, a distributed coordination service. It includes a highlevel API framework and utilities to make using Apache ZooKeeper much easier and more reliable. It also includes recipes for common use cases and extensions such as service discovery and a Java 8 asynchronous DSL.
 
 ## Linux
 Linux是Java程序员必须掌握的核心工具。
@@ -474,12 +469,11 @@ Linux是Java程序员必须掌握的核心工具。
 		
 1. #### 其他语言
 	1. Python
-	1. JavaScript
 	1. Android
 	1. iOS
 	1. PHP
 	1. 其他
-		1. 编码的奥秘
+		1. [图书]编码的奥秘
 
 1. 产品
 	1. Axure
@@ -496,32 +490,32 @@ Linux是Java程序员必须掌握的核心工具。
 
 1. ### 其他工具
 	1. 数据库
-		1. MySQL
+		1. [MySQL](https://www.mysql.com)
 		2. Teradata
 	1. 缓存
-		1. Redis
-		1. MemCache
+		1. [Redis](https://redis.io) Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker.
+		1. [MemCache](http://memcached.org) a distributed memory object caching system.
 	1. 消息
-		1. RabbitMQ
-		1. Kafka
+		1. [RabbitMQ](http://www.rabbitmq.com) RabbitMQ is the most widely deployed open source message broker.
+		1. [Kafka](http://kafka.apache.org) A distributed streaming platform.
 	1. 代理、反向代理
-		1. Nginx
-		1. HAProxy
+		1. [Nginx](http://nginx.org) nginx [engine x] is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server, originally written by Igor Sysoev.
+		1. [HAProxy](http://www.haproxy.org) 
 	1. 缓存
-		1. Varnish
-		1. Sequid
+		1. [Varnish](http://varnish-cache.org) Varnish HTTP Cache
+		1. [Squid](http://www.squid-cache.org) Squid is a caching proxy for the Web supporting HTTP, HTTPS, FTP, and more.
 	1. 虚拟机
 		1. [VirtualBox](https://www.virtualbox.org)
 		1. [VMware](https://www.vmware.com) 
-	1. Docker
-	1. k8s
-	1. mesos
+	1. [Docker](https://www.docker.com) Build, Manage and Secure Your Apps Anywhere. Your Way.
+	1. [Kubernetes](https://kubernetes.io) 
+Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications.
+	1. [Mesos](http://mesos.apache.org) Apache Mesos abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
 	1. 序列化、反序列化
 		1. [Protobuf](https://github.com/google/protobuf) Protocol Buffers - Google's data interchange format https://developers.google.com/protocol-buffers .
 	1. MQTT
-		1. mosquito
-	1. storm
-	1. kafka
+		1. [Mosquito](https://mosquitto.org) Eclipse Mosquitto is an open source (EPL/EDL licensed) message broker that implements the MQTT protocol versions 3.1 and 3.1.1. Mosquitto is lightweight and is suitable for use on all devices from low power single board computers to full servers.
+	1. [Storm](http://storm.apache.org) Apache Storm is a free and open source distributed realtime computation system. 
 	
 1. ### GitHub
 	1. [https://github.com/akullpp/awesome-java](https://github.com/akullpp/awesome-java)  A curated list of awesome frameworks, libraries and software for the Java programming language.
