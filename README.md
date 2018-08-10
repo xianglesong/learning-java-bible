@@ -25,8 +25,8 @@
 	1. 软件工程
 	1. CPU
 	1. 汇编语言
-	1. 数据仓库
-	1. 数据挖掘及人工智能
+	1. 数据仓库及数据挖掘
+	1. 集群学习及人工智能
 	1. 图灵奖
 1. Java及JavaEE
 	1. Java
@@ -154,15 +154,14 @@
 	1. [资料]Intel Architecture Software Developer's Manual Volume2:Instructions Set Reference 
 	1. [资料]Intel Architecture Software Developer's Manual Volume3:System Programming Guide
 
-1. ### 数据仓库
+1. ### 数据仓库及数据挖掘
 	1. [图书][数据仓库](http://product.dangdang.com/9200409.html)
 	1. ETL
 		1. [Talend](https://www.talend.com/resources/what-is-etl/)
 	1. [Teradata](https://www.teradata.com.cn)
 	1. [DataStage](https://www.ibm.com/us-en/marketplace/datastage) Delivers advanced enterprise ETL.
-
-1. ### 数据挖掘及人工智能
 	1. [图书][数据挖掘：概念与技术](http://product.dangdang.com/22846300.html)
+1. ### 机器学习及人工智能
 	1. [图书][推荐系统实践](http://product.dangdang.com/22775361.html)
 	1. [图书][深度学习](http://product.dangdang.com/25111382.html)
 1. ### 图灵奖
@@ -261,8 +260,7 @@
 		JSP is a specification, not a product. 
 		1. [视频][尚学堂Jsp快速入门（高淇）](http://study.163.com/course/courseMain.htm?courseId=1067001)
 	1. Tomcat
-       1. [图书][Tomcat权威指南](http://product.dangdang.com/20702017.html)
-       1. [图书][深入剖析Tomcat](http://product.dangdang.com/22585226.html) How Tomcat Works.
+       
 	1. JavaEE
 		1. [图书][疯狂软件教育标准教材·轻量级Java EE企业应用实战(第4版):Struts 2+Spring 4+Hibernate整合开发(附光盘)](http://product.dangdang.com/23572565.html)
 		1. [视频][JavaEE视频教程（郭宏志）](http://study.163.com/course/courseMain.htm?courseId=320027)
@@ -275,6 +273,9 @@
 1. ### 开发工具(Tools)
 	1. 版本管理
 		1. [git](https://git-scm.com) Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+			1. [图书][Git权威指南](http://product.dangdang.com/21108669.html)
+			1. [图书][Git版本控制管理](http://product.dangdang.com/23657840.html)
+			1. [图书][精通Git](http://product.dangdang.com/25166975.html) GitHub联合创始人倾心之作，没有版本控制概念的读者也可轻松入门，涵盖Git常见工作场景，有效帮助程序员提升软技能。
 		1. [gitlab](https://about.gitlab.com/) GitLab is the leading integrated product for modern software development. Connecting issue management, version control, code review, CI, CD, and monitoring.
 		1. [bitbucket](https://bitbucket.org/product) 类似github的功能，不过是可以闭源。(Bitbucket is more than just Git code management. Bitbucket gives teams one place to plan projects, collaborate on code, test and deploy.)
 		1. [mercurial](https://www.mercurial-scm.org) 源码控制管理工具。(Mercurial is a free, distributed source control management tool.)
@@ -289,10 +290,13 @@
 		   1. checkstyle
 	1. 构建工具
 		1. [maven](http://maven.apache.org) Apache Maven is a software project management and comprehension tool.
+			1. [图书][Maven实战](http://product.dangdang.com/20977961.html)
 		1. [ant](http://ant.apache.org) Apache Ant is a Java library and command-line tool whose mission is to drive processes described in build files as targets and extension points dependent upon each other.
 		1. [gradle](https://gradle.org/) Build Tool.
 	1. web容器
 		1. [Tomcat](https://tomcat.apache.org/) The Apache Tomcat® software is an open source implementation of the Java Servlet, JavaServer Pages, Java Expression Language and Java WebSocket technologies. 
+			1. [图书][Tomcat权威指南](http://product.dangdang.com/20702017.html)
+			1. [图书][深入剖析Tomcat](http://product.dangdang.com/22585226.html) How Tomcat Works.
 		1. [Jetty](https://www.eclipse.org/jetty/) Eclipse Jetty provides a Web server and javax.servlet container, plus support for HTTP/2, WebSocket, OSGi, JMX, JNDI, JAAS and many other integrations. These components are open source and available for commercial use and distribution.
 	1. 私服
 		1. [nexus](https://www.sonatype.com/nexus-repository-sonatype) Maven私服。
@@ -310,12 +314,12 @@
 		1. [Jira](https://www.atlassian.com/software/jira) 
 	1. 其他
 		1. [Postman](https://www.getpostman.com/) API访问工具。(Postman Makes API Development Simple.)
-	1. [wiki] 
-	1. [shadowsocks]
-	1. confluence
-	1. cloujure
-	1. sonar
-		1. sonarcube
+	1. Wiki
+	1. Shadowsocks
+	1. Atlassian
+		1. [Confluence](https://www.atlassian.com/software/confluence) Confluence is content collaboration software that changes how modern teams work.
+	1. [Clojure](https://www.clojure.org) Clojure is a dynamic environment you can interact with. Almost all of the language constructs are reified, and thus can be examined and changed. 
+	1. [SonarCube](https://www.sonarqube.org) The leading product for continuous code quality.
 
 1. ### Java 库和框架等介绍
 	1. Java常用库
@@ -332,9 +336,8 @@
 		4. Common-Log
 	1. 缓存
 		1. [EHCache](http://www.ehcache.org/)
-		2. OSCache
 	1. IOC
-		1. [guice](https://github.com/google/guice) Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 6 and above, brought to you by Google.
+		1. [Guice](https://github.com/google/guice) Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 6 and above, brought to you by Google.
 	1. AOP
 	1. 定时调度
 		1. [Quartz](http://www.quartz-scheduler.org/)  Java任务调度库。(open source job scheduling library that can be integrated within virtually any Java application - from the smallest stand-alone application to the largest e-commerce system. Quartz can be used to create simple or complex schedules for executing tens, hundreds, or even tens-of-thousands of jobs; jobs whose tasks are defined as standard Java components that may execute virtually anything you may program them to do. The Quartz Scheduler includes many enterprise-class features, such as support for JTA transactions and clustering.
@@ -370,9 +373,18 @@
 		1. [Jsoup](https://jsoup.org/)  jsoup is a Java library for working with real-world HTML. It provides a very convenient API for extracting and manipulating data, using the best of DOM, CSS, and jquery-like methods.
 	1. 搜索引擎
 		1. [Lucene](http://lucene.apache.org/) 建立索引和查询库。(The goal of Apache Lucene and Solr is to provide world class search capabilities.)
+			1. [图书][Lucene实战](http://product.dangdang.com/21094976.html)
+			1. [图书][Lucene分析与应用](http://product.dangdang.com/20362257.html)
 		1. [Solr](http://lucene.apache.org/solr) 企业级搜索平台基于Lucene的封装。(Solr is the popular, blazing-fast, open source enterprise search platform built on Apache Lucene™.)
+			1. [图书][Solr实战](http://product.dangdang.com/25082460.html)
+			2. [图书][Solr Cookbook](http://product.dangdang.com/1900482179.html)
+			3. [图书][Solr 1.4 Enterprise Search Server](http://product.dangdang.com/1900489897.html)
+			4. [图书][Apache Solr 3 Enterprise Search Server](http://product.dangdang.com/1900489427.html)
 		1. [ElasticSearch](https://github.com/xianglesong/learning-javas/blob/master/platform/ElasticSearch.md) 分布式搜索利器，广泛使用。
 		(Elasticsearch is a distributed, RESTful search and analytics engine capable of solving a growing number of use cases. As the heart of the Elastic Stack, it centrally stores your data so you can discover the expected and uncover the unexpected.)
+			1. [图书][深入理解Elasticsearch](http://product.dangdang.com/25084053.html)
+			1. [图书][Elasticsearch服务器开发](http://product.dangdang.com/23659310.html)
+			1. [图书][Elasticsearch Cookbook](http://product.dangdang.com/1900490173.html)
 		1. [elasticsearch-analysis-ik](https://github.com/medcl/elasticsearch-analysis-ik) The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support customized dictionary.
 		1. [jpinyin](https://github.com/stuxuhai/jpinyin) JPinyin是一个汉字转拼音的Java开源类库。
 		1. [pinyin4j](https://github.com/belerweb/pinyin4j) A copy of http://sourceforge.net/projects/pinyin4j, then deploy it to maven central repository.
