@@ -444,6 +444,7 @@ Linux是Java程序员必须掌握的核心工具。
 	1. [图书][鸟哥的Linux私房菜:基础学习篇](http://product.dangdang.com/20866026.html)
 	1. [图书][Linux命令行大全](http://product.dangdang.com/23204024.html) 从命令行学起，也是学习Linux的一个不错路径。
 	1. [图书][UNIX/Linux 系统管理技术手册](http://product.dangdang.com/22750915.html)
+	1. [网站][http://linuxcommand.org](http://linuxcommand.org)
 
 1. ### Shell
 	1. [图书][Linux命令行与shell脚本编程大全](http://product.dangdang.com/24013685.html)
@@ -658,8 +659,6 @@ Kubernetes is an open-source system for automating deployment, scaling, and mana
 		1. [Maven仓库](https://mvnrepository.com) 方便查找库应用。
 		1. [Apache](http://apache.org) 很多著名的开源项目在里面，比如Tomcat Hadoop Maven等。
 		1. [SourceForge](http://www.sourceforge.net) 很多开源库也放在这里，特别是没有github之前。
-	1. Linux
-		1. [http://linuxcommand.org](http://linuxcommand.org)
 	1. 规范
 		1. [W3C](https://www.w3.org)	
 	1. 综合
