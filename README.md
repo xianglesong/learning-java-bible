@@ -275,38 +275,38 @@
 
 1. ### 开发工具(Tools)
 	1. 版本管理
-		1. [git](https://git-scm.com) Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+		1. [Git](https://git-scm.com) Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 			1. [图书][Git权威指南](http://product.dangdang.com/21108669.html)
 			1. [图书][Git版本控制管理](http://product.dangdang.com/23657840.html)
 			1. [图书][精通Git](http://product.dangdang.com/25166975.html) GitHub联合创始人倾心之作，没有版本控制概念的读者也可轻松入门，涵盖Git常见工作场景，有效帮助程序员提升软技能。
-		1. [gitlab](https://about.gitlab.com/) GitLab is the leading integrated product for modern software development. Connecting issue management, version control, code review, CI, CD, and monitoring.
-		1. [bitbucket](https://bitbucket.org/product) 类似github的功能，不过是可以闭源。(Bitbucket is more than just Git code management. Bitbucket gives teams one place to plan projects, collaborate on code, test and deploy.)
-		1. [mercurial](https://www.mercurial-scm.org) 源码控制管理工具。(Mercurial is a free, distributed source control management tool.)
+		1. [Gitlab](https://about.gitlab.com/) GitLab is the leading integrated product for modern software development. Connecting issue management, version control, code review, CI, CD, and monitoring.
+		1. [Bitbucket](https://bitbucket.org/product) 类似github的功能，不过是可以闭源。(Bitbucket is more than just Git code management. Bitbucket gives teams one place to plan projects, collaborate on code, test and deploy.)
+		1. [Mercurial](https://www.mercurial-scm.org) 源码控制管理工具。(Mercurial is a free, distributed source control management tool.)
 	1. IDE
-		1. [eclipse](https://www.eclipse.org) The Platform for Open Innovation and Collaboration. 我们主要使用其Java的开发工具。
-		1. [intellij](https://www.jetbrains.com/idea) 一款IDE工具，个人感觉比Eclipse要好，推荐使用。
-		1. [netbeans](https://netbeans.org) 不推荐使用。Quickly and easily develop desktop, mobile and web applications with Java, JavaScript, HTML5, PHP, C/C++ and more.
+		1. [Eclipse](https://www.eclipse.org) The Platform for Open Innovation and Collaboration. 我们主要使用其Java的开发工具。
+		1. [IntelliJ](https://www.jetbrains.com/idea) 一款IDE工具，个人感觉比Eclipse要好，推荐使用。
+		1. [Netbeans](https://netbeans.org) 不推荐使用。Quickly and easily develop desktop, mobile and web applications with Java, JavaScript, HTML5, PHP, C/C++ and more.
 		1. Android Studio
 			1. 编码规范
 				1. [Google Java 格式化](https://github.com/google/google-java-format) 推荐使用，插件比较多，各IDE支持好，程序员喜欢。Reformats Java source code to comply with Google Java Style.
 				1. [Alibaba Java 编码规范](https://github.com/alibaba/Alibaba-Java-Coding-Guidelines) 
 		   1. checkstyle
 	1. 构建工具
-		1. [maven](http://maven.apache.org) Apache Maven is a software project management and comprehension tool.
+		1. [Maven](http://maven.apache.org) Apache Maven is a software project management and comprehension tool.
 			1. [图书][Maven实战](http://product.dangdang.com/20977961.html)
-		1. [ant](http://ant.apache.org) Apache Ant is a Java library and command-line tool whose mission is to drive processes described in build files as targets and extension points dependent upon each other.
-		1. [gradle](https://gradle.org/) Build Tool.
+		1. [Ant](http://ant.apache.org) Apache Ant is a Java library and command-line tool whose mission is to drive processes described in build files as targets and extension points dependent upon each other.
+		1. [Gradle](https://gradle.org/) Build Tool.
 	1. 私服
-		1. [nexus](https://www.sonatype.com/nexus-repository-sonatype) Maven私服。
+		1. [Nexus](https://www.sonatype.com/nexus-repository-sonatype) Maven私服。
 	1. 持续集成
-		1. [jenkins](https://jenkins.io/) The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project.
-		1. [teamcity](https://www.jetbrains.com/teamcity/) Powerful Continuous Integration out of the box.
+		1. [Jenkins](https://jenkins.io/) The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project.
+		1. [Teamcity](https://www.jetbrains.com/teamcity/) Powerful Continuous Integration out of the box.
 	1. IDE插件
-		1. [findbugs](http://findbugs.sourceforge.net) 一般用在IDE插件，帮助发现bug。(This is the web page for FindBugs, a program which uses static analysis to look for bugs in Java code. )
+		1. [Findbugs](http://findbugs.sourceforge.net) 一般用在IDE插件，帮助发现bug。(This is the web page for FindBugs, a program which uses static analysis to look for bugs in Java code. )
 		1. checkstyle
 		1. test
 	1. 需求管理
-		1. [redmine](http://www.redmine.org/) Redmine is a flexible project management web application. 	
+		1. [Redmine](http://www.redmine.org/) Redmine is a flexible project management web application. 	
 	1. Bug管理
 		1. [Bugzilla](https://www.bugzilla.org/) Bugzilla is server software designed to help you manage software development.
 		1. [Jira](https://www.atlassian.com/software/jira) 
