@@ -259,8 +259,11 @@
 		JSP: JavaServer Pages is a technology for developing web pages that include dynamic content. Unlike a plain HTML page, which contains static content that always remains the same, a JSP page can change its content based on any number of variable items, including the identity of the user, the user's browser type, information provided by the user, and selections made by the user.
 		JSP is a specification, not a product. 
 		1. [视频][尚学堂Jsp快速入门（高淇）](http://study.163.com/course/courseMain.htm?courseId=1067001)
-	1. [Tomcat](#tomcat)
-       
+    1. WEB容器
+		1. [Tomcat](https://tomcat.apache.org/) The Apache Tomcat® software is an open source implementation of the Java Servlet, JavaServer Pages, Java Expression Language and Java WebSocket technologies. 
+			1. [图书][Tomcat权威指南](http://product.dangdang.com/20702017.html)
+			1. [图书][深入剖析Tomcat](http://product.dangdang.com/22585226.html) How Tomcat Works.
+		1. [Jetty](https://www.eclipse.org/jetty/) Eclipse Jetty provides a Web server and javax.servlet container, plus support for HTTP/2, WebSocket, OSGi, JMX, JNDI, JAAS and many other integrations. These components are open source and available for commercial use and distribution.
 	1. JavaEE
 		1. [图书][疯狂软件教育标准教材·轻量级Java EE企业应用实战(第4版):Struts 2+Spring 4+Hibernate整合开发(附光盘)](http://product.dangdang.com/23572565.html)
 		1. [视频][JavaEE视频教程（郭宏志）](http://study.163.com/course/courseMain.htm?courseId=320027)
@@ -293,11 +296,6 @@
 			1. [图书][Maven实战](http://product.dangdang.com/20977961.html)
 		1. [ant](http://ant.apache.org) Apache Ant is a Java library and command-line tool whose mission is to drive processes described in build files as targets and extension points dependent upon each other.
 		1. [gradle](https://gradle.org/) Build Tool.
-	1. <span id="tomcat">web容器</span>
-		1. [Tomcat](https://tomcat.apache.org/) The Apache Tomcat® software is an open source implementation of the Java Servlet, JavaServer Pages, Java Expression Language and Java WebSocket technologies. 
-			1. [图书][Tomcat权威指南](http://product.dangdang.com/20702017.html)
-			1. [图书][深入剖析Tomcat](http://product.dangdang.com/22585226.html) How Tomcat Works.
-		1. [Jetty](https://www.eclipse.org/jetty/) Eclipse Jetty provides a Web server and javax.servlet container, plus support for HTTP/2, WebSocket, OSGi, JMX, JNDI, JAAS and many other integrations. These components are open source and available for commercial use and distribution.
 	1. 私服
 		1. [nexus](https://www.sonatype.com/nexus-repository-sonatype) Maven私服。
 	1. 持续集成
