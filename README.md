@@ -506,6 +506,7 @@ Linux是Java程序员必须掌握的核心工具。
 	2. [图书][点石成金](http://product.dangdang.com/23611791.html)
 	3. [图书][用户体验要素：以用户为中心的产品设计](http://product.dangdang.com/21110580.html)
 	4. [图书][设计之下——搜狐新闻客户端的用户体验设计（全彩）](http://product.dangdang.com/23409934.html)
+	5. [图书][数学之美](http://product.dangdang.com/23594870.html)
 
 1. ### 其他工具
 	1. 数据库
