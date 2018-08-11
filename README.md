@@ -420,7 +420,7 @@
 	    1. [Mahout](http://mahout.apache.org/) For Creating Scalable Performant Machine Learning Applications.
 	    	1. [图书][Mahout in Action]
 	    1. [Spark](https://spark.apache.org/) A unified analytics engine for large-scale data processing.
-
+	    	1. [图书][Spark快速大数据分析](http://product.dangdang.com/23790700.html)
 	1. [Kylin](http://kylin.apache.org/cn) Apache Kylin™ is an open source Distributed Analytics Engine designed to provide SQL interface and multi-dimensional analysis (OLAP) on Hadoop/Spark supporting extremely large datasets, original contributed from eBay Inc.
 	1. [SpringCloud](http://projects.spring.io/spring-cloud)
 	    1. [SpringBoot](http://spring.io/projects/spring-boot) Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
