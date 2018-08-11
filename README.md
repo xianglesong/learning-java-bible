@@ -648,22 +648,22 @@ Kubernetes is an open-source system for automating deployment, scaling, and mana
 1. ### 微信公众号
 1. ### 推荐
 	1. 源码学习
-		1. [github](https://github.com) 全球最大的程序员交友网，也说全球最大的同性交友网站^-^。
-		1. [maven仓库](https://mvnrepository.com) 方便查找库应用。
-		1. [apache](http://apache.org) 很多著名的开源项目在里面，比如Tomcat Hadoop Maven等。
-		1. [sourceforge](http://www.sourceforge.net) 很多开源库也放在这里，特别是没有github之前。
+		1. [Github](https://github.com) 全球最大的程序员交友网，也说全球最大的同性交友网站^-^。
+		1. [Maven仓库](https://mvnrepository.com) 方便查找库应用。
+		1. [Apache](http://apache.org) 很多著名的开源项目在里面，比如Tomcat Hadoop Maven等。
+		1. [SourceForge](http://www.sourceforge.net) 很多开源库也放在这里，特别是没有github之前。
 	1. Linux
 		1. [http://linuxcommand.org](http://linuxcommand.org)
 	1. 规范
-		1. [w3c](https://www.w3.org)	
+		1. [W3C](https://www.w3.org)	
 	1. 综合
-		1. [csdn](http://www.csdn.net) 中国最大的程序员网站。
-		1. [infoq](http://www.infoq.com) 架构师网站。
-		1. [chinaunix](http://www.chinaunix.net) 中国最大的Linux/Unix技术社区网站
+		1. [CSDN](http://www.csdn.net) 中国最大的程序员网站。
+		1. [InfoQ](http://www.infoq.com) 架构师网站。
+		1. [ChinaUnix](http://www.chinaunix.net) 中国最大的Linux/Unix技术社区网站
 		1. [博客园](https://www.cnblogs.com) 博客园是一个面向开发者的知识分享社区。
 		1. [http://www.iteye.com](http://www.iteye.com)
 	1. 资料
-		1. [slideshare](https://www.slideshare.net)  技术ppt下载。
+		1. [Slideshare](https://www.slideshare.net)  技术ppt下载。
 	1. 技术博客
 		1. [阿里中间件团队博客](http://jm.taobao.org)
 		1. [美团技术团队](https://tech.meituan.com)
@@ -685,8 +685,8 @@ Kubernetes is an open-source system for automating deployment, scaling, and mana
 		1. 李刚 我是买过[疯狂Android讲义](http://product.dangdang.com/23699102.html)，感觉挺适合新手入门的，推荐一下。
 		1. 马士兵 我看过其Java视频，讲的不错，推荐一下。
 	1. 其他
-		1. [gnu](https://www.gnu.org/home.en.html)
-		1. [stackoverflow.com](https://stackoverflow.com) 问答网。
+		1. [GNU](https://www.gnu.org/home.en.html)
+		1. [Stack Overflow.com](https://stackoverflow.com) 问答网。
 		1. [在线JSON校验格式化工具bejson](http://www.bejson.com)
 
 ## 关于我们
