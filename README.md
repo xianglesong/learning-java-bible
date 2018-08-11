@@ -494,7 +494,7 @@ Linux是Java程序员必须掌握的核心工具。
 	1. iOS
 		1. [图书][精通iOS开发](http://product.dangdang.com/25113926.html)
 	1. PHP
-		1. [图书][]()
+		1. [图书][php和mysql web开发](http://product.dangdang.com/20546846.html)
 	1. 其他
 		1. [图书]编码的奥秘
 
@@ -516,15 +516,16 @@ Linux是Java程序员必须掌握的核心工具。
 1. ### 其他工具
 	1. 数据库
 		1. [MySQL](https://www.mysql.com)
+			1. [图书][MySQL DBA修炼之道](http://product.dangdang.com/24194120.html) 数据库技术专家撰写，多年数据库领域的经验结晶。实战性强，从架构、调优、运维、开发、测试等多个角度对MySQL管理和维护进行了全方位的归纳和总结，包含大量来自实际生产环境的经典案例。
 		2. Teradata
 	1. 缓存
 		1. [Redis](https://redis.io) Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker.
-		1. [MemCache](http://memcached.org) a distributed memory object caching system.
+		1. [MemCache](http://memcached.org) A distributed memory object caching system.
 	1. 消息
 		1. [RabbitMQ](http://www.rabbitmq.com) RabbitMQ is the most widely deployed open source message broker.
 		1. [Kafka](http://kafka.apache.org) A distributed streaming platform.
 	1. 代理、反向代理
-		1. [Nginx](http://nginx.org) nginx [engine x] is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server, originally written by Igor Sysoev.
+		1. [Nginx](http://nginx.org) Nginx [engine x] is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server, originally written by Igor Sysoev.
 		1. [HAProxy](http://www.haproxy.org) 
 	1. 缓存
 		1. [Varnish](http://varnish-cache.org) Varnish HTTP Cache
