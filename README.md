@@ -487,9 +487,14 @@ Linux是Java程序员必须掌握的核心工具。
 		
 1. #### 其他语言
 	1. Python
+		1. [图书][Python基础教程](http://product.dangdang.com/25218035.html)
 	1. Android
+		1. [图书][疯狂Android讲义](http://product.dangdang.com/23699102.html)
+		1. [图书][Android编程权威指南](http://product.dangdang.com/25102877.html)
 	1. iOS
+		1. [图书][精通iOS开发](http://product.dangdang.com/25113926.html)
 	1. PHP
+		1. [图书][]()
 	1. 其他
 		1. [图书]编码的奥秘
 
