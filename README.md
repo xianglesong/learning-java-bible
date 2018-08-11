@@ -389,11 +389,10 @@
 	1. 分布式存储和计算
 		1. [Hadoop](https://github.com/xianglesong/learning-javas/blob/master/platform/Hadoop.md) 分布式文件存储和技术框架，云计算的利器。(The
 		Apache™ Hadoop® project develops open-source software for reliable, scalable, distributed computing.)
-		1. hive
+		1. [Hive](http://hive.apache.org) The Apache Hive ™ data warehouse software facilitates reading, writing, and managing large datasets residing in distributed storage using SQL.
 	1. 分布式协调器
 		1. [Zookeeper](https://github.com/xianglesong/learning-javas/blob/master/platform/Zookeeper.md) Zookeeper提供分布式同步功能，在今天的分布式系统中有广泛使用。(A high-performance coordination service for distributed applications.)
-			1. [curator](http://curator.apache.org) Apache Curator is a Java/JVM client library for Apache ZooKeeper, a distributed coordination service. It includes a highlevel API framework and utilities to make using Apache ZooKeeper much easier and more reliable. It also includes recipes for common use cases and extensions such as service discovery and a Java 8 asynchronous DSL.
-
+			1. [Curator](http://curator.apache.org) Apache Curator is a Java/JVM client library for Apache ZooKeeper, a distributed coordination service. It includes a highlevel API framework and utilities to make using Apache ZooKeeper much easier and more reliable. It also includes recipes for common use cases and extensions such as service discovery and a Java 8 asynchronous DSL.
 	1. 分布式数据库
 		1. [HBase](http://hbase.apache.org/) 建立在Hadoop上的分布式数据库。(Apache HBase™ is the Hadoop database, a distributed, scalable, big data store.)
 		1. [Cassandra](http://cassandra.apache.org/) 分布式数据库(The Apache Cassandra database is the right choice when you need scalability and high availability without compromising performance.)
@@ -416,8 +415,9 @@
 	    1. [Weka](https://www.cs.waikato.ac.nz/ml/weka/) Weka is a collection of machine learning algorithms for data mining tasks. 
 	    1. [Mahout](http://mahout.apache.org/) For Creating Scalable Performant Machine Learning Applications.
 	    1. [Spark](https://spark.apache.org/) A unified analytics engine for large-scale data processing.
-	 1. [Kylin](http://kylin.apache.org/cn) Apache Kylin™ is an open source Distributed Analytics Engine designed to provide SQL interface and multi-dimensional analysis (OLAP) on Hadoop/Spark supporting extremely large datasets, original contributed from eBay Inc.
-	 1. SpringCloud
+
+	1. [Kylin](http://kylin.apache.org/cn) Apache Kylin™ is an open source Distributed Analytics Engine designed to provide SQL interface and multi-dimensional analysis (OLAP) on Hadoop/Spark supporting extremely large datasets, original contributed from eBay Inc.
+	1. SpringCloud
 	    1. [SpringBoot](http://spring.io/projects/spring-boot) Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
 	    1. [Eureka](https://github.com/Netflix/eureka) AWS Service registry for resilient mid-tier load balancing and failover.
 	    1. [Zuul](https://github.com/Netflix/zuul) Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
