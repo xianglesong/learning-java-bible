@@ -349,7 +349,7 @@
 		1. [DBCP](https://commons.apache.org/proper/commons-dbcp/)
 	1. Http工具
 		1. [HttpClient](https://hc.apache.org/httpcomponents-client-ga/)
-		1. [okhttp](http://square.github.io/okhttp/) An HTTP+HTTP/2 client for Android and Java applications.
+		1. [OkHttp](http://square.github.io/okhttp/) An HTTP+HTTP/2 client for Android and Java applications.
 	1. 时间工具
 		1. [Joda](http://www.joda.org/joda-time/)  Joda-Time provides a quality replacement for the Java date and time classes.
 	1. IO高性能库
