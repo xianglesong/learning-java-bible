@@ -17,48 +17,48 @@
 ## 目录
 1. [计算机基础知识](#user-content-计算机基础知识)
 	1. [编程语言](#user-content-编程语言)
-	1. 数据结构和算法
-	1. 操作系统
-	1. 编译原理
-	1. 数据库
-	1. 计算机网络
-	1. 软件工程
-	1. CPU
-	1. 汇编语言
-	1. 数据仓库及数据挖掘
-	1. 集群学习及人工智能
-	1. 图灵奖
-1. Java及JavaEE
-	1. Java
-	1. HTML&CSS
-	1. JavaScript
-	1. XML
-	1. JavaEE
-	1. 开发工具
-	1. Java库及框架等介绍
-1. Linux
-	1. 	Linux命令
-	1. Shell
-	1. Vim
-	1. Linux源码
-1. 科学研究
-	1. 期刊杂志
-	2. 论文
-	3. 会议
-1. 综合
-	1. 项目管理
-	1. 产品
-	1. 自动化测试及运维 
-	1. 网络安全
-	1. 云平台
-	1. 其他语言
-	1. 其他工具
-	1. Mac工具
-	1. GitHub
-	1. 其他
-1. 关于我们
-	1. 我
-	2. 感谢
+	1. [数据结构和算法](#user-content-数据结构和算法)
+	1. [操作系统](#user-content-操作系统)
+	1. [编译原理](#user-content-编译原理)
+	1. [数据库](#user-content-数据库)
+	1. [计算机网络](#user-content-计算机网络)
+	1. [软件工程](#user-content-软件工程)
+	1. [CPU](#user-content-CPU)
+	1. [汇编语言](#user-content-汇编语言)
+	1. [数据仓库及数据挖掘](#user-content-数据仓库及数据挖掘)
+	1. [机器学习及人工智能](#user-content-机器学习及人工智能)
+	1. [图灵奖](#user-content-图灵奖)
+1. [Java及JavaEE](#user-content-Java及JavaEE)
+	1. [Java](#user-content-Java)
+	1. [HTML&CSS](#user-content-HTML&CSS)
+	1. [JavaScript](#user-content-JavaScript)
+	1. [XML](#user-content-XML)
+	1. [JavaEE](#user-content-JavaEE)
+	1. [开发工具](#user-content-开发工具)
+	1. [Java库及框架等介绍](#user-content-Java库及框架等介绍)
+1. [Linux](#user-content-编程语言)
+	1. [Linux命令](#user-content-Linux命令)
+	1. [Shell](#user-content-Shell)
+	1. [Vim](#user-content-Vim)
+	1. [Linux源码](#user-content-Linux源码)
+1. [科学研究](#user-content-编程语言)
+	1. [期刊杂志](#user-content-期刊杂志)
+	2. [论文](#user-content-论文)
+	3. [会议](#user-content-会议)
+1. [综合](#user-content-综合)
+	1. [项目管理](#user-content-项目管理)
+	1. [产品](#user-content-产品)
+	1. [自动化测试及运维](#user-content-自动化测试及运维)
+	1. [网络安全](#user-content-网络安全)
+	1. [云平台](#user-content-云平台)
+	1. [其他语言](#user-content-其他语言)
+	1. [其他工具](#user-content-其他工具)
+	1. [Mac工具](#user-content-Mac工具)
+	1. [GitHub](#user-content-GitHub)
+	1. [其他](#user-content-其他)
+1. [关于我们](#user-content-关于我们)
+	1. [我](#user-content-我)
+	2. [感谢](#user-content-感谢)
 
 ## 计算机基础知识
 学习Java首先需要对计算机基础知识有比较好的理解。这个是未来能否走的更远、更好的关键。
