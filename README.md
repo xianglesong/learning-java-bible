@@ -330,10 +330,10 @@
 		1. [Struts](https://struts.apache.org)
 		1. [Guava](https://github.com/google/guava)  Google core libraries for Java.
 	1. 日志
-		1. Log4j
-		2. SLF4j
-		3. Logback
-		4. Common-Log
+		1. [Log4j](https://logging.apache.org/log4j/2.x/)
+		2. [SLF4j](https://www.slf4j.org)
+		3. [Logback](https://logback.qos.ch)
+		4. [Common-Logging](http://commons.apache.org/proper/commons-logging)
 	1. 缓存
 		1. [EHCache](http://www.ehcache.org/)
 	1. IOC
