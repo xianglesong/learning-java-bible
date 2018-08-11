@@ -502,9 +502,10 @@ Linux是Java程序员必须掌握的核心工具。
 	3. ISO认证
 	
 1. #### 其他
-	1. 	SEO
-	2. 点石成金
-	3. 用户体验
+	1. 	[图书][SEO实战密码——60天网站流量提高20倍](http://product.dangdang.com/23738363.html)
+	2. [图书][点石成金](http://product.dangdang.com/23611791.html)
+	3. [图书][用户体验要素：以用户为中心的产品设计](http://product.dangdang.com/21110580.html)
+	4. [图书][设计之下——搜狐新闻客户端的用户体验设计（全彩）](http://product.dangdang.com/23409934.html)
 
 1. ### 其他工具
 	1. 数据库
