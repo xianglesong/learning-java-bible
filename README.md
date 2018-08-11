@@ -704,9 +704,9 @@ Kubernetes is an open-source system for automating deployment, scaling, and mana
 		1. [Hadoop](http://hadoop.apache.org) 对于想了解分布式存储和计算的人来说，推荐阅读。
 		1. [HBase](http://hbase.apache.org) 对于了解NOSQL的也值得一读。
 		1. [Tomcat](http://tomcat.apache.org) 我是理解其处理过程，没有完全看过。
-		1. [ActiveMQ] (http://activemq.apache.org) 看过，后来也忘了。
-		1. [Nutch] (http://nutch.apache.org) 研究过代码，学习Hadoop和搜索引擎的可以看看。
-		1. [Netty] (https://netty.io) 看过DEMO，没仔细研究过。
+		1. [ActiveMQ](http://activemq.apache.org) 看过，后来也忘了。
+		1. [Nutch](http://nutch.apache.org) 研究过代码，学习Hadoop和搜索引擎的可以看看。
+		1. [Netty](https://netty.io) 看过DEMO，没仔细研究过。
 		1. [Linux](https://www.linux.org) 我的终结结论就是一句话，就是一切都是逻辑。
 	2. 论文
 		1. [一种哈希表快速查找的改进方法](http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=jsjgcykx200809021)
