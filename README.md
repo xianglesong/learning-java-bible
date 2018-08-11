@@ -543,6 +543,7 @@ Kubernetes is an open-source system for automating deployment, scaling, and mana
 	1. MQTT
 		1. [Mosquito](https://mosquitto.org) Eclipse Mosquitto is an open source (EPL/EDL licensed) message broker that implements the MQTT protocol versions 3.1 and 3.1.1. Mosquitto is lightweight and is suitable for use on all devices from low power single board computers to full servers.
 	1. [Storm](http://storm.apache.org) Apache Storm is a free and open source distributed realtime computation system. 
+		1. [图书][Storm分布式实时计算模式](http://product.dangdang.com/23616223.html) Apache Storm 项目核心贡献者亲笔撰写，涵盖多种分布式计算相关主题。
 	
 1. ### 推荐GitHub
 	1. [https://github.com/akullpp/awesome-java](https://github.com/akullpp/awesome-java)  A curated list of awesome frameworks, libraries and software for the Java programming language.
