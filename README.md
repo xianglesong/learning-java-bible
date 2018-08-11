@@ -325,7 +325,6 @@
 		1. [MyBatis](http://www.mybatis.org/mybatis-3)
 		1. [Hibernate](http://hibernate.org) 
 		1. [Struts](https://struts.apache.org)
-		1. [SpringCloud](http://projects.spring.io/spring-cloud)
 		1. [Guava](https://github.com/google/guava)  Google core libraries for Java.
 	1. 日志
 		1. Log4j
@@ -417,7 +416,7 @@
 	    1. [Spark](https://spark.apache.org/) A unified analytics engine for large-scale data processing.
 
 	1. [Kylin](http://kylin.apache.org/cn) Apache Kylin™ is an open source Distributed Analytics Engine designed to provide SQL interface and multi-dimensional analysis (OLAP) on Hadoop/Spark supporting extremely large datasets, original contributed from eBay Inc.
-	1. SpringCloud
+	1. [SpringCloud](http://projects.spring.io/spring-cloud)
 	    1. [SpringBoot](http://spring.io/projects/spring-boot) Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
 	    1. [Eureka](https://github.com/Netflix/eureka) AWS Service registry for resilient mid-tier load balancing and failover.
 	    1. [Zuul](https://github.com/Netflix/zuul) Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
