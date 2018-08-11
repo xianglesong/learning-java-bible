@@ -54,7 +54,7 @@
 	1. [其他语言](#user-content-其他语言)
 	1. [其他工具](#user-content-其他工具)
 	1. [Mac工具](#user-content-mac工具)
-	1. [GitHub](#user-content-github)
+	1. [推荐GitHub](#user-content-推荐github)
 	1. [其他](#user-content-其他)
 1. [关于我们](#user-content-关于我们)
 	1. [我](#user-content-我)
