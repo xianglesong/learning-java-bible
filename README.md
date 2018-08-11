@@ -434,6 +434,7 @@ Linux是Java程序员必须掌握的核心工具。
 1. ###  Linux基础
 	1. [图书][鸟哥的Linux私房菜:基础学习篇](http://product.dangdang.com/20866026.html)
 	1. [图书][Linux命令行大全](http://product.dangdang.com/23204024.html) 从命令行学起，也是学习Linux的一个不错路径。
+	1. [图书][UNIX/Linux 系统管理技术手册](http://product.dangdang.com/22750915.html)
 
 1. ### Shell
 	1. [图书][Linux命令行与shell脚本编程大全](http://product.dangdang.com/24013685.html)
@@ -449,8 +450,15 @@ Linux是Java程序员必须掌握的核心工具。
 		1. $输入$vimtutor en可以进入自带教程，好好学习，天天向上。
 		1. [http://www.linfo.org/vi/index.html](http://www.linfo.org/vi/index.html)
 		1. Emacs和VIM：神的编辑器和编辑器之神。
-1. ### Linux源码
-	1. [图书]莱昂氏UNIX源代码分析
+1. ### Linux编程
+	1. Linux源码
+		1. [图书]莱昂氏UNIX源代码分析
+		1. [图书][Linux 内核完全注释](http://product.dangdang.com/8914120.html)
+	1. Linux编程
+		1. [图书][Unix编程艺术](http://product.dangdang.com/22863178.html) 被极客程序员奉如圭臬的神人神作。
+		1. [图书][UNIX环境高级编程](http://product.dangdang.com/23481078.html)
+		1. [图书][Linux内核设计与实现](http://product.dangdang.com/21065276.html)
+		1. [图书][深入理解LINUX内核](http://product.dangdang.com/20046247.html)
 	
 ## 科学研究
 能否独立研究解决问题。
