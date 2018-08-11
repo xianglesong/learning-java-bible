@@ -412,8 +412,10 @@
 	1. 分布式存储
 	    1. [Ceph](https://ceph.com/)
 	1. 数据挖掘
-	    1. [Weka](https://www.cs.waikato.ac.nz/ml/weka/) Weka is a collection of machine learning algorithms for data mining tasks. 
+	    1. [Weka](https://www.cs.waikato.ac.nz/ml/weka) Weka is a collection of machine learning algorithms for data mining tasks. 
+	    	1. [图书][数据挖掘与机器学习——WEKA应用技术与实践](http://product.dangdang.com/24016031.html)
 	    1. [Mahout](http://mahout.apache.org/) For Creating Scalable Performant Machine Learning Applications.
+	    	1. [图书][Mahout in Action]
 	    1. [Spark](https://spark.apache.org/) A unified analytics engine for large-scale data processing.
 
 	1. [Kylin](http://kylin.apache.org/cn) Apache Kylin™ is an open source Distributed Analytics Engine designed to provide SQL interface and multi-dimensional analysis (OLAP) on Hadoop/Spark supporting extremely large datasets, original contributed from eBay Inc.
