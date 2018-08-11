@@ -15,7 +15,7 @@
 * 256K is OK. -- Bill Gates
 
 ## 目录
-1. [计算机基础知识](#computer)
+1. [计算机基础知识](#user-content-计算机基础知识)
 	1. [编程语言](#program)
 	1. 数据结构和算法
 	1. 操作系统
@@ -60,10 +60,10 @@
 	1. 我
 	2. 感谢
 
-## <span id="computer">计算机基础知识</span>
+## 计算机基础知识
 学习Java首先需要对计算机基础知识有比较好的理解。这个是未来能否走的更远、更好的关键。
 
-1. ### <span id="program">编程语言</span>
+1. ### 编程语言
 	1. C
 		1. [图书][C程序设计语言](http://product.dangdang.com/8766529.html)
 		1. [图书][C程序设计语言(英文版)](http://product.dangdang.com/9196242.html)
@@ -384,7 +384,7 @@
 		(Elasticsearch is a distributed, RESTful search and analytics engine capable of solving a growing number of use cases. As the heart of the Elastic Stack, it centrally stores your data so you can discover the expected and uncover the unexpected.)
 			1. [图书][深入理解Elasticsearch](http://product.dangdang.com/25084053.html)
 			1. [图书][Elasticsearch服务器开发](http://product.dangdang.com/23659310.html)
-			1. [图书][Elasticsearch Cookbook](http://product.dangdang.com/1900490173.html)
+			1. [图书][Elasticsearch ](http://product.dangdang.com/1900490173.html)
 		1. [elasticsearch-analysis-ik](https://github.com/medcl/elasticsearch-analysis-ik) The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support customized dictionary.
 		1. [jpinyin](https://github.com/stuxuhai/jpinyin) JPinyin是一个汉字转拼音的Java开源类库。
 		1. [pinyin4j](https://github.com/belerweb/pinyin4j) A copy of http://sourceforge.net/projects/pinyin4j, then deploy it to maven central repository.
