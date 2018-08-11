@@ -235,7 +235,7 @@
 	1. [图书][jQuery基础教程](http://product.dangdang.com/23352323.html)
 	1. [图书][精通jQuery](http://product.dangdang.com/23553774.html)
 	1. [AngularJS](https://angularjs.org/) AngularJS is a JavaScript framework. 
-	1. [图书][AngularJS学习手册](http://product.dangdang.com/23815176.html)
+		1. [图书][AngularJS学习手册](http://product.dangdang.com/23815176.html)
 	1. [视频][李炎恢JavaScript教程 第一季](http://study.163.com/course/introduction/252008.htm)
 	1. [视频][JavaScript（翁恺）](http://study.163.com/course/introduction/195001.htm)
 	1. [视频][JavaScript面试题系列](http://study.163.com/course/introduction/742021.htm)
