@@ -376,11 +376,13 @@
 		1. [Lucene](http://lucene.apache.org/) 建立索引和查询库。(The goal of Apache Lucene and Solr is to provide world class search capabilities.)
 			1. [图书][Lucene实战](http://product.dangdang.com/21094976.html)
 			1. [图书][Lucene分析与应用](http://product.dangdang.com/20362257.html)
+			1. [论坛][Lucene](http://lucene.472066.n3.nabble.com)
 		1. [Solr](http://lucene.apache.org/solr) 企业级搜索平台基于Lucene的封装。(Solr is the popular, blazing-fast, open source enterprise search platform built on Apache Lucene™.)
 			1. [图书][Solr实战](http://product.dangdang.com/25082460.html)
-			2. [图书][Solr Cookbook](http://product.dangdang.com/1900482179.html)
-			3. [图书][Solr 1.4 Enterprise Search Server](http://product.dangdang.com/1900489897.html)
-			4. [图书][Apache Solr 3 Enterprise Search Server](http://product.dangdang.com/1900489427.html)
+			1. [图书][Solr Cookbook](http://product.dangdang.com/1900482179.html)
+			1. [图书][Solr 1.4 Enterprise Search Server](http://product.dangdang.com/1900489897.html)
+			1. [图书][Apache Solr 3 Enterprise Search Server](http://product.dangdang.com/1900489427.html)
+			1. [论坛][Solr](http://lucene.472066.n3.nabble.com)
 		1. [ElasticSearch](https://github.com/xianglesong/learning-javas/blob/master/platform/ElasticSearch.md) 分布式搜索利器，广泛使用。
 		(Elasticsearch is a distributed, RESTful search and analytics engine capable of solving a growing number of use cases. As the heart of the Elastic Stack, it centrally stores your data so you can discover the expected and uncover the unexpected.)
 			1. [图书][深入理解Elasticsearch](http://product.dangdang.com/25084053.html)
@@ -672,9 +674,6 @@ Kubernetes is an open-source system for automating deployment, scaling, and mana
 		1. [阿里中间件团队博客](http://jm.taobao.org)
 		1. [美团技术团队](https://tech.meituan.com)
 		1. [网易乐得技术团队](http://tech.lede.com)
-	1. 论坛
-		1. [Lucene](http://lucene.472066.n3.nabble.com)
-		1. [Solr](http://lucene.472066.n3.nabble.com)
 	1. 视频
 		1. [极客学院](http://www.jikexueyuan.com)
 		1. [网易云课堂](http://study.163.com)
