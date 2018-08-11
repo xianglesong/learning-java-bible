@@ -511,9 +511,13 @@ Linux是Java程序员必须掌握的核心工具。
 	1. Axure
 	
 1. #### 项目管理
-	1. PMP
+	1. [PMP](https://www.pmi.org/) 美国项目管理工程师协会认证，全球认可，做项目管理的一定要学习。和国内软考的信息系统项目管理师考试雷同，考个国内的也可以，国外贵，单易考。
+		1. [图书][项目管理知识体系指南（PMBOK指南：第5版）](http://product.dangdang.com/23256884.html)
+		1. [图书][西游记PMP备考奇书](http://product.dangdang.com/23639808.html)
+		1. [图书][汪博士解读PMP考试](http://product.dangdang.com/25229379.html)
 	2. 敏捷开发
-	3. ISO认证
+		1. [图书][Scrum实战——敏捷软件项目管理与开发](http://product.dangdang.com/25294242.html)
+	3. [ISO](https://www.iso.org)
 	
 1. #### 其他
 	1. 	[图书][SEO实战密码——60天网站流量提高20倍](http://product.dangdang.com/23738363.html)
@@ -631,7 +635,6 @@ Kubernetes is an open-source system for automating deployment, scaling, and mana
 
 1. ### 考试认证
 	1. OCJP Oracle公司的Java工程师认证。通过该考试表明较好的掌握Java基础知识。
-	1. [PMP](https://www.pmi.org/) 美国项目管理工程师协会认证，全球认可，做项目管理的一定要学习。和国内软考的信息系统项目管理师考试雷同，考个国内的也可以，国外贵，单易考。
 	1. Linux 有红帽认证等。
 	1. Database 有Oracle和DB2等认证。
 	1. [软考](http://www.ruankao.org.cn/)
