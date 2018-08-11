@@ -185,6 +185,7 @@
 		1. [图书][Java性能优化权威指南](http://product.dangdang.com/23421069.html)
 		1. [图书][深入理解Java虚拟机：JVM高级特性与最佳实践](http://product.dangdang.com/23259731.html)
 		1. [图书][Java并发](https://github.com/xianglesong/learning-javas/blob/master/basic/Java并发.md)  Java并发包的使用是中高级程序员必须掌握的技能之一。
+		1. [图书][Java网络编程](http://product.dangdang.com/23560594.html)
 	1. 面向对象软件设计
 		1. [图书][设计模式 可复用面向对象软件的基础](http://product.dangdang.com/71052.html)
 		1. [图书]Java与模式
@@ -301,6 +302,7 @@
 		1. [Nexus](https://www.sonatype.com/nexus-repository-sonatype) Maven私服。
 	1. 持续集成
 		1. [Jenkins](https://jenkins.io/) The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project.
+			1. [图书][Jenkins权威指南](http://product.dangdang.com/24048566.html)
 		1. [Teamcity](https://www.jetbrains.com/teamcity/) Powerful Continuous Integration out of the box.
 	1. IDE插件
 		1. [Findbugs](http://findbugs.sourceforge.net) 一般用在IDE插件，帮助发现bug。(This is the web page for FindBugs, a program which uses static analysis to look for bugs in Java code. )
@@ -400,6 +402,7 @@
 		1. [Oozie](http://oozie.apache.org/) Hadoop工作流调度工具。(Apache Oozie Workflow Scheduler for Hadoop.)
 	1. 性能测试
 		1. [JMeter](http://jmeter.apache.org/) The Apache JMeter™ application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance. It was originally designed for testing Web Applications but has since expanded to other test functions.
+			1. [图书][全栈性能测试修炼宝典 JMeter实战](http://product.dangdang.com/24048538.html)
    1. 二维码
 	    1. [ZXing](https://github.com/zxing/zxing) ZXing ("Zebra Crossing") barcode scanning library for Java, Android.
 	1. 图像处理
@@ -498,8 +501,11 @@ Linux是Java程序员必须掌握的核心工具。
 		1. [图书][精通iOS开发](http://product.dangdang.com/25113926.html)
 	1. PHP
 		1. [图书][PHP和MySQL Web开发](http://product.dangdang.com/20546846.html)
+		1. [图书][深入PHP：面向对象、模式与实践](http://product.dangdang.com/22459608.html)
 	1. 其他
 		1. [图书]编码的奥秘
+		1. [图书][松本行弘的程序世界](http://product.dangdang.com/22471151.html)
+		1. [图书][编程珠玑](http://product.dangdang.com/23640352.html) 
 
 1. 产品
 	1. Axure
@@ -566,8 +572,12 @@ Kubernetes is an open-source system for automating deployment, scaling, and mana
 		1. 其实是域名劫持技术黑科技的好应用。 
 		1. [网宿科技](http://www.wangsu.com)
 	1. [JumpServer](http://www.jumpserver.org/) 是全球首款完全开源的堡垒机,使用GNU GPL v2.0开源协议,是符合 4A 的专业运维安全审计系统。
+	1. [图书][海量运维、运营规划之道](http://product.dangdang.com/23380755.html)
+	1. [图书][网站运维技术与实践]
+	1. Zabbix
+		1. [图书][Zabbix监控系统]
 1. ### 网络安全
-	1. 
+	1. [图书][白帽子讲Web安全](http://product.dangdang.com/23506094.html)
 1. ### 云平台
 	1. [阿里云](https://www.aliyun.com) 我个人也购买过，我以前的公司沪江购买过。
 	1. [腾讯云](https://cloud.tencent.com)
@@ -605,6 +615,7 @@ Kubernetes is an open-source system for automating deployment, scaling, and mana
    1. [Parall Client](https://www.parallels.com/cn/products/ras/features/parallels-client) Parallels Client is an easy-to-install client software that provides access to your Parallels RAS installations.
 	1. [Dash](https://kapeli.com/dash)  快速访问API。(Dash gives your Mac instant offline access to 200+ API documentation sets.)
 	1. [Redis Desktop Manager](https://redisdesktop.com/)  访问Redis的工具。(Redis Desktop Manager (aka RDM) — is a fast open source Redis database management application for Windows, Linux and MacOS.)
+		1. [图书][Redis实战](http://product.dangdang.com/23800641.html)
 	1. [Robo 3T](https://robomongo.org/)  访问MongoDB的工具。(Robo 3T (formerly Robomongo) is the free lightweight GUI for MongoDB enthusiasts.)
 	1. [MongoHub](https://github.com/jeromelebel/MongoHub-Mac)  访问MongoDB的工具。(Mac Native Mongodb Client.)
 	1. [SourceTree](https://www.sourcetreeapp.com)  版本控制管理工具。(The friendly GUI for Mercurial and Git on your Mac.)
