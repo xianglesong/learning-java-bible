@@ -386,7 +386,7 @@
 			1. [图书][Elasticsearch服务器开发](http://product.dangdang.com/23659310.html)
 			1. [图书][Elasticsearch ](http://product.dangdang.com/1900490173.html)
 		1. [elasticsearch-analysis-ik](https://github.com/medcl/elasticsearch-analysis-ik) The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support customized dictionary.
-		1. [jpinyin](https://github.com/stuxuhai/jpinyin) JPinyin是一个汉字转拼音的Java开源类库。
+		1. [JPinyin](https://github.com/stuxuhai/jpinyin) JPinyin是一个汉字转拼音的Java开源类库。不过好像被删除了，需要自己找了。
 		1. [pinyin4j](https://github.com/belerweb/pinyin4j) A copy of http://sourceforge.net/projects/pinyin4j, then deploy it to maven central repository.
 	1. 分布式存储和计算
 		1. [Hadoop](https://github.com/xianglesong/learning-javas/blob/master/platform/Hadoop.md) 分布式文件存储和技术框架，云计算的利器。(The
@@ -394,6 +394,8 @@
 		1. hive
 	1. 分布式协调器
 		1. [Zookeeper](https://github.com/xianglesong/learning-javas/blob/master/platform/Zookeeper.md) Zookeeper提供分布式同步功能，在今天的分布式系统中有广泛使用。(A high-performance coordination service for distributed applications.)
+			1. [curator](http://curator.apache.org) Apache Curator is a Java/JVM client library for Apache ZooKeeper, a distributed coordination service. It includes a highlevel API framework and utilities to make using Apache ZooKeeper much easier and more reliable. It also includes recipes for common use cases and extensions such as service discovery and a Java 8 asynchronous DSL.
+
 	1. 分布式数据库
 		1. [HBase](http://hbase.apache.org/) 建立在Hadoop上的分布式数据库。(Apache HBase™ is the Hadoop database, a distributed, scalable, big data store.)
 		1. [Cassandra](http://cassandra.apache.org/) 分布式数据库(The Apache Cassandra database is the right choice when you need scalability and high availability without compromising performance.)
@@ -416,19 +418,18 @@
 	    1. [Weka](https://www.cs.waikato.ac.nz/ml/weka/) Weka is a collection of machine learning algorithms for data mining tasks. 
 	    1. [Mahout](http://mahout.apache.org/) For Creating Scalable Performant Machine Learning Applications.
 	    1. [Spark](https://spark.apache.org/) A unified analytics engine for large-scale data processing.
-    1. 深度学习
-	    1. [DeepLearning](https://github.com/yusugomori/DeepLearning) Deep Learning (Python, C, C++, Java, Scala, Go) http://yusugomori.com
-	 1. [Kylin](http://kylin.apache.org/cn)
+	 1. [Kylin](http://kylin.apache.org/cn) Apache Kylin™ is an open source Distributed Analytics Engine designed to provide SQL interface and multi-dimensional analysis (OLAP) on Hadoop/Spark supporting extremely large datasets, original contributed from eBay Inc.
 	 1. SpringCloud
 	    1. [SpringBoot](http://spring.io/projects/spring-boot) Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
 	    1. [Eureka](https://github.com/Netflix/eureka) AWS Service registry for resilient mid-tier load balancing and failover.
 	    1. [Zuul](https://github.com/Netflix/zuul) Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
 	    1. [Zipkin](https://github.com/openzipkin/zipkin) Zipkin is a distributed tracing system http://zipkin.io
 	    1. [Hystrix](https://github.com/Netflix/Hystrix) Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
-	1. [Velocity](http://velocity.apache.org) Velocity is a Java-based template engine. 
-	1. [FreeMarker](https://freemarker.apache.org) FreeMarker is a template engine.
-	1. [ZooKeeper](http://zookeeper.apache.org) Apache ZooKeeper is an effort to develop and maintain an open-source server which enables highly reliable distributed coordination.
-		1. [curator](http://curator.apache.org) Apache Curator is a Java/JVM client library for Apache ZooKeeper, a distributed coordination service. It includes a highlevel API framework and utilities to make using Apache ZooKeeper much easier and more reliable. It also includes recipes for common use cases and extensions such as service discovery and a Java 8 asynchronous DSL.
+	1. 模版引擎
+		1. [Velocity](http://velocity.apache.org) Velocity is a Java-based template engine. 
+		1. [FreeMarker](https://freemarker.apache.org) FreeMarker is a template engine.
+	1. 深度学习
+	    1. [DeepLearning](https://github.com/yusugomori/DeepLearning) Deep Learning (Python, C, C++, Java, Scala, Go) http://yusugomori.com
 
 ## Linux
 Linux是Java程序员必须掌握的核心工具。
@@ -529,7 +530,7 @@ Kubernetes is an open-source system for automating deployment, scaling, and mana
 		1. [Mosquito](https://mosquitto.org) Eclipse Mosquitto is an open source (EPL/EDL licensed) message broker that implements the MQTT protocol versions 3.1 and 3.1.1. Mosquitto is lightweight and is suitable for use on all devices from low power single board computers to full servers.
 	1. [Storm](http://storm.apache.org) Apache Storm is a free and open source distributed realtime computation system. 
 	
-1. ### GitHub
+1. ### 推荐GitHub
 	1. [https://github.com/akullpp/awesome-java](https://github.com/akullpp/awesome-java)  A curated list of awesome frameworks, libraries and software for the Java programming language.
 	1. [https://github.com/jobbole/awesome-java-cn](https://github.com/jobbole/awesome-java-cn)  Java资源大全中文版。 
 	1. [https://github.com/Vedenin/useful-java-links](https://github.com/Vedenin/useful-java-links)  A list of useful Java frameworks, libraries, software and hello worlds examples.
@@ -542,13 +543,14 @@ Kubernetes is an open-source system for automating deployment, scaling, and mana
 	1. [interviews](https://github.com/kdn251/interviews)  Everything you need to know to get the job.
 1. ### 自动化测试及运维
 	1. [Selium](https://www.seleniumhq.org)  A browser automation framework and ecosystem. 
+		1. [图书][Selenium 2自动化测试实战——基于Python语言](http://product.dangdang.com/23851258.html)
 	1. [Azkaban](https://azkaban.github.io/) Open-source Workflow Manager.
 	1. CDN
 		1. 其实是域名劫持技术黑科技的好应用。 
 		1. [网宿科技](http://www.wangsu.com)
 	1. [JumpServer](http://www.jumpserver.org/) 是全球首款完全开源的堡垒机,使用GNU GPL v2.0开源协议,是符合 4A 的专业运维安全审计系统。
 1. ### 网络安全
-
+	1. 
 1. ### 云平台
 	1. [阿里云](https://www.aliyun.com) 我个人也购买过，我以前的公司沪江购买过。
 	1. [腾讯云](https://cloud.tencent.com)
