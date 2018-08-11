@@ -497,7 +497,7 @@ Linux是Java程序员必须掌握的核心工具。
 	1. iOS
 		1. [图书][精通iOS开发](http://product.dangdang.com/25113926.html)
 	1. PHP
-		1. [图书][php和mysql web开发](http://product.dangdang.com/20546846.html)
+		1. [图书][PHP和MySQL Web开发](http://product.dangdang.com/20546846.html)
 	1. 其他
 		1. [图书]编码的奥秘
 
