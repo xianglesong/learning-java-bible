@@ -171,7 +171,7 @@
 ## Java及JavaEE
 1. ### Java
 	1. [Java官网](http://java.oracle.com) Java官方地址，Jaysva开发工具、文档、bug等信息权威发布。
-	1. [Java 规范](https://docs.oracle.com/javase/specs) Java Language and Virtual Machine Specifications. 
+	1. [Java规范](https://docs.oracle.com/javase/specs) Java Language and Virtual Machine Specifications. 
 	1. [Javaee-spec](https://javaee.github.io/javaee-spec) Java EE Platform Specification.
 	1. [OpenJDK](http://openjdk.java.net) 开源JDK，JDK的编译是Java程序员需要了解的技能。
 	1. [Linux](https://www.linux.org/) Java虽然是跨平台的，但是和Linux是完美搭配，做服务器端体会更深。
