@@ -202,7 +202,6 @@
 	1. [图书][HTML5权威指南](http://product.dangdang.com/23386583.html)
 	1. [文章][https://developer.mozilla.org/zh-CN/docs/Web](https://developer.mozilla.org/zh-CN/docs/Web)
 	1. [视频][8小时学会HTML网页开发](http://study.163.com/course/courseMain.htm?courseId=432008)
-	1. [视频][8小时学会HTML网页开发](http://study.163.com/course/courseMain.htm?courseId=432008)
 	1. [视频][翁恺 HTML5入门](http://study.163.com/course/introduction/171001.htm#/courseDetail)
 	1. [视频][麦子学院 HTML5+CSS3快速入门](http://study.163.com/course/courseMain.htm?courseId=999036)
 	1. [视频][妙味 HTML5前端开发实战1](http://study.163.com/course/courseMain.htm?courseId=717031#/courseDetail)
