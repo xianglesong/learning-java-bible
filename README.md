@@ -228,6 +228,7 @@
 	1. [源码][CSS ZEN GARDEN](http://www.csszengarden.com)
 	1. [框架][Bootstrap](https://getbootstrap.com/) Bootstrap is an open source toolkit for developing with HTML, CSS, and JS.
 	1. [框架][EasyUI](https://www.jeasyui.com/) EasyUI for jQuery provides easy to use components for web developers, which is built on the popular jQuery core and HTML5. These make your applications suitable for today's web. 
+	1. [GitHub][Material Design icons by Google](https://github.com/google/material-design-icons)
 
 1. ### JavaScript
 	1. JavaScript是web开发必须学习的，ECMAScript是其规则来源。
@@ -465,11 +466,46 @@
 		1. [Kibana](https://github.com/elastic/kibana) Kibana analytics and search dashboard for Elasticsearch.
 	1. [JUnit](https://junit.org/junit4) A programmer-oriented testing framework for Java.
 	1. [EasyMock](http://easymock.org) EasyMock, makes mocking easier since 2001.
+	1. [JFreeChart](http://www.jfree.org/jfreechart) JFreeChart is a free 100% Java chart library that makes it easy for developers to display professional quality charts in their applications. 
 	1. 深度学习
 	   1. [DeepLearning](https://github.com/yusugomori/DeepLearning) Deep Learning (Python, C, C++, Java, Scala, Go) http://yusugomori.com
 		1. [Deep Learning 中文翻译](https://github.com/exacity/deeplearningbook-chinese) Deep Learning Book Chinese Translation.
 	1. [WordPress](https://cn.wordpress.org) WordPress是使用PHP语言开发的博客平台，用户可以在支持PHP和MySQL数据库的服务器上架设属于自己的网站。也可以把 WordPress当作一个内容管理系统（CMS）来使用。
-	
+	1. 数据库
+		1. [MySQL](https://www.mysql.com)
+			1. [图书][MySQL DBA修炼之道](http://product.dangdang.com/24194120.html) 数据库技术专家撰写，多年数据库领域的经验结晶。实战性强，从架构、调优、运维、开发、测试等多个角度对MySQL管理和维护进行了全方位的归纳和总结，包含大量来自实际生产环境的经典案例。
+		2. Teradata
+	1. 缓存
+		1. [Redis](https://redis.io) Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker.
+		1. [MemCache](http://memcached.org) A distributed memory object caching system.
+	1. 消息
+		1. [RabbitMQ](http://www.rabbitmq.com) RabbitMQ is the most widely deployed open source message broker.
+			1. [图书][RabbitMQ实战：高效部署分布式消息队列](http://product.dangdang.com/23799313.html)
+		1. [Kafka](http://kafka.apache.org) A distributed streaming platform.
+			1. [GitHub][Kafka Manager](https://github.com/yahoo/kafka-manager) A tool for managing Apache Kafka.
+	1. 代理、反向代理
+		1. [Nginx](http://nginx.org) Nginx [engine x] is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server, originally written by Igor Sysoev.
+		1. [HAProxy](http://www.haproxy.org) 
+	1. 缓存
+		1. [Varnish](http://varnish-cache.org) Varnish HTTP Cache
+		1. [Squid](http://www.squid-cache.org) Squid is a caching proxy for the Web supporting HTTP, HTTPS, FTP, and more.
+	1. 虚拟机
+		1. [VirtualBox](https://www.virtualbox.org)
+		1. [VMware](https://www.vmware.com) 
+	1. [Docker](https://www.docker.com) Build, Manage and Secure Your Apps Anywhere. Your Way.
+	1. [Kubernetes](https://kubernetes.io) 
+Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications.
+	1. [Mesos](http://mesos.apache.org) Apache Mesos abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
+	1. 序列化、反序列化
+		1. [Protobuf](https://github.com/google/protobuf) Protocol Buffers - Google's data interchange format https://developers.google.com/protocol-buffers .
+	1. MQTT
+		1. [Mosquito](https://mosquitto.org) Eclipse Mosquitto is an open source (EPL/EDL licensed) message broker that implements the MQTT protocol versions 3.1 and 3.1.1. Mosquitto is lightweight and is suitable for use on all devices from low power single board computers to full servers.
+	1. [Storm](http://storm.apache.org) Apache Storm is a free and open source distributed realtime computation system. 
+		1. [图书][Storm分布式实时计算模式](http://product.dangdang.com/23616223.html) Apache Storm 项目核心贡献者亲笔撰写，涵盖多种分布式计算相关主题。
+	1. ABTest
+		1. [Sixpack](https://github.com/sixpack/sixpack-java) A Java client for the Sixpack A/B testing framework.
+	1. [Tesseract](https://github.com/tesseract-ocr/tesseract) Tesseract Open Source OCR Engine.
+
 ## Linux
 Linux是Java程序员必须掌握的核心工具。
 
@@ -566,39 +602,7 @@ Linux是Java程序员必须掌握的核心工具。
 	5. [图书][数学之美](http://product.dangdang.com/23594870.html)
 
 1. ### 其他工具
-	1. 数据库
-		1. [MySQL](https://www.mysql.com)
-			1. [图书][MySQL DBA修炼之道](http://product.dangdang.com/24194120.html) 数据库技术专家撰写，多年数据库领域的经验结晶。实战性强，从架构、调优、运维、开发、测试等多个角度对MySQL管理和维护进行了全方位的归纳和总结，包含大量来自实际生产环境的经典案例。
-		2. Teradata
-	1. 缓存
-		1. [Redis](https://redis.io) Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker.
-		1. [MemCache](http://memcached.org) A distributed memory object caching system.
-	1. 消息
-		1. [RabbitMQ](http://www.rabbitmq.com) RabbitMQ is the most widely deployed open source message broker.
-			1. [图书][RabbitMQ实战：高效部署分布式消息队列](http://product.dangdang.com/23799313.html)
-		1. [Kafka](http://kafka.apache.org) A distributed streaming platform.
-			1. [GitHub][Kafka Manager](https://github.com/yahoo/kafka-manager) A tool for managing Apache Kafka.
-	1. 代理、反向代理
-		1. [Nginx](http://nginx.org) Nginx [engine x] is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server, originally written by Igor Sysoev.
-		1. [HAProxy](http://www.haproxy.org) 
-	1. 缓存
-		1. [Varnish](http://varnish-cache.org) Varnish HTTP Cache
-		1. [Squid](http://www.squid-cache.org) Squid is a caching proxy for the Web supporting HTTP, HTTPS, FTP, and more.
-	1. 虚拟机
-		1. [VirtualBox](https://www.virtualbox.org)
-		1. [VMware](https://www.vmware.com) 
-	1. [Docker](https://www.docker.com) Build, Manage and Secure Your Apps Anywhere. Your Way.
-	1. [Kubernetes](https://kubernetes.io) 
-Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications.
-	1. [Mesos](http://mesos.apache.org) Apache Mesos abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
-	1. 序列化、反序列化
-		1. [Protobuf](https://github.com/google/protobuf) Protocol Buffers - Google's data interchange format https://developers.google.com/protocol-buffers .
-	1. MQTT
-		1. [Mosquito](https://mosquitto.org) Eclipse Mosquitto is an open source (EPL/EDL licensed) message broker that implements the MQTT protocol versions 3.1 and 3.1.1. Mosquitto is lightweight and is suitable for use on all devices from low power single board computers to full servers.
-	1. [Storm](http://storm.apache.org) Apache Storm is a free and open source distributed realtime computation system. 
-		1. [图书][Storm分布式实时计算模式](http://product.dangdang.com/23616223.html) Apache Storm 项目核心贡献者亲笔撰写，涵盖多种分布式计算相关主题。
-	1. ABTest
-		1. [Sixpack](https://github.com/sixpack/sixpack-java) A Java client for the Sixpack A/B testing framework.
+	
 1. ### 推荐GitHub
 	1. [https://github.com/akullpp/awesome-java](https://github.com/akullpp/awesome-java)  A curated list of awesome frameworks, libraries and software for the Java programming language.
 	1. [https://github.com/jobbole/awesome-java-cn](https://github.com/jobbole/awesome-java-cn)  Java资源大全中文版。 
