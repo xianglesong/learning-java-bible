@@ -651,6 +651,7 @@ Kubernetes is an open-source system for automating deployment, scaling, and mana
 	1. Linus Benedict Torvalds （林纳斯·本纳第克特·托瓦兹）Software is like sex: it's better when it's free.
 	1. Richard Matthew Stallman（理查德·马修·斯托曼）（生于1953年），自由软件运动的精神领袖、GNU（GNU IS NOT UNIX）计划以及自由软件基金会（Free Software Foundation）的创立者、著名黑客。他的主要成就包括Emacs及后来的GNU Emacs，GNU C 编译器及GNU 调试器。 他所写作的GNU通用公共许可证（GNU GPL）是世上最广为采用的自由软件许可证，为copyleft观念开拓出一条崭新的道路。
 	1. James Gosling（詹姆斯·高斯林 ）詹姆斯·高斯林 （James Gosling，1955年5月19日－，出生于加拿大），软件专家，Java编程语言的共同创始人之一，一般公认他为“Java之父”。
+	1. Doug Cutting 毕业于美国斯坦福大学是Lucene、Nutch等项目的发起人。是他，把高深莫测的搜索技术形成产品，贡献给普罗大众；还是他，打造了目前在云计算和大数据领域里如日中天的Hadoop。
 1. ### 微信公众号
 1. ### 推荐
 	1. 源码学习
