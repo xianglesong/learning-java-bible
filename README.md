@@ -161,6 +161,17 @@
 	1. [Teradata](https://www.teradata.com.cn)
 	1. [DataStage](https://www.ibm.com/us-en/marketplace/datastage) Delivers advanced enterprise ETL.
 	1. [图书][数据挖掘：概念与技术](http://product.dangdang.com/22846300.html)
+	1. [文章][数据挖掘领域的十大经典算法]
+		1. C4.5
+		1. The k-means algorithm
+		1. Support vector machines
+		1. The Apriori algorithm
+		1. 最大期望(EM)算法
+		1. PageRank
+		1. AdaBoost
+		1. kNN: k-nearest neighbor classification
+		1. Naive Bayes
+		1. CART: 分类与回归树
 1. ### 机器学习及人工智能
 	1. [图书][推荐系统实践](http://product.dangdang.com/22775361.html)
 	1. [图书][深度学习](http://product.dangdang.com/25111382.html)
