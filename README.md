@@ -556,10 +556,9 @@ Linux是Java程序员必须掌握的核心工具。
 		1. [维普](http://cqvip.com)
 	1. 经典论文
 		1. [The java.util.concurrent Synchronizer Framework](http://gee.cs.oswego.edu/dl/papers/aqs.pdf) Doug Lea.
-		1. HDFS
-		1. MapReduce
-		1. Zookeeper
-		1. CAP
+		1. The Google File System
+		1. MapReduce: Simplified Data Processing Large Clusters
+		1. Bigtabel: A Distributed Storage System for Struchured Data 
 
 1. ### 会议(Meeting)
 	1. 自然语言处理
