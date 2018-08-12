@@ -87,6 +87,7 @@
 	1. [图书][算法](http://product.dangdang.com/22880871.html) Knuth的学生写的，使用Java语言描述，值得一看。
 	1. [网站][leetcode](https://leetcode.com) 算法题库。
 	1. [网站][lintcode](https://www.lintcode.com/problem/?tag=lintcode-copyright) 中文版leetcode。
+	1. [ACM-ICPC](https://icpc.baylor.edu)
 	1. 大神的书[Donald E. Knuth:图灵奖得主]
 		1. [图书][计算机程序设计艺术 卷1 基本算法](http://product.dangdang.com/23839682.html)
 		1. [图书][计算机程序设计艺术 卷2 半数值算法](http://product.dangdang.com/24007299.html)
@@ -621,6 +622,10 @@ Linux是Java程序员必须掌握的核心工具。
 	1. [Selium](https://www.seleniumhq.org)  A browser automation framework and ecosystem. 
 		1. [图书][Selenium 2自动化测试实战——基于Python语言](http://product.dangdang.com/23851258.html)
 	1. [Azkaban](https://azkaban.github.io/) Open-source Workflow Manager.
+	1. Website Analystics
+		1. [Piwik](https://piwik.org) 
+		1. Baidu
+		1. Google
 	1. CDN
 		1. 其实是域名劫持技术黑科技的好应用。 
 		1. [网宿科技](http://www.wangsu.com)
