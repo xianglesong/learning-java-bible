@@ -314,6 +314,7 @@
 	1. 其他
 		1. [Postman](https://www.getpostman.com/) API访问工具。(Postman Makes API Development Simple.)
 	1. Wiki
+		1. [DokuWiki](https://www.dokuwiki.org) DokuWiki是一个基于PHP开发的开源wiki引擎。它具有小巧、功能强大、灵活的特点，适合于中小团队和个人网站搭建知识库系统。
 	1. [Shadowsocks](https://github.com/shadowsocks/shadowsocks)
 	1. Atlassian
 		1. [Confluence](https://www.atlassian.com/software/confluence) Confluence is content collaboration software that changes how modern teams work.
@@ -510,7 +511,7 @@ Linux是Java程序员必须掌握的核心工具。
 		1. [图书][编程珠玑](http://product.dangdang.com/23640352.html) 
 
 1. 产品
-	1. Axure
+	1. [Axure](https://www.axure.com)
 	
 1. #### 项目管理
 	1. [PMP](https://www.pmi.org/) 美国项目管理工程师协会认证，全球认可，做项目管理的一定要学习。和国内软考的信息系统项目管理师考试雷同，考个国内的也可以，国外贵，单易考。
