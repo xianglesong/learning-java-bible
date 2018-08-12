@@ -292,7 +292,6 @@
 			1. 编码规范
 				1. [Google Java 格式化](https://github.com/google/google-java-format) 推荐使用，插件比较多，各IDE支持好，程序员喜欢。Reformats Java source code to comply with Google Java Style.
 				1. [Alibaba Java 编码规范](https://github.com/alibaba/Alibaba-Java-Coding-Guidelines) 
-		   1. checkstyle
 	1. 构建工具
 		1. [Maven](http://maven.apache.org) Apache Maven is a software project management and comprehension tool.
 			1. [图书][Maven实战](http://product.dangdang.com/20977961.html)
@@ -306,8 +305,7 @@
 		1. [Teamcity](https://www.jetbrains.com/teamcity/) Powerful Continuous Integration out of the box.
 	1. IDE插件
 		1. [Findbugs](http://findbugs.sourceforge.net) 一般用在IDE插件，帮助发现bug。(This is the web page for FindBugs, a program which uses static analysis to look for bugs in Java code. )
-		1. checkstyle
-		1. test
+		1. [Checkstyle](http://checkstyle.sourceforge.net/)
 	1. 需求管理
 		1. [Redmine](http://www.redmine.org/) Redmine is a flexible project management web application. 	
 	1. Bug管理
