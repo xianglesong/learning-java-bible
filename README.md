@@ -461,7 +461,7 @@ Linux是Java程序员必须掌握的核心工具。
 1. ### Linux编程
 	1. Linux源码
 		1. [图书]莱昂氏UNIX源代码分析
-		1. [图书][Linux 内核完全注释](http://product.dangdang.com/8914120.html)
+		1. [图书][Linux内核完全注释](http://product.dangdang.com/8914120.html)
 	1. Linux编程
 		1. [图书][Unix编程艺术](http://product.dangdang.com/22863178.html) 被极客程序员奉如圭臬的神人神作。
 		1. [图书][UNIX环境高级编程](http://product.dangdang.com/23481078.html)
