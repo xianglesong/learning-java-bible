@@ -555,7 +555,7 @@ Linux是Java程序员必须掌握的核心工具。
 		1. [中国知网](http://cnki.net) 中国知网知识发现网络平台—面向海内外读者提供中国学术文献、外文文献、学位论文、报纸、会议、年鉴、工具书等。
 		1. [维普](http://cqvip.com)
 	1. 经典论文
-		1. AQS
+		1. [The java.util.concurrent Synchronizer Framework](http://gee.cs.oswego.edu/dl/papers/aqs.pdf) Doug Lea.
 		1. HDFS
 		1. MapReduce
 		1. Zookeeper
@@ -758,7 +758,7 @@ Linux是Java程序员必须掌握的核心工具。
 		1. [Hibernate](http://hibernate.org) 我是写过类似的框架，不过肯定没他好，有兴趣的阅读。
 		1. [MyBatis](http://www.mybatis.org/mybatis-3) 类似Hibernate实现。
 		1. [Lucene](http://lucene.apache.org) 也不错，对搜索引擎感兴趣的可以一读。
-		1. <span id="hadoop">Hadoop</span> 对于想了解分布式存储和计算的人来说，推荐阅读。
+		1. [Hadoop](http://hadoop.apache.org) 对于想了解分布式存储和计算的人来说，推荐阅读。
 		1. [HBase](http://hbase.apache.org) 对于了解NOSQL的也值得一读。
 		1. [Tomcat](http://tomcat.apache.org) 我是理解其处理过程，没有完全看过。
 		1. [ActiveMQ](http://activemq.apache.org) 看过，后来也忘了。
