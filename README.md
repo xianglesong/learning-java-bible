@@ -314,7 +314,7 @@
 	1. 其他
 		1. [Postman](https://www.getpostman.com/) API访问工具。(Postman Makes API Development Simple.)
 	1. Wiki
-	1. Shadowsocks
+	1. [Shadowsocks](https://github.com/shadowsocks/shadowsocks)
 	1. Atlassian
 		1. [Confluence](https://www.atlassian.com/software/confluence) Confluence is content collaboration software that changes how modern teams work.
 	1. [Clojure](https://www.clojure.org) Clojure is a dynamic environment you can interact with. Almost all of the language constructs are reified, and thus can be examined and changed. 
@@ -678,6 +678,7 @@ Kubernetes is an open-source system for automating deployment, scaling, and mana
 		1. [吴恩达机器学习](http://study.163.com/course/introduction/1004570029.htm)
        1. [传智播客](http://www.itcast.cn)
 		1. [网易公开课的可汗学院](https://open.163.com/khan) khan讲的太好，牛人，佩服。
+	1. [WordPress](https://cn.wordpress.org) WordPress是使用PHP语言开发的博客平台，用户可以在支持PHP和MySQL数据库的服务器上架设属于自己的网站。也可以把 WordPress当作一个内容管理系统（CMS）来使用。
 	1. 翻译
 		1. [Google翻译](https://translate.google.cn)
 		1. [有道](http://youdao.com)
