@@ -52,6 +52,7 @@
 	1. [网络安全](#user-content-网络安全)
 	1. [云平台](#user-content-云平台)
 	1. [其他语言](#user-content-其他语言)
+	1. [第三方工具](#user-content-第三方工具)
 	1. [Mac工具](#user-content-mac工具)
 	1. [推荐GitHub](#user-content-推荐github)
 	1. [其他](#user-content-其他)
@@ -504,6 +505,8 @@ Kubernetes is an open-source system for automating deployment, scaling, and mana
 	1. ABTest
 		1. [Sixpack](https://github.com/sixpack/sixpack-java) A Java client for the Sixpack A/B testing framework.
 	1. [Tesseract](https://github.com/tesseract-ocr/tesseract) Tesseract Open Source OCR Engine.
+	1. [ZeroMQ](http://zeromq.org) Distributed Messaging.
+	1. [docx4j](https://github.com/plutext/docx4j)
 
 ## Linux
 Linux是Java程序员必须掌握的核心工具。
@@ -600,6 +603,10 @@ Linux是Java程序员必须掌握的核心工具。
 	4. [图书][设计之下——搜狐新闻客户端的用户体验设计（全彩）](http://product.dangdang.com/23409934.html)
 	5. [图书][数学之美](http://product.dangdang.com/23594870.html)
 
+1. ### 第三方工具
+	1. [友盟](https://www.umeng.com) 第三方全域大数据服务提供商，为客户提供PC/APP/线下统计，广告效果监测，消息推送/微社区/分享/IM等运营工具，DIP，全域指数与行业报告等。
+	2. [极光](https://www.jiguang.cn) 第三方消息推送服务。
+	
 1. ### 推荐GitHub
 	1. [https://github.com/akullpp/awesome-java](https://github.com/akullpp/awesome-java)  A curated list of awesome frameworks, libraries and software for the Java programming language.
 	1. [https://github.com/jobbole/awesome-java-cn](https://github.com/jobbole/awesome-java-cn)  Java资源大全中文版。 
