@@ -91,7 +91,8 @@
 		1. [图书][计算机程序设计艺术 卷1 基本算法](http://product.dangdang.com/23839682.html)
 		1. [图书][计算机程序设计艺术 卷2 半数值算法](http://product.dangdang.com/24007299.html)
 		1. [图书][计算机程序设计艺术 卷3 排序与查找](http://product.dangdang.com/24195308.html)
-			
+	1. [GitHub][算法学习笔记](https://github.com/nonstriater/Learn-Algorithms)
+	
 1. ### 操作系统
 	1. [图书][操作系统设计与实现](http://product.dangdang.com/23727594.html) 此书告诉您如何实现一个操作系统，比学校里告诉您的更多，更好理解。当年Linus就是看这本书，编写的Linux。
 		1. [网站][MINIX](http://www.minix3.org)
@@ -252,7 +253,7 @@
 		1. [图书][精通jQuery](http://product.dangdang.com/23553774.html)
 	1. [AngularJS](https://angularjs.org/) AngularJS is a JavaScript framework. 
 		1. [图书][AngularJS学习手册](http://product.dangdang.com/23815176.html)
-
+	1. [Node.js](https://github.com/nodejs/node) Node.js JavaScript runtime.
 1. DashBoard
 	1. [RDash](https://github.com/rdash/rdash-angular) AngularJS implementation of the RDash admin dashboard theme.
 		
@@ -293,6 +294,7 @@
 			1. [图书][Git权威指南](http://product.dangdang.com/21108669.html)
 			1. [图书][Git版本控制管理](http://product.dangdang.com/23657840.html)
 			1. [图书][精通Git](http://product.dangdang.com/25166975.html) GitHub联合创始人倾心之作，没有版本控制概念的读者也可轻松入门，涵盖Git常见工作场景，有效帮助程序员提升软技能。
+			1. [GitHub][A collection of .gitignore templates](https://github.com/github/gitignore)
 		1. [Gitlab](https://about.gitlab.com/) GitLab is the leading integrated product for modern software development. Connecting issue management, version control, code review, CI, CD, and monitoring.
 		1. [Bitbucket](https://bitbucket.org/product) 类似github的功能，不过是可以闭源。(Bitbucket is more than just Git code management. Bitbucket gives teams one place to plan projects, collaborate on code, test and deploy.)
 		1. [Mercurial](https://www.mercurial-scm.org) 源码控制管理工具。(Mercurial is a free, distributed source control management tool.)
@@ -352,6 +354,7 @@
 		1. [Guice](https://github.com/google/guice) Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 6 and above, brought to you by Google.
 	1. AOP
 		1. [AspectJ](http://www.eclipse.org/aspectj) A seamless aspect-oriented extension to the Javatm programming language.
+	1. [RxJava](https://github.com/ReactiveX/RxJava) RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 	1. 定时调度
 		1. [Quartz](http://www.quartz-scheduler.org/)  Java任务调度库。(open source job scheduling library that can be integrated within virtually any Java application - from the smallest stand-alone application to the largest e-commerce system. Quartz can be used to create simple or complex schedules for executing tens, hundreds, or even tens-of-thousands of jobs; jobs whose tasks are defined as standard Java components that may execute virtually anything you may program them to do. The Quartz Scheduler includes many enterprise-class features, such as support for JTA transactions and clustering.
 		1. [Elastic-Job](https://github.com/xianglesong/learning-javas/blob/master/platform/Elastic-job.md) 当当网出品的这款产品也不错，可以进行分布式分片调度。开箱即用，很方便。(A distributed scheduled job framework, based on Quartz and Zookeeper.)
@@ -389,6 +392,7 @@
 			1. [图书][Lucene实战](http://product.dangdang.com/21094976.html)
 			1. [图书][Lucene分析与应用](http://product.dangdang.com/20362257.html)
 			1. [论坛][Lucene](http://lucene.472066.n3.nabble.com)
+			1. [GitHub][Luke](https://github.com/DmitryKey/luke) This is mavenised Luke: Lucene Toolbox Project.
 		1. [Solr](http://lucene.apache.org/solr) 企业级搜索平台基于Lucene的封装。(Solr is the popular, blazing-fast, open source enterprise search platform built on Apache Lucene™.)
 			1. [图书][Solr实战](http://product.dangdang.com/25082460.html)
 			1. [图书][Solr Cookbook](http://product.dangdang.com/1900482179.html)
@@ -400,6 +404,8 @@
 			1. [图书][深入理解Elasticsearch](http://product.dangdang.com/25084053.html)
 			1. [图书][Elasticsearch服务器开发](http://product.dangdang.com/23659310.html)
 			1. [图书][Elasticsearch ](http://product.dangdang.com/1900490173.html)
+			1. [GitHub][elasticsearch-head](https://github.com/mobz/elasticsearch-head) A web front end for an elastic search cluster.
+			1. [GitHub][The Definitive Guide to Elasticsearch](https://github.com/elastic/elasticsearch-definitive-guide)
 		1. [elasticsearch-analysis-ik](https://github.com/medcl/elasticsearch-analysis-ik) The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support customized dictionary.
 		1. [JPinyin](https://github.com/stuxuhai/jpinyin) JPinyin是一个汉字转拼音的Java开源类库。不过好像被删除了，需要自己找了。
 		1. [pinyin4j](https://github.com/belerweb/pinyin4j) A copy of http://sourceforge.net/projects/pinyin4j, then deploy it to maven central repository.
@@ -454,9 +460,16 @@
 		1. [FreeMarker](https://freemarker.apache.org) FreeMarker is a template engine.
 	1. [Swagger](https://swagger.io) Swagger aides in development across the entire API lifecycle, from design and documentation, to test and deployment. 
 		1. [GitHub][swagger-ui-layer](https://github.com/caspar-chen/swagger-ui-layer)
+	1. [ELK](https://www.elastic.co)
+		1. [Logstash](https://github.com/elastic/logstash) Logstash - transport and process your logs, events, or other data.
+		1. [Kibana](https://github.com/elastic/kibana) Kibana analytics and search dashboard for Elasticsearch.
+	1. [JUnit](https://junit.org/junit4) A programmer-oriented testing framework for Java.
+	1. [EasyMock](http://easymock.org) EasyMock, makes mocking easier since 2001.
 	1. 深度学习
 	   1. [DeepLearning](https://github.com/yusugomori/DeepLearning) Deep Learning (Python, C, C++, Java, Scala, Go) http://yusugomori.com
 		1. [Deep Learning 中文翻译](https://github.com/exacity/deeplearningbook-chinese) Deep Learning Book Chinese Translation.
+	1. [WordPress](https://cn.wordpress.org) WordPress是使用PHP语言开发的博客平台，用户可以在支持PHP和MySQL数据库的服务器上架设属于自己的网站。也可以把 WordPress当作一个内容管理系统（CMS）来使用。
+	
 ## Linux
 Linux是Java程序员必须掌握的核心工具。
 
@@ -564,6 +577,7 @@ Linux是Java程序员必须掌握的核心工具。
 		1. [RabbitMQ](http://www.rabbitmq.com) RabbitMQ is the most widely deployed open source message broker.
 			1. [图书][RabbitMQ实战：高效部署分布式消息队列](http://product.dangdang.com/23799313.html)
 		1. [Kafka](http://kafka.apache.org) A distributed streaming platform.
+			1. [GitHub][Kafka Manager](https://github.com/yahoo/kafka-manager) A tool for managing Apache Kafka.
 	1. 代理、反向代理
 		1. [Nginx](http://nginx.org) Nginx [engine x] is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server, originally written by Igor Sysoev.
 		1. [HAProxy](http://www.haproxy.org) 
@@ -626,6 +640,8 @@ Kubernetes is an open-source system for automating deployment, scaling, and mana
 	1. [Hypertext Transfer Protocol -- HTTP/1.1](https://www.w3.org/Protocols/rfc2616/rfc2616.html)
 1. ### API
 	1. [Google API Design Guide](https://cloud.google.com/apis/design)
+	2. [GitHub][HTTP API Design Guide](https://github.com/interagent/http-api-design)
+	3. [GitHub][HTTP API 设计指南](https://github.com/ZhangBohan/http-api-design-ZH_CN)
 1. ### RESTful API
 	1. [RESTful API 论文](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
 1. ### Mac工具
@@ -705,7 +721,8 @@ Kubernetes is an open-source system for automating deployment, scaling, and mana
 		1. [吴恩达机器学习](http://study.163.com/course/introduction/1004570029.htm)
        1. [传智播客](http://www.itcast.cn)
 		1. [网易公开课的可汗学院](https://open.163.com/khan) khan讲的太好，牛人，佩服。
-	1. [WordPress](https://cn.wordpress.org) WordPress是使用PHP语言开发的博客平台，用户可以在支持PHP和MySQL数据库的服务器上架设属于自己的网站。也可以把 WordPress当作一个内容管理系统（CMS）来使用。
+	1. QCon
+		1. [QCon上海2016幻灯片](https://github.com/QConChina/QConShanghai2016)
 	1. 翻译
 		1. [Google翻译](https://translate.google.cn)
 		1. [有道](http://youdao.com)
@@ -716,7 +733,7 @@ Kubernetes is an open-source system for automating deployment, scaling, and mana
 		1. [GNU](https://www.gnu.org/home.en.html)
 		1. [Stack Overflow.com](https://stackoverflow.com) 问答网。
 		1. [在线JSON校验格式化工具bejson](http://www.bejson.com)
-
+		1. [GitHub][成为一名专业程序员](https://github.com/stanzhai/be-a-professional-programmer) 成为专业程序员路上用到的各种优秀资料、神器及框架。
 ## 关于我们
 
 1. ### 我的源码阅读、论文、项目及视频（仅供参考）
