@@ -758,7 +758,7 @@ Linux是Java程序员必须掌握的核心工具。
 		1. [Hibernate](http://hibernate.org) 我是写过类似的框架，不过肯定没他好，有兴趣的阅读。
 		1. [MyBatis](http://www.mybatis.org/mybatis-3) 类似Hibernate实现。
 		1. [Lucene](http://lucene.apache.org) 也不错，对搜索引擎感兴趣的可以一读。
-		1. <span id="hadoop">[Hadoop](http://hadoop.apache.org)</span> 对于想了解分布式存储和计算的人来说，推荐阅读。
+		1. <span id="hadoop">Hadoop</span> 对于想了解分布式存储和计算的人来说，推荐阅读。
 		1. [HBase](http://hbase.apache.org) 对于了解NOSQL的也值得一读。
 		1. [Tomcat](http://tomcat.apache.org) 我是理解其处理过程，没有完全看过。
 		1. [ActiveMQ](http://activemq.apache.org) 看过，后来也忘了。
