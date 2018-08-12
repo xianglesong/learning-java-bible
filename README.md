@@ -505,7 +505,7 @@ Kubernetes is an open-source system for automating deployment, scaling, and mana
 		1. [Sixpack](https://github.com/sixpack/sixpack-java) A Java client for the Sixpack A/B testing framework.
 	1. [Tesseract](https://github.com/tesseract-ocr/tesseract) Tesseract Open Source OCR Engine.
 	1. [ZeroMQ](http://zeromq.org) Distributed Messaging.
-	1. [GitHub][docx4j](https://github.com/plutext/docx4j)
+	1. [docx4j](https://github.com/plutext/docx4j)
 
 ## Linux
 Linux是Java程序员必须掌握的核心工具。
