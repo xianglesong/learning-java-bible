@@ -161,7 +161,7 @@
 	1. [Teradata](https://www.teradata.com.cn)
 	1. [DataStage](https://www.ibm.com/us-en/marketplace/datastage) Delivers advanced enterprise ETL.
 	1. [图书][数据挖掘：概念与技术](http://product.dangdang.com/22846300.html)
-	1. [文章][数据挖掘领域的十大经典算法]
+	1. 数据挖掘领域的十大经典算法
 		1. C4.5
 		1. The k-means algorithm
 		1. Support vector machines
