@@ -3,7 +3,7 @@
 
 ### 十大名言：
 
-* Talk is cheap，show me code. -- Linus Torvalds(Linux创始人)
+* Talk is cheap, show me code. -- Linus Torvalds(Linux创始人)
 * 源码面前了无秘密。-- 侯捷 《STL源码剖析》作者
 * 不要重复发明轮子。-- Rod Johnson(Spring Framework创始人)
 * 过早的优化是万恶之源。-- Donald Knuth(1974年图灵奖)
