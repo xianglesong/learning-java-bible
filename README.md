@@ -35,7 +35,7 @@
 	1. [XML](#user-content-xml)
 	1. [JavaEE](#user-content-javaee)
 	1. [开发工具](#user-content-开发工具)
-	1. [Java库及框架等介绍](#user-content-java库及框架等介绍)
+	1. [Java库和框架及其他介绍](#user-content-java库和框架及其他介绍)
 1. [Linux](#user-content-编程语言)
 	1. [Linux命令](#user-content-linux命令)
 	1. [Shell](#user-content-shell)
@@ -175,6 +175,7 @@
 1. ### 机器学习及人工智能
 	1. [图书][推荐系统实践](http://product.dangdang.com/22775361.html)
 	1. [图书][深度学习](http://product.dangdang.com/25111382.html)
+	1. [GitHub][List of Recommender Systems](https://github.com/grahamjenson/list_of_recommender_systems)
 1. ### 图灵奖
 	1. 图灵：计算机之父。艾伦·麦席森·图灵（Alan Mathison Turing，1912年6月23日－1954年6月7日），英国数学家、逻辑学家，被称为计算机之父，人工智能之父。
 	1. [历届图灵奖得主及贡献](https://amturing.acm.org)
@@ -185,25 +186,26 @@
 	1. [Java规范](https://docs.oracle.com/javase/specs) Java Language and Virtual Machine Specifications. 
 	1. [Javaee-spec](https://javaee.github.io/javaee-spec) Java EE Platform Specification.
 	1. [OpenJDK](http://openjdk.java.net) 开源JDK，JDK的编译是Java程序员需要了解的技能。
-	1. [Linux](https://www.linux.org/) Java虽然是跨平台的，但是和Linux是完美搭配，做服务器端体会更深。
-	1. 图书
-		1. [图书][Java核心技术 卷I：基础知识](http://product.dangdang.com/24035306.html) 
-		1. [图书][Java核心技术卷II：高级特性](http://product.dangdang.com/25171892.html) 
-		1. [图书][Java编程思想](http://product.dangdang.com/9317290.html) 此书和《C++编程思想》是同一作者，现有C++版，后有Java，写的非常适合入门学习。
-		1. [图书][Effective Java中文版](http://product.dangdang.com/20459091.html)
-		1. [图书][Java编程规范](http://product.dangdang.com/9187067.html) 此书个人强热推荐，Java之父编写。
-		1. [图书][Java并发编程实战](http://product.dangdang.com/22606835.html)
-		1. [图书][Java性能优化权威指南](http://product.dangdang.com/23421069.html)
-		1. [图书][深入理解Java虚拟机：JVM高级特性与最佳实践](http://product.dangdang.com/23259731.html)
-		1. [图书][Java并发](https://github.com/xianglesong/learning-javas/blob/master/basic/Java并发.md)  Java并发包的使用是中高级程序员必须掌握的技能之一。
-		1. [图书][Java网络编程](http://product.dangdang.com/23560594.html)
+	1. [Linux](https://www.linux.org/) Java虽然是跨平台的，但是和Linux是完美搭配，做服务器端体会更深。 
+	1. [图书][Java核心技术 卷I：基础知识](http://product.dangdang.com/24035306.html) 
+	1. [图书][Java核心技术卷II：高级特性](http://product.dangdang.com/25171892.html) 
+	1. [图书][Java编程思想](http://product.dangdang.com/9317290.html) 此书和《C++编程思想》是同一作者，现有C++版，后有Java，写的非常适合入门学习。
+	1. [图书][Effective Java中文版](http://product.dangdang.com/20459091.html)
+	1. [图书][Java编程规范](http://product.dangdang.com/9187067.html) 此书个人强热推荐，Java之父编写。
+	1. [图书][Java并发编程实战](http://product.dangdang.com/22606835.html)
+	1. [图书][Java性能优化权威指南](http://product.dangdang.com/23421069.html)
+	1. [图书][深入理解Java虚拟机：JVM高级特性与最佳实践](http://product.dangdang.com/23259731.html)
+	1. [图书][Java并发](https://github.com/xianglesong/learning-javas/blob/master/basic/Java并发.md)  Java并发包的使用是中高级程序员必须掌握的技能之一。
+	1. [图书][Java网络编程](http://product.dangdang.com/23560594.html)
+	1. [GitHub][Modern Java - A Guide to Java 8](https://github.com/winterbe/java8-tutorial)
 	1. 面向对象软件设计
 		1. [图书][设计模式 可复用面向对象软件的基础](http://product.dangdang.com/71052.html)
 		1. [图书]Java与模式
 		1. [图书][Head First设计模式](http://product.dangdang.com/20021171.html)
 		1. [图书]面向对象程序分析和设计
 		1. [视频]设计模式有个微软的李建中视频，讲的非常到位，可以搜索看看。就是代码是C#的，但是思想是一样的，模式和语言无关。
-
+		1. [GitHub][Design patterns implemented in Java](https://github.com/iluwatar/java-design-patterns)
+		
 1. ### HTML & CSS
 	1. [http://www.w3.org/TR/2014/REC-html5-20141028](http://www.w3.org/TR/2014/REC-html5-20141028) HTML官方文档，仔细研究就可以算入门。
 	1. [CSS: Cascading Style Sheets](https://www.w3.org/TR/2011/REC-CSS2-20110607) CSS官方文档，仔细研究就可以算入门。
@@ -315,7 +317,8 @@
 		1. [Teamcity](https://www.jetbrains.com/teamcity/) Powerful Continuous Integration out of the box.
 	1. IDE插件
 		1. [Findbugs](http://findbugs.sourceforge.net) 一般用在IDE插件，帮助发现bug。(This is the web page for FindBugs, a program which uses static analysis to look for bugs in Java code. )
-		1. [Checkstyle](http://checkstyle.sourceforge.net/)
+		1. [Checkstyle](https://checkstyle.org) Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.
+			1. [Checkstyle](https://github.com/checkstyle/checkstyle)
 	1. 需求管理
 		1. [Redmine](http://www.redmine.org/) Redmine is a flexible project management web application. 	
 	1. Bug管理
@@ -331,7 +334,7 @@
 	1. [Clojure](https://www.clojure.org) Clojure is a dynamic environment you can interact with. Almost all of the language constructs are reified, and thus can be examined and changed. 
 	1. [SonarCube](https://www.sonarqube.org) The leading product for continuous code quality.
 
-1. ### Java 库和框架等介绍
+1. ### Java库和框架及其他介绍
 	1. Java常用库
 		1. [Spring](https://spring.io)
 		1. [MyBatis](http://www.mybatis.org/mybatis-3)
@@ -351,7 +354,7 @@
 		1. [AspectJ](http://www.eclipse.org/aspectj) A seamless aspect-oriented extension to the Javatm programming language.
 	1. 定时调度
 		1. [Quartz](http://www.quartz-scheduler.org/)  Java任务调度库。(open source job scheduling library that can be integrated within virtually any Java application - from the smallest stand-alone application to the largest e-commerce system. Quartz can be used to create simple or complex schedules for executing tens, hundreds, or even tens-of-thousands of jobs; jobs whose tasks are defined as standard Java components that may execute virtually anything you may program them to do. The Quartz Scheduler includes many enterprise-class features, such as support for JTA transactions and clustering.
-		1. [Elastic-job](https://github.com/xianglesong/learning-javas/blob/master/platform/Elastic-job.md) 当当网出品的这款产品也不错，可以进行分布式分片调度。开箱即用，很方便。(A distributed scheduled job framework, based on Quartz and Zookeeper.)
+		1. [Elastic-Job](https://github.com/xianglesong/learning-javas/blob/master/platform/Elastic-job.md) 当当网出品的这款产品也不错，可以进行分布式分片调度。开箱即用，很方便。(A distributed scheduled job framework, based on Quartz and Zookeeper.)
 	1. 内存数据库
 		1. [MapDB](http://www.mapdb.org/)  MapDB provides Java Maps, Sets, Lists, Queues and other collections backed by off-heap or on-disk storage. It is a hybrid between java collection framework and embedded database engine.	
 	1. 数据库连接池
@@ -400,6 +403,12 @@
 		1. [elasticsearch-analysis-ik](https://github.com/medcl/elasticsearch-analysis-ik) The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support customized dictionary.
 		1. [JPinyin](https://github.com/stuxuhai/jpinyin) JPinyin是一个汉字转拼音的Java开源类库。不过好像被删除了，需要自己找了。
 		1. [pinyin4j](https://github.com/belerweb/pinyin4j) A copy of http://sourceforge.net/projects/pinyin4j, then deploy it to maven central repository.
+	1. 自然语言处理
+		1. 分词
+			1. [HanLP](http://hanlp.hankcs.com) 自然语言处理，中文分词，词性标注，命名实体识别，依存句法分析，关键词提取，新词发现，短语提取，自动摘要，文本分类等。 
+		1. 相似性
+			1. Word2VEC
+				1. [Word2VEC Java版本的一个实现](https://github.com/NLPchina/Word2VEC_java)
 	1. 分布式存储和计算
 		1. [Hadoop](https://github.com/xianglesong/learning-javas/blob/master/platform/Hadoop.md) 分布式文件存储和技术框架，云计算的利器。(The
 		Apache™ Hadoop® project develops open-source software for reliable, scalable, distributed computing.)
@@ -443,9 +452,11 @@
 	1. 模版引擎
 		1. [Velocity](http://velocity.apache.org) Velocity is a Java-based template engine. 
 		1. [FreeMarker](https://freemarker.apache.org) FreeMarker is a template engine.
+	1. [Swagger](https://swagger.io) Swagger aides in development across the entire API lifecycle, from design and documentation, to test and deployment. 
+		1. [GitHub][swagger-ui-layer](https://github.com/caspar-chen/swagger-ui-layer)
 	1. 深度学习
-	    1. [DeepLearning](https://github.com/yusugomori/DeepLearning) Deep Learning (Python, C, C++, Java, Scala, Go) http://yusugomori.com
-
+	   1. [DeepLearning](https://github.com/yusugomori/DeepLearning) Deep Learning (Python, C, C++, Java, Scala, Go) http://yusugomori.com
+		1. [Deep Learning 中文翻译](https://github.com/exacity/deeplearningbook-chinese) Deep Learning Book Chinese Translation.
 ## Linux
 Linux是Java程序员必须掌握的核心工具。
 
@@ -531,7 +542,9 @@ Linux是Java程序员必须掌握的核心工具。
 	2. 敏捷开发
 		1. [图书][Scrum实战——敏捷软件项目管理与开发](http://product.dangdang.com/25294242.html)
 	3. [ISO](https://www.iso.org)
-	
+
+1. #### 面试
+	1. [GitHub][Interviews](https://github.com/kdn251/interviews) Everything you need to know to get the job.
 1. #### 其他
 	1. 	[图书][SEO实战密码——60天网站流量提高20倍](http://product.dangdang.com/23738363.html)
 	2. [图书][点石成金](http://product.dangdang.com/23611791.html)
@@ -549,6 +562,7 @@ Linux是Java程序员必须掌握的核心工具。
 		1. [MemCache](http://memcached.org) A distributed memory object caching system.
 	1. 消息
 		1. [RabbitMQ](http://www.rabbitmq.com) RabbitMQ is the most widely deployed open source message broker.
+			1. [图书][RabbitMQ实战：高效部署分布式消息队列](http://product.dangdang.com/23799313.html)
 		1. [Kafka](http://kafka.apache.org) A distributed streaming platform.
 	1. 代理、反向代理
 		1. [Nginx](http://nginx.org) Nginx [engine x] is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server, originally written by Igor Sysoev.
@@ -569,7 +583,8 @@ Kubernetes is an open-source system for automating deployment, scaling, and mana
 		1. [Mosquito](https://mosquitto.org) Eclipse Mosquitto is an open source (EPL/EDL licensed) message broker that implements the MQTT protocol versions 3.1 and 3.1.1. Mosquitto is lightweight and is suitable for use on all devices from low power single board computers to full servers.
 	1. [Storm](http://storm.apache.org) Apache Storm is a free and open source distributed realtime computation system. 
 		1. [图书][Storm分布式实时计算模式](http://product.dangdang.com/23616223.html) Apache Storm 项目核心贡献者亲笔撰写，涵盖多种分布式计算相关主题。
-	
+	1. ABTest
+		1. [Sixpack](https://github.com/sixpack/sixpack-java) A Java client for the Sixpack A/B testing framework.
 1. ### 推荐GitHub
 	1. [https://github.com/akullpp/awesome-java](https://github.com/akullpp/awesome-java)  A curated list of awesome frameworks, libraries and software for the Java programming language.
 	1. [https://github.com/jobbole/awesome-java-cn](https://github.com/jobbole/awesome-java-cn)  Java资源大全中文版。 
