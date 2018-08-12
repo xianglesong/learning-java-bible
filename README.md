@@ -478,6 +478,8 @@
 	1. 缓存
 		1. [Redis](https://redis.io) Redis is an open source (BSD licensed), in-memory data structure store, used as a database, cache and message broker.
 		1. [MemCache](http://memcached.org) A distributed memory object caching system.
+		1. [Varnish](http://varnish-cache.org) Varnish HTTP Cache
+		1. [Squid](http://www.squid-cache.org) Squid is a caching proxy for the Web supporting HTTP, HTTPS, FTP, and more.
 	1. 消息
 		1. [RabbitMQ](http://www.rabbitmq.com) RabbitMQ is the most widely deployed open source message broker.
 			1. [图书][RabbitMQ实战：高效部署分布式消息队列](http://product.dangdang.com/23799313.html)
@@ -486,9 +488,6 @@
 	1. 代理、反向代理
 		1. [Nginx](http://nginx.org) Nginx [engine x] is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server, originally written by Igor Sysoev.
 		1. [HAProxy](http://www.haproxy.org) 
-	1. 缓存
-		1. [Varnish](http://varnish-cache.org) Varnish HTTP Cache
-		1. [Squid](http://www.squid-cache.org) Squid is a caching proxy for the Web supporting HTTP, HTTPS, FTP, and more.
 	1. 虚拟机
 		1. [VirtualBox](https://www.virtualbox.org)
 		1. [VMware](https://www.vmware.com) 
@@ -506,7 +505,7 @@ Kubernetes is an open-source system for automating deployment, scaling, and mana
 		1. [Sixpack](https://github.com/sixpack/sixpack-java) A Java client for the Sixpack A/B testing framework.
 	1. [Tesseract](https://github.com/tesseract-ocr/tesseract) Tesseract Open Source OCR Engine.
 	1. [ZeroMQ](http://zeromq.org) Distributed Messaging.
-	1. [docx4j](https://github.com/plutext/docx4j)
+	1. [GitHub][docx4j](https://github.com/plutext/docx4j)
 
 ## Linux
 Linux是Java程序员必须掌握的核心工具。
