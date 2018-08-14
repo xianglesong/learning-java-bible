@@ -470,6 +470,7 @@ Linux是Java程序员必须掌握的核心工具。
 	1. [图书][编译原理及实现](http://product.dangdang.com/23781751.html) 这本书个人时强热推荐的，我读研期间重新做编译器，主要参考此书，非常好。
 	1. [文章][编译原理学习基本步骤](http://blog.csdn.net/longronglin/article/details/5920957)
 	1. [文章][编译原理解析](http://blog.csdn.net/longronglin/article/details/1109436) 如果把我上面的内容学好，可以说编译原理掌握的不错了。特别是我的内容是参考上面的清华大学孙悦红老师的课本做的，还得到了其支持。
+	1. [图书][计算机程序的构造和解释](http://product.dangdang.com/8793968.html)
 1. ### 数据库
 	1. 关系数据库
 		1. [图书]Transact-SQL权威指南 经典，没有图书卖了。
@@ -743,6 +744,7 @@ Linux是Java程序员必须掌握的核心工具。
 		1. 马士兵 我看过其Java视频，讲的不错，推荐一下。
 	1. 图书
 		1. [决战618：探秘京东技术取胜之道（全彩）](http://product.dangdang.com/25173863.html)
+		2. [黑客与画家](http://product.dangdang.com/21049598.html)
 	1. 其他
 		1. [GNU](https://www.gnu.org/home.en.html)
 		1. [Stack Overflow.com](https://stackoverflow.com) 问答网。
