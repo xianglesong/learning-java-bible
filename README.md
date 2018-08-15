@@ -325,6 +325,9 @@
 	1. 数据挖掘
 	    1. [Weka](https://www.cs.waikato.ac.nz/ml/weka) Weka is a collection of machine learning algorithms for data mining tasks. 
 	    	1. [图书][数据挖掘与机器学习——WEKA应用技术与实践](http://product.dangdang.com/24016031.html)
+	    	1. [文章][用 WEKA 进行数据挖掘:简介和回归](http://www.ibm.com/developerworks/cn/opensource/os-weka1/index.html)
+	    	1. [文章][用 WEKA 进行数据挖掘:分类和群集](http://www.ibm.com/developerworks/cn/opensource/os-weka1/index.html)
+	    	1. [文章][用 WEKA 进行数据挖掘:最近邻和服务器端库](http://www.ibm.com/developerworks/cn/opensource/os-weka1/index.html)
 	    1. [Mahout](http://mahout.apache.org/) For Creating Scalable Performant Machine Learning Applications.
 	    	1. [图书][Mahout in Action]
 	    1. [Spark](https://spark.apache.org/) A unified analytics engine for large-scale data processing.
