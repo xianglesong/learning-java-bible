@@ -365,6 +365,8 @@
 			1. [图书][RabbitMQ实战：高效部署分布式消息队列](http://product.dangdang.com/23799313.html)
 		1. [Kafka](http://kafka.apache.org) A distributed streaming platform.
 			1. [GitHub][Kafka Manager](https://github.com/yahoo/kafka-manager) A tool for managing Apache Kafka.
+			1. [图书][Kafka权威指南](http://product.dangdang.com/25211884.html)
+			1. [文章][kafka入门：简介、使用场景、设计原理、主要配置及集群搭建（转）](https://www.cnblogs.com/likehua/p/3999538.html)
 	1. 代理、反向代理
 		1. [Nginx](http://nginx.org) Nginx [engine x] is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server, originally written by Igor Sysoev.
 		1. [HAProxy](http://www.haproxy.org) 
@@ -386,7 +388,10 @@ Kubernetes is an open-source system for automating deployment, scaling, and mana
 	1. [Tesseract](https://github.com/tesseract-ocr/tesseract) Tesseract Open Source OCR Engine.
 	1. [ZeroMQ](http://zeromq.org) Distributed Messaging.
 	1. [docx4j](https://github.com/plutext/docx4j)
-
+	1. Trace
+		1. [BTrace](https://github.com/btraceio/btrace) BTrace - a safe, dynamic tracing tool for the Java platform.
+			1. [文章][BTrace][Java在线问题排查利器之Btrace&Greys](http://tech.lede.com/2017/10/11/rd/server/javaToolsBTrace/)
+			
 ## Linux
 Linux是Java程序员必须掌握的核心工具。
 
