@@ -581,59 +581,15 @@ Linux是Java程序员必须掌握的核心工具。
 	1. 自然语言处理
 
 ## 综合
-		
-1. #### 其他语言
-	1. Python
-		1. [图书][Python基础教程](http://product.dangdang.com/25218035.html)
-	1. Android
-		1. [图书][疯狂Android讲义](http://product.dangdang.com/23699102.html)
-		1. [图书][Android编程权威指南](http://product.dangdang.com/25102877.html)
-	1. iOS
-		1. [图书][精通iOS开发](http://product.dangdang.com/25113926.html)
-	1. PHP
-		1. [图书][PHP和MySQL Web开发](http://product.dangdang.com/20546846.html)
-		1. [图书][深入PHP：面向对象、模式与实践](http://product.dangdang.com/22459608.html)
-	1. 其他
-		1. [图书]编码的奥秘
-		1. [图书][松本行弘的程序世界](http://product.dangdang.com/22471151.html)
-		1. [图书][编程珠玑](http://product.dangdang.com/23640352.html) 
+1. ### 考试认证
+	1. OCJP Oracle公司的Java工程师认证。通过该考试表明较好的掌握Java基础知识。
+	1. Linux 有红帽认证等。
+	1. Database 有Oracle和DB2等认证。
+	1. [软考](http://www.ruankao.org.cn/)
+		1. 考试介绍 [http://www.ruankao.org.cn/platform](http://www.ruankao.org.cn/platform)
+			1. 软件设计师  个人觉得大三学生可以开始考这个，工作的就更容易了。
+			1. 信息系统项目管理师  这个偏管理的，主要是论文会卡人，容易的考个中级的系统集成项目管理工程师就可以，这个不考论文。
 
-1. 产品
-	1. [Axure](https://www.axure.com)
-	
-1. #### 项目管理
-	1. [PMP](https://www.pmi.org/) 美国项目管理工程师协会认证，全球认可，做项目管理的一定要学习。和国内软考的信息系统项目管理师考试雷同，考个国内的也可以，国外贵，单易考。
-		1. [图书][项目管理知识体系指南（PMBOK指南：第5版）](http://product.dangdang.com/23256884.html)
-		1. [图书][西游记PMP备考奇书](http://product.dangdang.com/23639808.html)
-		1. [图书][汪博士解读PMP考试](http://product.dangdang.com/25229379.html)
-	2. 敏捷开发
-		1. [图书][Scrum实战——敏捷软件项目管理与开发](http://product.dangdang.com/25294242.html)
-	3. [ISO](https://www.iso.org)
-
-1. #### 面试
-	1. [GitHub][Interviews](https://github.com/kdn251/interviews) Everything you need to know to get the job.
-1. #### 其他
-	1. 	[图书][SEO实战密码——60天网站流量提高20倍](http://product.dangdang.com/23738363.html)
-	2. [图书][点石成金](http://product.dangdang.com/23611791.html)
-	3. [图书][用户体验要素：以用户为中心的产品设计](http://product.dangdang.com/21110580.html)
-	4. [图书][设计之下——搜狐新闻客户端的用户体验设计（全彩）](http://product.dangdang.com/23409934.html)
-	5. [图书][数学之美](http://product.dangdang.com/23594870.html)
-
-1. ### 第三方工具
-	1. [友盟](https://www.umeng.com) 第三方全域大数据服务提供商，为客户提供PC/APP/线下统计，广告效果监测，消息推送/微社区/分享/IM等运营工具，DIP，全域指数与行业报告等。
-	2. [极光](https://www.jiguang.cn) 第三方消息推送服务。
-	
-1. ### 推荐GitHub
-	1. [https://github.com/akullpp/awesome-java](https://github.com/akullpp/awesome-java)  A curated list of awesome frameworks, libraries and software for the Java programming language.
-	1. [https://github.com/jobbole/awesome-java-cn](https://github.com/jobbole/awesome-java-cn)  Java资源大全中文版。 
-	1. [https://github.com/Vedenin/useful-java-links](https://github.com/Vedenin/useful-java-links)  A list of useful Java frameworks, libraries, software and hello worlds examples.
-	1. [https://github.com/Blankj/awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)  LeetCode of algorithms with java solution(updating).
-	1. [https://github.com/TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)  All Algorithms implemented in Java.
-	1. [https://github.com/DuGuQiuBai/Java](https://github.com/DuGuQiuBai/Java)  27天成为Java大神。
-	1. [https://github.com/iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)  Design patterns implemented in Java [http://java-design-patterns.com](http://java-design-patterns.com).
-	1. [spring-boot](https://github.com/spring-projects/spring-boot)
-	1. [dubbo](https://github.com/apache/incubator-dubbo)  Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework.
-	1. [interviews](https://github.com/kdn251/interviews)  Everything you need to know to get the job.
 1. ### 自动化测试及运维
 	1. [图书][SRE：Google运维解密](http://product.dangdang.com/24032293.html)
 	1. [Selium](https://www.seleniumhq.org)  A browser automation framework and ecosystem. 
@@ -705,26 +661,52 @@ Linux是Java程序员必须掌握的核心工具。
    1. [Office](https://products.office.com/zh-cn/mac/microsoft-office-for-mac) 确是 Office，专为 Mac 打造。
    1. [LaTeX](https://www.latex-project.org) LaTeX is a high-quality typesetting system.
    1. [Postman](https://www.getpostman.com) Postman is the only complete API development environment, for API developers.
-
-1. ### 考试认证
-	1. OCJP Oracle公司的Java工程师认证。通过该考试表明较好的掌握Java基础知识。
-	1. Linux 有红帽认证等。
-	1. Database 有Oracle和DB2等认证。
-	1. [软考](http://www.ruankao.org.cn/)
-		1. 考试介绍 [http://www.ruankao.org.cn/platform](http://www.ruankao.org.cn/platform)
-			1. 软件设计师  个人觉得大三学生可以开始考这个，工作的就更容易了。
-			1. 信息系统项目管理师  这个偏管理的，主要是论文会卡人，容易的考个中级的系统集成项目管理工程师就可以，这个不考论文。
-
-1. ### 名人
-	1. 冯·诺伊曼对世界上第一台电子计算机ENIAC(电子数字积分计算机)的设计提出过建议，1945年3月他在共同讨论的基础上起草ENIAC(电子离散变量自动计算机)设计报告初稿，这对后来计算机的设计有决定性的影响，特别是确定计算机的结构，采用存储程序以及二进制编码等，至今仍为电子计算机设计者所遵循。
-	1. 阿达·奥古斯塔，19世纪英国诗人拜伦的女儿，数学家。穿孔机程序创始人，建立了循环和子程序概念。为计算程序拟定“算法”，写作的第一份“程序设计流程图”，被珍视为“第一个给计算机写程序的人”。
-	1. Linus Benedict Torvalds （林纳斯·本纳第克特·托瓦兹）Software is like sex: it's better when it's free.
-	1. Richard Matthew Stallman（理查德·马修·斯托曼）（生于1953年），自由软件运动的精神领袖、GNU（GNU IS NOT UNIX）计划以及自由软件基金会（Free Software Foundation）的创立者、著名黑客。他的主要成就包括Emacs及后来的GNU Emacs，GNU C 编译器及GNU 调试器。 他所写作的GNU通用公共许可证（GNU GPL）是世上最广为采用的自由软件许可证，为copyleft观念开拓出一条崭新的道路。
-	1. James Gosling（詹姆斯·高斯林 ）詹姆斯·高斯林 （James Gosling，1955年5月19日－，出生于加拿大），软件专家，Java编程语言的共同创始人之一，一般公认他为“Java之父”。
-	1. Doug Cutting 毕业于美国斯坦福大学是Lucene、Nutch等项目的发起人。是他，把高深莫测的搜索技术形成产品，贡献给普罗大众；还是他，打造了目前在云计算和大数据领域里如日中天的Hadoop。
+1. ### 第三方工具
+	1. [友盟](https://www.umeng.com) 第三方全域大数据服务提供商，为客户提供PC/APP/线下统计，广告效果监测，消息推送/微社区/分享/IM等运营工具，DIP，全域指数与行业报告等。
+	2. [极光](https://www.jiguang.cn) 第三方消息推送服务。
+1. ### 推荐GitHub
+	1. [https://github.com/akullpp/awesome-java](https://github.com/akullpp/awesome-java)  A curated list of awesome frameworks, libraries and software for the Java programming language.
+	1. [https://github.com/jobbole/awesome-java-cn](https://github.com/jobbole/awesome-java-cn)  Java资源大全中文版。 
+	1. [https://github.com/Vedenin/useful-java-links](https://github.com/Vedenin/useful-java-links)  A list of useful Java frameworks, libraries, software and hello worlds examples.
+	1. [https://github.com/Blankj/awesome-java-leetcode](https://github.com/Blankj/awesome-java-leetcode)  LeetCode of algorithms with java solution(updating).
+	1. [https://github.com/TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)  All Algorithms implemented in Java.
+	1. [https://github.com/DuGuQiuBai/Java](https://github.com/DuGuQiuBai/Java)  27天成为Java大神。
+	1. [https://github.com/iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)  Design patterns implemented in Java [http://java-design-patterns.com](http://java-design-patterns.com).
+	1. [spring-boot](https://github.com/spring-projects/spring-boot)
+	1. [dubbo](https://github.com/apache/incubator-dubbo)  Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework.
+	1. [interviews](https://github.com/kdn251/interviews)  Everything you need to know to get the job.
 1. ### 微信公众号
 	1. 神秘的程序员们
-1. ### 推荐
+
+1. ### 常用语言
+	1. Python
+		1. [图书][Python基础教程](http://product.dangdang.com/25218035.html)
+	1. Android
+		1. [图书][疯狂Android讲义](http://product.dangdang.com/23699102.html)
+		1. [图书][Android编程权威指南](http://product.dangdang.com/25102877.html)
+	1. iOS
+		1. [图书][精通iOS开发](http://product.dangdang.com/25113926.html)
+	1. PHP
+		1. [图书][PHP和MySQL Web开发](http://product.dangdang.com/20546846.html)
+		1. [图书][深入PHP：面向对象、模式与实践](http://product.dangdang.com/22459608.html)
+	1. 其他
+		1. [图书]编码的奥秘
+		1. [图书][松本行弘的程序世界](http://product.dangdang.com/22471151.html)
+		1. [图书][编程珠玑](http://product.dangdang.com/23640352.html) 
+1. ### 面试
+	1. [GitHub][Interviews](https://github.com/kdn251/interviews) Everything you need to know to get the job.
+1. ### 项目管理
+	1. [PMP](https://www.pmi.org/) 美国项目管理工程师协会认证，全球认可，做项目管理的一定要学习。和国内软考的信息系统项目管理师考试雷同，考个国内的也可以，国外贵，单易考。
+		1. [图书][项目管理知识体系指南（PMBOK指南：第5版）](http://product.dangdang.com/23256884.html)
+		1. [图书][西游记PMP备考奇书](http://product.dangdang.com/23639808.html)
+		1. [图书][汪博士解读PMP考试](http://product.dangdang.com/25229379.html)
+	1. 敏捷开发
+		1. [图书][Scrum实战——敏捷软件项目管理与开发](http://product.dangdang.com/25294242.html)
+	1. [ISO](https://www.iso.org)
+1. ### 产品
+	1. [Axure](https://www.axure.com)
+	1. 	[人人都是产品经理](http://www.woshipm.com)
+1. ### 其他
 	1. 源码学习
 		1. [Github](https://github.com) 全球最大的程序员交友网，也说全球最大的同性交友网站^-^。
 		1. [Maven仓库](https://mvnrepository.com) 方便查找库应用。
@@ -735,11 +717,11 @@ Linux是Java程序员必须掌握的核心工具。
 	1. 综合
 		1. [CSDN](http://www.csdn.net) 中国最大的程序员网站。
 		1. [InfoQ](http://www.infoq.com) 架构师网站。
-		1. [ChinaUnix](http://www.chinaunix.net) 中国最大的Linux/Unix技术社区网站
+		1. [ChinaUnix](http://www.chinaunix.net) 中国最大的Linux/Unix技术社区网站。
 		1. [博客园](https://www.cnblogs.com) 博客园是一个面向开发者的知识分享社区。
 		1. [http://www.iteye.com](http://www.iteye.com)
 	1. 资料
-		1. [Slideshare](https://www.slideshare.net)  技术ppt下载。
+		1. [Slideshare](https://www.slideshare.net) 技术ppt下载。
 	1. 技术博客
 		1. [阿里中间件团队博客](http://jm.taobao.org)
 		1. [美团技术团队](https://tech.meituan.com)
@@ -750,18 +732,23 @@ Linux是Java程序员必须掌握的核心工具。
 		1. [YouTube](http://youtube.com)
 		1. [吴恩达机器学习](http://study.163.com/course/introduction/1004570029.htm)
        1. [传智播客](http://www.itcast.cn)
-		1. [网易公开课的可汗学院](https://open.163.com/khan) khan讲的太好，牛人，佩服。
+		1. [网易公开课的可汗学院](https://open.163.com/khan) Khan讲的太好，牛人，佩服。
 	1. QCon
 		1. [QCon上海2016幻灯片](https://github.com/QConChina/QConShanghai2016)
 	1. 翻译
 		1. [Google翻译](https://translate.google.cn)
 		1. [有道](http://youdao.com)
 	1. 名人
-		1. 李刚 我是买过[疯狂Android讲义](http://product.dangdang.com/23699102.html)，感觉挺适合新手入门的，推荐一下。
+		1. 李刚 我是买过[疯狂Android讲义](http://product.dangdang.com/23699102.html) 感觉挺适合新手入门的，推荐一下。
 		1. 马士兵 我看过其Java视频，讲的不错，推荐一下。
 	1. 图书
-		1. [决战618：探秘京东技术取胜之道（全彩）](http://product.dangdang.com/25173863.html)
-		2. [黑客与画家](http://product.dangdang.com/21049598.html)
+		1. [图书][决战618：探秘京东技术取胜之道（全彩）](http://product.dangdang.com/25173863.html)
+		1. [图书][黑客与画家](http://product.dangdang.com/21049598.html)
+		1. 	[图书][SEO实战密码——60天网站流量提高20倍](http://product.dangdang.com/23738363.html)
+		1. [图书][点石成金](http://product.dangdang.com/23611791.html)
+		1. [图书][用户体验要素：以用户为中心的产品设计](http://product.dangdang.com/21110580.html)
+		1. [图书][设计之下——搜狐新闻客户端的用户体验设计（全彩）](http://product.dangdang.com/23409934.html)
+		1. [图书][数学之美](http://product.dangdang.com/23594870.html)
 	1. 其他
 		1. [GNU](https://www.gnu.org/home.en.html)
 		1. [Stack Overflow.com](https://stackoverflow.com) 问答网。
