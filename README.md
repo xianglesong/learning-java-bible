@@ -46,15 +46,22 @@
 	2. [论文](#user-content-论文)
 	3. [会议](#user-content-会议)
 1. [综合](#user-content-综合)
-	1. [项目管理](#user-content-项目管理)
-	1. [产品](#user-content-产品)
+	1. [考试认证](#user-content-考试认证)
 	1. [自动化测试及运维](#user-content-自动化测试及运维)
 	1. [网络安全](#user-content-网络安全)
 	1. [云平台](#user-content-云平台)
-	1. [其他语言](#user-content-其他语言)
-	1. [第三方工具](#user-content-第三方工具)
+	1. [精华文档](#user-content-精华文档)
+	1. [标准规范](#user-content-标准规范)
+	1. [API](#user-content-api)
+	1. [RESTful API](#user-content-restful-api)
 	1. [Mac工具](#user-content-mac工具)
+	1. [第三方工具](#user-content-第三方工具)
 	1. [推荐GitHub](#user-content-推荐github)
+	1. [微信公众号](#user-content-微信公众号)
+	1. [其他语言](#user-content-其他语言)
+	1. [面试](#user-content-面试)
+	1. [项目管理](#user-content-项目管理)
+	1. [产品](#user-content-产品)
 	1. [其他](#user-content-其他)
 1. [关于我们](#user-content-关于我们)
 	1. [我](#user-content-我)
@@ -616,7 +623,7 @@ Linux是Java程序员必须掌握的核心工具。
 	1. [AWS](https://aws.amazon.com)
 	1. [搬瓦工](http://banwagong.cn)
 	1. [七牛](https://www.qiniu.com)
-1. ### 文档(Documents)
+1. ### 精华文档
 	1. 缓存
 		1. [缓存那些事](https://tech.meituan.com/cache_about.html)
 1. ### 标准规范
@@ -677,8 +684,7 @@ Linux是Java程序员必须掌握的核心工具。
 	1. [interviews](https://github.com/kdn251/interviews)  Everything you need to know to get the job.
 1. ### 微信公众号
 	1. 神秘的程序员们
-
-1. ### 常用语言
+1. ### 其他语言
 	1. Python
 		1. [图书][Python基础教程](http://product.dangdang.com/25218035.html)
 	1. Android
@@ -694,7 +700,7 @@ Linux是Java程序员必须掌握的核心工具。
 		1. [图书][松本行弘的程序世界](http://product.dangdang.com/22471151.html)
 		1. [图书][编程珠玑](http://product.dangdang.com/23640352.html) 
 1. ### 面试
-	1. [GitHub][Interviews](https://github.com/kdn251/interviews) Everything you need to know to get the job.
+	1. [GitHub][Interviews](https://github.com/kdn251/interviews) Everything you need to know to get the job.(找工作需要了解的一切。)
 1. ### 项目管理
 	1. [PMP](https://www.pmi.org/) 美国项目管理工程师协会认证，全球认可，做项目管理的一定要学习。和国内软考的信息系统项目管理师考试雷同，考个国内的也可以，国外贵，单易考。
 		1. [图书][项目管理知识体系指南（PMBOK指南：第5版）](http://product.dangdang.com/23256884.html)
