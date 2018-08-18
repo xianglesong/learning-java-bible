@@ -146,8 +146,11 @@
 1. ### JavaEE
 	1. Servlet
 		A servlet is a Java technology based web component, managed by a container, that generates dynamic content. Like other Java-based components, servlets are platform independent Java classes that are compiled to platform neutral bytecode that can be loaded dynamically into and run by a Java enabled web server. Containers, some- times called servlet engines, are web server extensions that provide servlet function- ality. Servlets interact with web clients via a request/response paradigm implemented by the servlet container.
+		
 		Servlet是一种基于Java技术的Web组件，由容器管理，生成动态内容。 与其他基于Java的组件一样，Servlet是独立于平台的Java类，它们被编译为平台中性字节码，可以动态加载到支持Java的Web服务器并由其运行。 容器（有时称为Servlet引擎）是提供Servlet功能的Web服务器扩展。 Servlet通过Servlet容器实现的请求/响应范例与Web客户端进行交互。 
+		
 		The servlet container is a part of a web server or application server that provides the network services over which requests and responses are sent, decodes MIME based requests, and formats MIME based responses. A servlet container also contains and manages servlets through their lifecycle. 
+		
 		Servlet容器是Web服务器或应用程序服务器的一部分，它提供发送请求和响应的网络服务，解码基于MIME的请求，并格式化基于MIME的响应。 Servlet容器还包含并管理Servlet的生命周期。
 		1. [图书][Head First Servlets & Jsp](http://product.dangdang.com/20926088.html)
 		1. [图书]Java Servlet & JSP Cookbook
@@ -155,6 +158,7 @@
 		1. [视频][Servlet Java  Web 编程（郭宏志）](http://study.163.com/course/introduction/648001.htms)
 	1. JSP
 		JSP: JavaServer Pages is a technology for developing web pages that include dynamic content. Unlike a plain HTML page, which contains static content that always remains the same, a JSP page can change its content based on any number of variable items, including the identity of the user, the user's browser type, information provided by the user, and selections made by the user.
+		
 		JSP：JavaServer Pages是一种用于开发包含动态内容的网页的技术。 与包含始终保持相同的静态内容的纯HTML页面不同，JSP页面可以根据任意数量的变量项更改其内容，包括用户的身份，用户的浏览器类型，用户提供的信息以及 用户做出的选择。
 		JSP is a specification, not a product. 
 		JSP是规范，而不是产品。
