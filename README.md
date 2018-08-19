@@ -380,6 +380,7 @@
 	1. 消息
 		1. [RabbitMQ](http://www.rabbitmq.com) RabbitMQ is the most widely deployed open source message broker.(RabbitMQ是部署最广泛的开源消息代理。)
 			1. [图书][RabbitMQ实战：高效部署分布式消息队列](http://product.dangdang.com/23799313.html)
+			1. [GitHub][Tutorials for using RabbitMQ in various ways ](https://github.com/rabbitmq/rabbitmq-tutorials) 以各种方式使用RabbitMQ的教程http://www.rabbitmq.com/getstarted.html
 		1. [Kafka](http://kafka.apache.org) A distributed streaming platform.
 			1. [GitHub][Kafka Manager](https://github.com/yahoo/kafka-manager) A tool for managing Apache Kafka.
 			1. [图书][Kafka权威指南](http://product.dangdang.com/25211884.html)
