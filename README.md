@@ -469,6 +469,7 @@ Linux是Java程序员必须掌握的核心工具。
 	1. [图书][算法导论](http://product.dangdang.com/22927209.html) 算法的最好的图书之一。
 		1. [视频][麻省理工学院公开课：算法导论](http://open.163.com/special/opencourse/algorithms.html) 老头讲的非常好，年轻的一般。
 	1. [图书][算法](http://product.dangdang.com/22880871.html) Knuth的学生写的，使用Java语言描述，值得一看。
+	1. [图书][写给大家看的算法书](http://product.dangdang.com/23973878.html) 特别适合初学者学习，老手也有收获。
 	1. [网站][leetcode](https://leetcode.com) 算法题库。
 	1. [网站][lintcode](https://www.lintcode.com/problem/?tag=lintcode-copyright) 中文版leetcode。
 	1. [ACM-ICPC](https://icpc.baylor.edu)
