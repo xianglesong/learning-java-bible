@@ -319,12 +319,13 @@
 		1. [Zookeeper](https://github.com/xianglesong/learning-javas/blob/master/platform/Zookeeper.md) Zookeeper提供分布式同步功能，在今天的分布式系统中有广泛使用。(A high-performance coordination service for distributed applications.)
 			1. [Curator](http://curator.apache.org) Apache Curator is a Java/JVM client library for Apache ZooKeeper, a distributed coordination service. It includes a highlevel API framework and utilities to make using Apache ZooKeeper much easier and more reliable. It also includes recipes for common use cases and extensions such as service discovery and a Java 8 asynchronous DSL.(Apache Curator是Apache ZooKeeper的Java / JVM客户端库，Apache ZooKeeper是一种分布式协调服务。 它包括一个高级API框架和实用程序，使Apache ZooKeeper更容易，更可靠。 它还包括常见用例和扩展（如服务发现和Java 8异步DSL）的配方。)
 	1. 分布式数据库
-		1. [HBase](http://hbase.apache.org/) 建立在Hadoop上的分布式数据库。(Apache HBase™ is the Hadoop database, a distributed, scalable, big data store.)
+		1. [HBase](http://hbase.apache.org) 建立在Hadoop上的分布式数据库。(Apache HBase™ is the Hadoop database, a distributed, scalable, big data store.)
 		1. [Cassandra](http://cassandra.apache.org/) 分布式数据库(The Apache Cassandra database is the right choice when you need scalability and high availability without compromising performance.)
 	1. 工作流调度
-		1. [Oozie](http://oozie.apache.org/) Hadoop工作流调度工具。(Apache Oozie Workflow Scheduler for Hadoop.)
+		1. [Oozie](http://oozie.apache.org) Hadoop工作流调度工具。(Apache Oozie Workflow Scheduler for Hadoop.)
+	1. [Avro](https://avro.apache.org) Apache Avro™ is a data serialization system.
 	1. 性能测试
-		1. [JMeter](http://jmeter.apache.org/) The Apache JMeter™ application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance. It was originally designed for testing Web Applications but has since expanded to other test functions.(pache JMeter™应用程序是开源软件，是一种100％纯Java应用程序，旨在加载测试功能行为和测量性能。 它最初是为测试Web应用程序而设计的，但后来扩展到其他测试功能。)
+		1. [JMeter](http://jmeter.apache.org) The Apache JMeter™ application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance. It was originally designed for testing Web Applications but has since expanded to other test functions.(pache JMeter™应用程序是开源软件，是一种100％纯Java应用程序，旨在加载测试功能行为和测量性能。 它最初是为测试Web应用程序而设计的，但后来扩展到其他测试功能。)
 			1. [图书][全栈性能测试修炼宝典 JMeter实战](http://product.dangdang.com/24048538.html)
    1. 二维码
 	    1. [ZXing](https://github.com/zxing/zxing) ZXing ("Zebra Crossing") barcode scanning library for Java, Android.(ZXing（“Zebra Crossing”）用于Java，Android的条形码扫描库。)
