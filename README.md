@@ -814,15 +814,17 @@ POSIX.1-2017 is simultaneously IEEE Std 1003.1™-2017 and The Open Group Techni
 		1. [Nutch](http://nutch.apache.org) 研究过代码，学习Hadoop和搜索引擎的可以看看。
 		1. [Netty](https://netty.io) 看过DEMO，没仔细研究过。
 		1. [Linux](https://www.linux.org) 我的终结结论就是一句话，就是一切都是逻辑。
-	2. 论文
+	1. 豆瓣
+		1. [我的豆瓣1](https://www.douban.com/people/rulinma/)
+	1. 论文
 		1. [一种哈希表快速查找的改进方法](http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=jsjgcykx200809021)
-		2. [基于贝叶斯方法和信息指纹的博客评论过滤](http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=jsjgcyyy200824048)
-	3. 项目
+		1. [基于贝叶斯方法和信息指纹的博客评论过滤](http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=jsjgcyyy200824048)
+	1. 项目
 		1. GitHub地址：[https://github.com/xianglesong](https://github.com/xianglesong) 
-	4. 视频
+	1. 视频
 		1. [享乐颂网易云课堂课程](http://study.163.com/provider/825396/course.htm)
 		1. [Java宝典--实战及解析[推荐]](http://study.163.com/course/courseMain.htm?courseId=1005801006) 本文配套更新视频讲解及资料等。
-
+	
 1. ### 特别推荐
 	1. #### `享乐颂官方网站 ` [http://www.xianglesong.com](http://www.xianglesong.com)
 		1. 学习是一种习惯。
