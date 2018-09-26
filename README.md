@@ -831,6 +831,7 @@ POSIX.1-2017 is simultaneously IEEE Std 1003.1™-2017 and The Open Group Techni
 		
 	1. #### `QQ群:` 557373922(申请加入，请告诉我从哪里看到的，谢谢！)
 	   1. 联系 rulinma#qq.com 替换#为@
+	   2. ![QQ群](https://github.com/xianglesong/learning-java-bible/blob/master/images/qqqun.jpeg)
 1. ### 贡献
 	1. 欢迎大家Fork、Star和贡献。 
 
