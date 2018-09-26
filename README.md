@@ -550,7 +550,7 @@ Linux是Java程序员必须掌握的核心工具。
 	1. 设计模式
 		1. [文章][reactor](http://www.dre.vanderbilt.edu/~schmidt/PDF/reactor-siemens.pdf) reactor模式的鼻祖。
 	1. UML
-		1. [网站](http://www.uml.org)
+		1. [网站][UML官网](http://www.uml.org)
 		1. [文章][Java UML 继承/泛化、实现、依赖、关联、聚合、组合的联系与区别](https://www.cnblogs.com/scevecn/p/5663369.html)
 1. ### CPU
 	1. [文章][CISC模型微处理器设计（VHDL实现）](https://blog.csdn.net/longronglin/article/details/1055388) 
