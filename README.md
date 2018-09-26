@@ -38,6 +38,7 @@
 	1. [软件工程](#user-content-软件工程)
 	1. [CPU](#user-content-cpu)
 	1. [汇编语言](#user-content-汇编语言)
+	1. [密码学](#user-content-密码学)
 	1. [数据仓库及数据挖掘](#user-content-数据仓库及数据挖掘)
 	1. [机器学习及人工智能](#user-content-机器学习及人工智能)
 	1. [图灵奖](#user-content-图灵奖)
@@ -50,6 +51,7 @@
 	1. [自动化测试及运维](#user-content-自动化测试及运维)
 	1. [网络安全](#user-content-网络安全)
 	1. [云平台](#user-content-云平台)
+	1. [区块链](#user-content-区块链)
 	1. [精华文档](#user-content-精华文档)
 	1. [标准规范](#user-content-标准规范)
 	1. [API](#user-content-api)
@@ -85,6 +87,8 @@
 	1. [图书][深入理解Java虚拟机：JVM高级特性与最佳实践](http://product.dangdang.com/23259731.html)
 	1. [图书][Java并发](https://github.com/xianglesong/learning-javas/blob/master/basic/Java并发.md) Java并发包的使用是中高级程序员必须掌握的技能之一。
 	1. [图书][Java网络编程](http://product.dangdang.com/23560594.html)
+	1. [图书][Java程序员面试笔试宝典](http://product.dangdang.com/23573622.html)
+	1. [图书][自己动手写Java虚拟机](http://product.dangdang.com/23965877.html)
 	1. [GitHub][Modern Java - A Guide to Java 8(现代Java - Java指南8)](https://github.com/winterbe/java8-tutorial)
 	1. 面向对象软件设计
 		1. [图书][设计模式 可复用面向对象软件的基础](http://product.dangdang.com/71052.html)
@@ -245,7 +249,8 @@
 		3. [Logback](https://logback.qos.ch)
 		4. [Common-Logging](http://commons.apache.org/proper/commons-logging)
 	1. 缓存
-		1. [EHCache](http://www.ehcache.org/)
+		1. [EHCache](http://www.ehcache.org)
+		2. [图书][深入分布式缓存：从原理到实践](http://product.dangdang.com/25206694.html)
 	1. IOC
 		1. [Guice](https://github.com/google/guice) Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 6 and above, brought to you by Google.(Guice（发音为'juice'）是Google为您带来的Java 6及更高版本的轻量级依赖注入框架。)
 	1. AOP
@@ -386,6 +391,7 @@
 			1. [GitHub][Kafka Manager](https://github.com/yahoo/kafka-manager) A tool for managing Apache Kafka.
 			1. [图书][Kafka权威指南](http://product.dangdang.com/25211884.html)
 			1. [文章][kafka入门：简介、使用场景、设计原理、主要配置及集群搭建（转）](https://www.cnblogs.com/likehua/p/3999538.html)
+			1. [文章][Kafka史上最详细原理总结](http://www.thinkyixia.com/2017/10/25/kafka-2/)
 	1. 代理、反向代理
 		1. [Nginx](http://nginx.org) Nginx [engine x] is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server, originally written by Igor Sysoev.(Nginx [engine x]是一个HTTP和反向代理服务器，一个邮件代理服务器和一个通用的TCP / UDP代理服务器，最初由Igor Sysoev编写。)
 		1. [HAProxy](http://www.haproxy.org) 
@@ -410,7 +416,10 @@ Kubernetes is an open-source system for automating deployment, scaling, and mana
 	1. Trace
 		1. [BTrace](https://github.com/btraceio/btrace) BTrace - a safe, dynamic tracing tool for the Java platform.(BTrace - Java平台的安全动态跟踪工具。)
 			1. [文章][BTrace][Java在线问题排查利器之Btrace&Greys](http://tech.lede.com/2017/10/11/rd/server/javaToolsBTrace/)
-			
+	1. [JSON Web Token](https://jwt.io) JWT.IO allows you to decode, verify and generate JWT.
+	1. [OAuth](https://github.com/spring-projects/spring-security-oauth) Support for adding OAuth1(a) and OAuth2 features (consumer and provider) for Spring web applications. 更多内容参考https://oauth.net/2/
+	1. [Easyrec](http://easyrec.org) 开源的推荐系统，整个系统Java代码编写，可以直接拿来使用，个人认为适合中小型企业使用。
+	 
 ## Linux
 Linux是Java程序员必须掌握的核心工具。
 
@@ -527,9 +536,10 @@ Linux是Java程序员必须掌握的核心工具。
 	1. [图书][图解TCP/IP](http://product.dangdang.com/23265967.html)
 	1. [图书][图解HTTP](http://product.dangdang.com/23462067.html)
 	1. [视频][计算机网络技术与应用](http://study.163.com/course/courseMain.htm?courseId=1255007)
-	2. [文章][从输入 URL 到页面加载完成的过程中都发生了什么事情？](http://fex.baidu.com/blog/2014/05/what-happen)
-	3. [考证][CCNA学习指南](http://product.dangdang.com/22630120.html)
-	4. [网站][鸿鹄论坛](http://bbs.hh010.com) 鸿鹄论坛，国内专业的思科华为微软网络工程师技术社区。
+	1. [文章][从输入 URL 到页面加载完成的过程中都发生了什么事情？](http://fex.baidu.com/blog/2014/05/what-happen)
+	1. [考证][CCNA学习指南](http://product.dangdang.com/22630120.html)
+	1. [网站][鸿鹄论坛](http://bbs.hh010.com) 鸿鹄论坛，国内专业的思科华为微软网络工程师技术社区。
+	1. [文章][网络数据包转发过程](https://blog.csdn.net/hanbo622/article/details/39694149)
 1. ### 软件工程
 	1. [图书][软件工程](http://product.dangdang.com/25231549.html)
 	1. [图书][代码大全](http://product.dangdang.com/22543344.html)
@@ -537,6 +547,11 @@ Linux是Java程序员必须掌握的核心工具。
 	1. [图书][敏捷软件开发(原则模式与实践)](http://product.dangdang.com/8771440.html)
 	1. [图书][重构](http://product.dangdang.com/23734636.html)
 	1. [图书][软件测试](http://product.dangdang.com/9159972.html)
+	1. 设计模式
+		1. [文章][reactor](http://www.dre.vanderbilt.edu/~schmidt/PDF/reactor-siemens.pdf) reactor模式的鼻祖。
+	1. UML
+		1. [网站](http://www.uml.org)
+		1. [文章][Java UML 继承/泛化、实现、依赖、关联、聚合、组合的联系与区别](https://www.cnblogs.com/scevecn/p/5663369.html)
 1. ### CPU
 	1. [文章][CISC模型微处理器设计（VHDL实现）](https://blog.csdn.net/longronglin/article/details/1055388) 
 1. ### 汇编语言
@@ -544,7 +559,8 @@ Linux是Java程序员必须掌握的核心工具。
 	1. [资料]Intel Architecture Software Developer's Manual Volume1: Basic Architecture
 	1. [资料]Intel Architecture Software Developer's Manual Volume2:Instructions Set Reference 
 	1. [资料]Intel Architecture Software Developer's Manual Volume3:System Programming Guide
-
+1. ### 密码学
+	1. [图书][图解密码技术](http://product.dangdang.com/23995420.html) 强热推荐，图解系列都值得阅读。
 1. ### 数据仓库及数据挖掘
 	1. [图书][数据仓库](http://product.dangdang.com/9200409.html)
 	1. ETL
@@ -567,6 +583,7 @@ Linux是Java程序员必须掌握的核心工具。
 	1. [图书][推荐系统实践](http://product.dangdang.com/22775361.html)
 	1. [图书][深度学习](http://product.dangdang.com/25111382.html)
 	1. [GitHub][List of Recommender Systems](https://github.com/grahamjenson/list_of_recommender_systems)
+
 1. ### 图灵奖
 	1. 图灵：计算机之父。艾伦·麦席森·图灵（Alan Mathison Turing，1912年6月23日－1954年6月7日），英国数学家、逻辑学家，被称为计算机之父，人工智能之父。
 	1. [历届图灵奖得主及贡献](https://amturing.acm.org)
@@ -591,7 +608,7 @@ Linux是Java程序员必须掌握的核心工具。
 		1. Bigtabel: A Distributed Storage System for Struchured Data 
 
 1. ### 会议(Meeting)
-	1. 自然语言处理
+	1. [文本检索会议](https://trec.nist.gov)
 
 ## 综合
 1. ### 考试认证
@@ -629,6 +646,8 @@ Linux是Java程序员必须掌握的核心工具。
 	1. [AWS](https://aws.amazon.com)
 	1. [搬瓦工](http://banwagong.cn)
 	1. [七牛](https://www.qiniu.com)
+1. ### 区块链
+	1. [文章][区块链入门教程](http://www.ruanyifeng.com/blog/2017/12/blockchain-tutorial.html)
 1. ### 精华文档
 	1. 缓存
 		1. [缓存那些事](https://tech.meituan.com/cache_about.html)
@@ -675,8 +694,13 @@ Linux是Java程序员必须掌握的核心工具。
    1. [LaTeX](https://www.latex-project.org) LaTeX is a high-quality typesetting system.
    1. [Postman](https://www.getpostman.com) Postman is the only complete API development environment, for API developers.
 1. ### 第三方工具
+	1. [百度地图](http://lbsyun.baidu.com)
+	1. [高德地图](https://lbs.amap.com)
 	1. [友盟](https://www.umeng.com) 第三方全域大数据服务提供商，为客户提供PC/APP/线下统计，广告效果监测，消息推送/微社区/分享/IM等运营工具，DIP，全域指数与行业报告等。
-	2. [极光](https://www.jiguang.cn) 第三方消息推送服务。
+	1. [极光](https://www.jiguang.cn) 第三方消息推送服务。
+	1. [淘宝IP地址库](http://ip.taobao.com/index.html) 淘宝IP地址库，提供REST API访问。
+	1. [IP地址库](https://www.ipip.net/ip.html) 基于各电信运营商以及网络服务的 BGP/ASN 数据而分析处理而得来的IP库。
+
 1. ### 推荐GitHub
 	1. [https://github.com/akullpp/awesome-java](https://github.com/akullpp/awesome-java)  A curated list of awesome frameworks, libraries and software for the Java programming language.
 	1. [https://github.com/jobbole/awesome-java-cn](https://github.com/jobbole/awesome-java-cn)  Java资源大全中文版。 
@@ -687,7 +711,8 @@ Linux是Java程序员必须掌握的核心工具。
 	1. [https://github.com/iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns)  Design patterns implemented in Java [http://java-design-patterns.com](http://java-design-patterns.com).
 	1. [spring-boot](https://github.com/spring-projects/spring-boot)
 	1. [dubbo](https://github.com/apache/incubator-dubbo)  Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework.
-	1. [interviews](https://github.com/kdn251/interviews)  Everything you need to know to get the job.
+	1. [interviews](https://github.com/kdn251/interviews) Everything you need to know to get the job.
+	1. [Computer Science Learning Notes](https://github.com/CyC2018/CS-Notes) 
 1. ### 微信公众号
 	1. 神秘的程序员们
 1. ### 其他语言
@@ -761,12 +786,15 @@ Linux是Java程序员必须掌握的核心工具。
 		1. [图书][用户体验要素：以用户为中心的产品设计](http://product.dangdang.com/21110580.html)
 		1. [图书][设计之下——搜狐新闻客户端的用户体验设计（全彩）](http://product.dangdang.com/23409934.html)
 		1. [图书][数学之美](http://product.dangdang.com/23594870.html)
+		1. [图书][码农翻身](http://product.dangdang.com/25276414.html)
 	1. 其他
 		1. [GNU](https://www.gnu.org/home.en.html)
 		1. [Stack Overflow.com](https://stackoverflow.com) 问答网。
 		1. [在线JSON校验格式化工具bejson](http://www.bejson.com)
 		1. [GitHub][成为一名专业程序员](https://github.com/stanzhai/be-a-professional-programmer) 成为专业程序员路上用到的各种优秀资料、神器及框架。
-	
+		1. [文章][Socket Tutorial](https://www.scottklement.com/rpg/socktut/tutorial.html)
+		1. [POSIX](http://pubs.opengroup.org/onlinepubs/9699919799/nframe.html) 
+POSIX.1-2017 is simultaneously IEEE Std 1003.1™-2017 and The Open Group Technical Standard Base Specifications, Issue 7.
 ## 关于我们
 
 1. ### 我的源码阅读、论文、项目及视频（仅供参考）
