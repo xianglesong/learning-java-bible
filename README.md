@@ -27,6 +27,7 @@
 	1. [Linux命令](#user-content-linux命令)
 	1. [Shell](#user-content-shell)
 	1. [Vim](#user-content-vim)
+	1. [Linux工具](#user-content-Linux工具)
 	1. [Linux源码](#user-content-linux源码)
 1. [计算机基础知识](#user-content-计算机基础知识)
 	1. [编程语言](#user-content-编程语言)
@@ -52,7 +53,9 @@
 	1. [网络安全](#user-content-网络安全)
 	1. [云平台](#user-content-云平台)
 	1. [区块链](#user-content-区块链)
+	1. [精华网站](#user-content-精华网站)
 	1. [精华文档](#user-content-精华文档)
+	1. [精华图书](#user-content-精华图书)
 	1. [标准规范](#user-content-标准规范)
 	1. [API](#user-content-api)
 	1. [RESTful API](#user-content-restful-api)
@@ -60,7 +63,7 @@
 	1. [第三方工具](#user-content-第三方工具)
 	1. [推荐GitHub](#user-content-推荐github)
 	1. [微信公众号](#user-content-微信公众号)
-	1. [其他语言](#user-content-其他语言)
+	1. [其他编程语言](#user-content-其他编程语言)
 	1. [面试](#user-content-面试)
 	1. [项目管理](#user-content-项目管理)
 	1. [产品](#user-content-产品)
@@ -416,8 +419,13 @@ Kubernetes is an open-source system for automating deployment, scaling, and mana
 	1. Trace
 		1. [BTrace](https://github.com/btraceio/btrace) BTrace - a safe, dynamic tracing tool for the Java platform.(BTrace - Java平台的安全动态跟踪工具。)
 			1. [文章][BTrace][Java在线问题排查利器之Btrace&Greys](http://tech.lede.com/2017/10/11/rd/server/javaToolsBTrace/)
+	1. [OAuth](https://github.com/spring-projects/spring-security-oauth) Support for adding OAuth1(a) and OAuth2 features (consumer and provider) for Spring web applications. 更多内容参考https://oauth.net/2/。
+		1. [The OAuth 2.0 Authorization Framework](https://tools.ietf.org/html/rfc6749)
+			1. [OAuth 2.0授权框架简体中文翻译](https://github.com/jeansfish/RFC6749.zh-cn)
+		1. [rest-oauth2-sample](https://github.com/rcandidosilva/rest-oauth2-sample)
 	1. [JSON Web Token](https://jwt.io) JWT.IO allows you to decode, verify and generate JWT.
-	1. [OAuth](https://github.com/spring-projects/spring-security-oauth) Support for adding OAuth1(a) and OAuth2 features (consumer and provider) for Spring web applications. 更多内容参考https://oauth.net/2/
+		1. [github][Java JWT](https://github.com/jwtk/jjwt) Java JWT: JSON Web Token for Java and Android.
+		1. [github][jwt-spring-security-demo](https://github.com/szerhusenBC/jwt-spring-security-demo) A small demo for using JWT (Json Web Token) with Spring Security and Spring Boot 2.
 	1. [Easyrec](http://easyrec.org) 开源的推荐系统，整个系统Java代码编写，可以直接拿来使用，个人认为适合中小型企业使用。
 	 
 ## Linux
@@ -443,6 +451,8 @@ Linux是Java程序员必须掌握的核心工具。
 		1. $输入$vimtutor en可以进入自带教程，好好学习，天天向上。
 		1. [http://www.linfo.org/vi/index.html](http://www.linfo.org/vi/index.html)
 		1. Emacs和VIM：神的编辑器和编辑器之神。
+1. ### Linux工具
+	1. [Wget](https://www.gnu.org/software/wget/)
 1. ### Linux编程
 	1. Linux源码
 		1. [图书]莱昂氏UNIX源代码分析
@@ -634,9 +644,9 @@ Linux是Java程序员必须掌握的核心工具。
 		1. [网宿科技](http://www.wangsu.com)
 	1. [JumpServer](http://www.jumpserver.org/) 是全球首款完全开源的堡垒机,使用GNU GPL v2.0开源协议,是符合 4A 的专业运维安全审计系统。
 	1. [图书][海量运维、运营规划之道](http://product.dangdang.com/23380755.html)
-	1. [图书][网站运维技术与实践]
+	1. [图书][网站运维技术与实践](http://product.dangdang.com/23442793.html)
 	1. Zabbix
-		1. [图书][Zabbix监控系统]
+		1. [图书][Zabbix监控系统](http://product.dangdang.com/24017479.html)
 1. ### 网络安全
 	1. [图书][白帽子讲Web安全](http://product.dangdang.com/23506094.html)
 1. ### 云平台
@@ -648,13 +658,62 @@ Linux是Java程序员必须掌握的核心工具。
 	1. [七牛](https://www.qiniu.com)
 1. ### 区块链
 	1. [文章][区块链入门教程](http://www.ruanyifeng.com/blog/2017/12/blockchain-tutorial.html)
+1. ### 精华网站
+	1. 综合
+		1. [CSDN](http://www.csdn.net) 中国最大的程序员网站。
+		1. [InfoQ](http://www.infoq.com) 架构师网站。
+		1. [ChinaUnix](http://www.chinaunix.net) 中国最大的Linux/Unix技术社区网站。
+		1. [博客园](https://www.cnblogs.com) 博客园是一个面向开发者的知识分享社区。
+		1. [http://www.iteye.com](http://www.iteye.com)
+		1. [GNU](https://www.gnu.org/home.en.html)
+    	1. [Stack Overflow.com](https://stackoverflow.com) 问答网。
+    1. 工具
+    	1. [在线JSON校验格式化工具bejson](http://www.bejson.com)
+	1. 资料
+		1. [Slideshare](https://www.slideshare.net) 技术ppt下载。
+	1. 技术博客
+		1. [阿里中间件团队博客](http://jm.taobao.org)
+		1. [美团技术团队](https://tech.meituan.com)
+		1. [网易乐得技术团队](http://tech.lede.com)
+	1. 视频
+		1. [极客学院](http://www.jikexueyuan.com)
+		1. [网易云课堂](http://study.163.com)
+		1. [YouTube](http://youtube.com)
+		1. [吴恩达机器学习](http://study.163.com/course/introduction/1004570029.htm)
+       1. [传智播客](http://www.itcast.cn)
+		1. [网易公开课的可汗学院](https://open.163.com/khan) Khan讲的太好，牛人，佩服。
+	1. QCon会议
+		1. [QCon上海2016幻灯片](https://github.com/QConChina/QConShanghai2016)
+	1. 源码学习
+		1. [Github](https://github.com) 全球最大的程序员交友网，也说全球最大的同性交友网站^-^。
+		1. [Maven仓库](https://mvnrepository.com) 方便查找库应用。
+		1. [Apache](http://apache.org) 很多著名的开源项目在里面，比如Tomcat Hadoop Maven等。
+		1. [SourceForge](http://www.sourceforge.net) 很多开源库也放在这里，特别是没有github之前。
+	1. 翻译
+		1. [Google翻译](https://translate.google.cn)
+		1. [有道](http://youdao.com)
 1. ### 精华文档
 	1. 缓存
-		1. [缓存那些事](https://tech.meituan.com/cache_about.html)
+		1. [文章][缓存那些事](https://tech.meituan.com/cache_about.html)
+	1. Socket
+		1. [文章][Socket Tutorial](https://www.scottklement.com/rpg/socktut/tutorial.html)
+1. ### 精华图书
+	1. [图书][决战618：探秘京东技术取胜之道（全彩）](http://product.dangdang.com/25173863.html)
+	1. [图书][黑客与画家](http://product.dangdang.com/21049598.html)
+	1. 	[图书][SEO实战密码——60天网站流量提高20倍](http://product.dangdang.com/23738363.html)
+	1. [图书][点石成金](http://product.dangdang.com/23611791.html)
+	1. [图书][用户体验要素：以用户为中心的产品设计](http://product.dangdang.com/21110580.html)
+	1. [图书][设计之下——搜狐新闻客户端的用户体验设计（全彩）](http://product.dangdang.com/23409934.html)
+	1. [图书][数学之美](http://product.dangdang.com/23594870.html)
+	1. [图书][码农翻身](http://product.dangdang.com/25276414.html)
 1. ### 标准规范
 	1. [HTML](https://www.w3.org/TR/html)
 	1. [CSS](https://www.w3.org/TR/CSS/)
 	1. [Hypertext Transfer Protocol -- HTTP/1.1](https://www.w3.org/Protocols/rfc2616/rfc2616.html)
+	1. [POSIX](http://pubs.opengroup.org/onlinepubs/9699919799/nframe.html) 
+POSIX.1-2017 is simultaneously IEEE Std 1003.1™-2017 and The Open Group Technical Standard Base Specifications, Issue 7.
+   1. [The Base16, Base32, and Base64 Data Encodings](https://tools.ietf.org/html/rfc4648)
+   1. [URL Decode and Encode](https://www.urlencoder.org)
 1. ### API
 	1. [Google API Design Guide](https://cloud.google.com/apis/design)
 	2. [GitHub][HTTP API Design Guide](https://github.com/interagent/http-api-design)
@@ -664,6 +723,7 @@ Linux是Java程序员必须掌握的核心工具。
 1. ### Mac工具
    1. [Alfred](https://www.alfredapp.com) Alfred is a productivity application for Mac OS X.
    1. [iTerm2](https://www.iterm2.com) iTerm2 is a replacement for Terminal and the successor to iTerm.
+   1. [Royal TSX](https://www.royalapplications.com/ts) Comprehensive Remote Management Solution.
    1. [Chrome](https://www.google.cn/chrome) 浏览器。
    1. [搜狗输入法](https://pinyin.sogou.com/mac) 输入法。
    1. [Foxmail](https://www.foxmail.com) 邮箱管理。 
@@ -713,9 +773,10 @@ Linux是Java程序员必须掌握的核心工具。
 	1. [dubbo](https://github.com/apache/incubator-dubbo)  Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework.
 	1. [interviews](https://github.com/kdn251/interviews) Everything you need to know to get the job.
 	1. [Computer Science Learning Notes](https://github.com/CyC2018/CS-Notes) 
+	1. [成为一名专业程序员](https://github.com/stanzhai/be-a-professional-programmer) 成为专业程序员路上用到的各种优秀资料、神器及框架。
 1. ### 微信公众号
 	1. 神秘的程序员们
-1. ### 其他语言
+1. ### 其他编程语言
 	1. Python
 		1. [图书][Python基础教程](http://product.dangdang.com/25218035.html)
 	1. Android
@@ -744,57 +805,10 @@ Linux是Java程序员必须掌握的核心工具。
 	1. [Axure](https://www.axure.com)
 	1. 	[人人都是产品经理](http://www.woshipm.com)
 1. ### 其他
-	1. 源码学习
-		1. [Github](https://github.com) 全球最大的程序员交友网，也说全球最大的同性交友网站^-^。
-		1. [Maven仓库](https://mvnrepository.com) 方便查找库应用。
-		1. [Apache](http://apache.org) 很多著名的开源项目在里面，比如Tomcat Hadoop Maven等。
-		1. [SourceForge](http://www.sourceforge.net) 很多开源库也放在这里，特别是没有github之前。
-	1. 规范
-		1. [W3C](https://www.w3.org)	
-	1. 综合
-		1. [CSDN](http://www.csdn.net) 中国最大的程序员网站。
-		1. [InfoQ](http://www.infoq.com) 架构师网站。
-		1. [ChinaUnix](http://www.chinaunix.net) 中国最大的Linux/Unix技术社区网站。
-		1. [博客园](https://www.cnblogs.com) 博客园是一个面向开发者的知识分享社区。
-		1. [http://www.iteye.com](http://www.iteye.com)
-	1. 资料
-		1. [Slideshare](https://www.slideshare.net) 技术ppt下载。
-	1. 技术博客
-		1. [阿里中间件团队博客](http://jm.taobao.org)
-		1. [美团技术团队](https://tech.meituan.com)
-		1. [网易乐得技术团队](http://tech.lede.com)
-	1. 视频
-		1. [极客学院](http://www.jikexueyuan.com)
-		1. [网易云课堂](http://study.163.com)
-		1. [YouTube](http://youtube.com)
-		1. [吴恩达机器学习](http://study.163.com/course/introduction/1004570029.htm)
-       1. [传智播客](http://www.itcast.cn)
-		1. [网易公开课的可汗学院](https://open.163.com/khan) Khan讲的太好，牛人，佩服。
-	1. QCon
-		1. [QCon上海2016幻灯片](https://github.com/QConChina/QConShanghai2016)
-	1. 翻译
-		1. [Google翻译](https://translate.google.cn)
-		1. [有道](http://youdao.com)
 	1. 名人
 		1. 李刚 我是买过[疯狂Android讲义](http://product.dangdang.com/23699102.html) 感觉挺适合新手入门的，推荐一下。
 		1. 马士兵 我看过其Java视频，讲的不错，推荐一下。
-	1. 图书
-		1. [图书][决战618：探秘京东技术取胜之道（全彩）](http://product.dangdang.com/25173863.html)
-		1. [图书][黑客与画家](http://product.dangdang.com/21049598.html)
-		1. 	[图书][SEO实战密码——60天网站流量提高20倍](http://product.dangdang.com/23738363.html)
-		1. [图书][点石成金](http://product.dangdang.com/23611791.html)
-		1. [图书][用户体验要素：以用户为中心的产品设计](http://product.dangdang.com/21110580.html)
-		1. [图书][设计之下——搜狐新闻客户端的用户体验设计（全彩）](http://product.dangdang.com/23409934.html)
-		1. [图书][数学之美](http://product.dangdang.com/23594870.html)
-		1. [图书][码农翻身](http://product.dangdang.com/25276414.html)
-	1. 其他
-		1. [GNU](https://www.gnu.org/home.en.html)
-		1. [Stack Overflow.com](https://stackoverflow.com) 问答网。
-		1. [在线JSON校验格式化工具bejson](http://www.bejson.com)
-		1. [GitHub][成为一名专业程序员](https://github.com/stanzhai/be-a-professional-programmer) 成为专业程序员路上用到的各种优秀资料、神器及框架。
-		1. [文章][Socket Tutorial](https://www.scottklement.com/rpg/socktut/tutorial.html)
-		1. [POSIX](http://pubs.opengroup.org/onlinepubs/9699919799/nframe.html) 
-POSIX.1-2017 is simultaneously IEEE Std 1003.1™-2017 and The Open Group Technical Standard Base Specifications, Issue 7.
+
 ## 关于我们
 
 1. ### 我的源码阅读、论文、项目及视频（仅供参考）
@@ -815,7 +829,7 @@ POSIX.1-2017 is simultaneously IEEE Std 1003.1™-2017 and The Open Group Techni
 		1. [Netty](https://netty.io) 看过DEMO，没仔细研究过。
 		1. [Linux](https://www.linux.org) 我的终结结论就是一句话，就是一切都是逻辑。
 	1. 豆瓣
-		1. [我的豆瓣1](https://www.douban.com/people/rulinma/)
+		1. [我的豆瓣](https://www.douban.com/people/rulinma/)
 	1. 论文
 		1. [一种哈希表快速查找的改进方法](http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=jsjgcykx200809021)
 		1. [基于贝叶斯方法和信息指纹的博客评论过滤](http://www.wanfangdata.com.cn/details/detail.do?_type=perio&id=jsjgcyyy200824048)
@@ -833,7 +847,7 @@ POSIX.1-2017 is simultaneously IEEE Std 1003.1™-2017 and The Open Group Techni
 		
 	1. #### `QQ群:` 557373922(申请加入，请告诉我从哪里看到的，谢谢！)
 	   1. 联系 rulinma#qq.com 替换#为@
-	   2. ![QQ群](https://github.com/xianglesong/learning-java-bible/blob/master/images/qqqun.jpeg)
+	   2. ![QQ群二维码图](https://github.com/xianglesong/learning-java-bible/blob/master/images/qqqun.jpeg)
 1. ### 贡献
 	1. 欢迎大家Fork、Star和贡献。 
 
