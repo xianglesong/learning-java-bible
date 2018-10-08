@@ -427,7 +427,9 @@ Kubernetes is an open-source system for automating deployment, scaling, and mana
 		1. [github][Java JWT](https://github.com/jwtk/jjwt) Java JWT: JSON Web Token for Java and Android.
 		1. [github][jwt-spring-security-demo](https://github.com/szerhusenBC/jwt-spring-security-demo) A small demo for using JWT (Json Web Token) with Spring Security and Spring Boot 2.
 	1. [Easyrec](http://easyrec.org) 开源的推荐系统，整个系统Java代码编写，可以直接拿来使用，个人认为适合中小型企业使用。
-	 
+	1. [jBPM](https://www.jbpm.org) jBPM is a toolkit for building business applications to help automate business processes and decisions.
+	1. [Drools](https://www.drools.org) Drools is a Business Rules Management System (BRMS) solution. It provides a core Business Rules Engine (BRE), a web authoring and rules management application (Drools Workbench), full runtime support for Decision Model and Notation (DMN) models at Conformance level 3 and an Eclipse IDE plugin for core development.
+
 ## Linux
 Linux是Java程序员必须掌握的核心工具。
 
